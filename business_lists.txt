@@ -1,0 +1,4 @@
+regions = ["North", "South", "East", "West", "Central"]
+customer_types = ["Retail", "Wholesale", "Government", "Education", "Nonprofit"]
+product_categories = ["Office Supplies", "Technology", "Furniture", "Maintenance", "Food Service"]
+sales_channels = ["Online", "In Person", "Phone", "Partner"]

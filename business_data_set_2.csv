@@ -1,0 +1,2501 @@
+TransactionID,Region,CustomerType,ProductCategory,SalesChannel,UnitsSold,UnitPrice,DiscountApplied,PurchaseTotal,RiskFlag
+200001,West,Retail,Technology,Online,88,581.09,Yes,41420.1,High
+200002,East,Government,Furniture,Online,53,1932.86,Yes,89124.17,High
+200003,West,Wholesale,Furniture,Phone,16,2043.04,No,32688.64,High
+200004,Central,Education,Maintenance,Partner,83,586.67,No,48693.61,High
+200005,West,Government,Office Supplies,In Person,23,281.75,Yes,6026.63,Medium
+200006,South,Retail,Furniture,In Person,3,672.56,Yes,1876.44,Medium
+200007,West,Government,Technology,In Person,52,1975.88,Yes,91443.73,High
+200008,South,Nonprofit,Maintenance,Phone,44,1565.42,Yes,53725.21,High
+200009,Central,Wholesale,Office Supplies,In Person,36,871.71,No,31381.56,High
+200010,West,Government,Maintenance,Partner,71,577.92,Yes,33236.18,High
+200011,West,Education,Maintenance,Online,74,1472.53,No,108967.22,High
+200012,South,Education,Technology,Partner,60,866.74,Yes,46803.96,High
+200013,West,Retail,Technology,Partner,80,1366.47,No,109317.6,High
+200014,West,Retail,Maintenance,Partner,78,562.65,No,43886.7,High
+200015,East,Wholesale,Food Service,In Person,78,185.02,No,14431.56,High
+200016,Central,Nonprofit,Maintenance,Phone,25,845.44,Yes,18599.68,High
+200017,East,Education,Maintenance,Phone,57,1455.63,Yes,77992.66,High
+200018,West,Nonprofit,Technology,Phone,93,895.66,No,83296.38,High
+200019,Central,Education,Technology,Online,47,1515.7,No,71237.9,High
+200020,Central,Government,Food Service,Online,30,123.51,Yes,2778.98,Medium
+200021,South,Government,Office Supplies,In Person,74,1125.56,Yes,78293.95,High
+200022,South,Wholesale,Maintenance,Phone,87,2329.29,No,202648.23,High
+200023,East,Government,Office Supplies,Online,67,2399.68,No,160778.56,High
+200024,Central,Nonprofit,Maintenance,Online,80,471.24,Yes,31667.33,High
+200025,South,Nonprofit,Technology,In Person,97,500.85,Yes,44695.85,High
+200026,Central,Nonprofit,Furniture,Online,57,1887.02,Yes,81745.71,High
+200027,East,Wholesale,Furniture,In Person,72,1706.7,Yes,93390.62,High
+200028,Central,Education,Office Supplies,Phone,68,2419.79,Yes,126700.2,High
+200029,East,Education,Food Service,In Person,13,226.07,Yes,2233.57,Medium
+200030,East,Nonprofit,Office Supplies,Partner,31,1353.18,No,41948.58,High
+200031,West,Wholesale,Maintenance,In Person,15,604.71,No,9070.65,Medium
+200032,West,Nonprofit,Furniture,Partner,22,1029.72,Yes,18576.15,High
+200033,West,Nonprofit,Technology,In Person,67,1418.48,Yes,83633.58,High
+200034,West,Wholesale,Technology,In Person,79,1866.35,No,147441.65,High
+200035,North,Government,Food Service,Phone,74,907.39,Yes,57074.83,High
+200036,Central,Wholesale,Food Service,Phone,34,2331.57,Yes,66589.64,High
+200037,South,Government,Technology,Online,89,251.82,No,22411.98,High
+200038,South,Nonprofit,Office Supplies,Partner,18,49.82,No,896.76,Low
+200039,East,Government,Maintenance,In Person,25,430.3,No,10757.5,High
+200040,North,Education,Technology,Partner,64,2292.06,Yes,132022.66,High
+200041,South,Retail,Furniture,In Person,36,1639.79,No,59032.44,High
+200042,East,Education,Office Supplies,In Person,18,2099.77,Yes,30614.65,High
+200043,East,Nonprofit,Technology,In Person,12,873.38,No,10480.56,High
+200044,North,Wholesale,Technology,In Person,82,2197.13,Yes,153139.96,High
+200045,North,Government,Technology,In Person,18,175.96,Yes,2660.52,Medium
+200046,South,Education,Food Service,Phone,85,1459.27,No,124037.95,High
+200047,Central,Government,Furniture,Online,19,458.11,No,8704.09,Medium
+200048,Central,Education,Food Service,Partner,28,1393.8,Yes,33952.97,High
+200049,South,Wholesale,Technology,Phone,98,715.41,Yes,66604.67,High
+200050,West,Education,Furniture,Partner,86,1562.5,Yes,107500.0,High
+200051,East,Wholesale,Technology,Online,18,788.27,No,14188.86,High
+200052,Central,Education,Office Supplies,Online,28,2125.0,No,59500.0,High
+200053,Central,Wholesale,Furniture,Phone,14,1413.92,Yes,15637.96,High
+200054,West,Government,Technology,Partner,22,1136.55,No,25004.1,High
+200055,East,Wholesale,Maintenance,Online,85,436.36,No,37090.6,High
+200056,Central,Education,Office Supplies,In Person,58,20.22,Yes,1090.67,Medium
+200057,Central,Education,Furniture,Partner,11,2217.78,Yes,21468.11,High
+200058,West,Retail,Technology,Partner,69,637.44,Yes,38705.36,High
+200059,East,Education,Furniture,Partner,89,2075.46,No,184715.94,High
+200060,West,Education,Furniture,In Person,11,1752.56,No,19278.16,High
+200061,Central,Wholesale,Food Service,In Person,1,1773.84,No,1773.84,Medium
+200062,East,Education,Maintenance,Phone,25,202.97,Yes,4820.54,Medium
+200063,East,Government,Office Supplies,Online,5,841.89,Yes,3325.47,Medium
+200064,Central,Nonprofit,Maintenance,Partner,57,2458.58,No,140139.06,High
+200065,South,Nonprofit,Furniture,Partner,40,2467.34,No,98693.6,High
+200066,West,Education,Technology,Partner,78,2443.5,Yes,144850.68,High
+200067,West,Education,Food Service,Online,21,1318.68,No,27692.28,High
+200068,West,Government,Food Service,Phone,1,547.06,Yes,421.24,Low
+200069,East,Wholesale,Food Service,Phone,71,1868.83,No,132686.93,High
+200070,Central,Government,Technology,Phone,1,1518.81,Yes,1230.24,Medium
+200071,South,Retail,Food Service,Online,89,1874.94,No,166869.66,High
+200072,North,Nonprofit,Technology,In Person,84,1761.37,No,147955.08,High
+200073,East,Wholesale,Office Supplies,Online,95,749.87,Yes,61264.38,High
+200074,North,Education,Furniture,In Person,15,2152.13,No,32281.95,High
+200075,West,Retail,Furniture,Partner,90,2388.96,Yes,174155.18,High
+200076,West,Education,Technology,In Person,29,831.95,No,24126.55,High
+200077,South,Retail,Food Service,In Person,17,1726.73,No,29354.41,High
+200078,West,Wholesale,Food Service,In Person,88,2340.92,No,206000.96,High
+200079,East,Nonprofit,Food Service,In Person,72,33.63,Yes,2276.08,Medium
+200080,Central,Government,Food Service,Online,27,1459.76,No,39413.52,High
+200081,South,Government,Maintenance,Phone,88,119.91,No,10552.08,High
+200082,Central,Education,Maintenance,Online,2,428.69,No,857.38,Low
+200083,South,Retail,Office Supplies,Phone,55,638.31,Yes,33000.63,High
+200084,South,Government,Office Supplies,Phone,1,1933.37,Yes,1643.36,Medium
+200085,North,Government,Furniture,Partner,28,1983.42,No,55535.76,High
+200086,Central,Wholesale,Technology,Partner,26,364.15,No,9467.9,Medium
+200087,West,Retail,Technology,Online,18,2272.73,No,40909.14,High
+200088,East,Nonprofit,Office Supplies,Partner,17,393.37,No,6687.29,Medium
+200089,West,Wholesale,Technology,In Person,90,896.64,Yes,68592.96,High
+200090,West,Government,Maintenance,Online,5,1449.8,No,7249.0,Medium
+200091,South,Nonprofit,Maintenance,In Person,72,1311.7,Yes,75553.92,High
+200092,Central,Nonprofit,Office Supplies,Online,25,637.23,No,15930.75,High
+200093,Central,Retail,Technology,Partner,66,576.93,Yes,34269.64,High
+200094,West,Nonprofit,Office Supplies,Online,38,68.74,Yes,2403.15,Medium
+200095,East,Retail,Food Service,In Person,81,1600.24,Yes,101103.16,High
+200096,East,Education,Furniture,Phone,71,1117.67,Yes,69832.02,High
+200097,South,Wholesale,Maintenance,Phone,55,1999.43,Yes,101171.16,High
+200098,North,Education,Technology,In Person,98,1244.05,Yes,91437.67,High
+200099,North,Wholesale,Office Supplies,Partner,96,235.59,No,22616.64,High
+200100,North,Nonprofit,Food Service,Partner,91,1991.54,Yes,159482.52,High
+200101,South,Government,Furniture,Online,8,247.25,Yes,1542.84,Medium
+200102,West,Education,Furniture,In Person,72,1232.45,Yes,68327.03,High
+200103,North,Government,Food Service,Partner,95,2073.04,Yes,179214.31,High
+200104,North,Wholesale,Technology,In Person,10,434.05,No,4340.5,Medium
+200105,West,Retail,Maintenance,Phone,2,1374.23,Yes,2556.07,Medium
+200106,Central,Wholesale,Food Service,Online,60,1346.08,Yes,65419.49,High
+200107,West,Education,Technology,Phone,7,1370.62,No,9594.34,Medium
+200108,West,Retail,Office Supplies,Online,63,1767.63,Yes,101338.23,High
+200109,North,Nonprofit,Technology,Phone,27,413.4,Yes,10492.09,High
+200110,East,Government,Furniture,Partner,9,1581.53,Yes,12098.7,High
+200111,East,Education,Maintenance,Partner,3,1405.17,Yes,3836.11,Medium
+200112,Central,Education,Food Service,Online,60,983.54,Yes,50750.66,High
+200113,East,Wholesale,Maintenance,In Person,34,793.71,No,26986.14,High
+200114,Central,Education,Office Supplies,Partner,16,1053.47,Yes,15675.63,High
+200115,North,Retail,Food Service,Partner,1,2186.82,Yes,1793.19,Medium
+200116,Central,Education,Furniture,In Person,11,856.11,Yes,8098.8,Medium
+200117,South,Nonprofit,Maintenance,Partner,35,1958.79,No,68557.65,High
+200118,Central,Government,Furniture,Phone,84,796.42,No,66899.28,High
+200119,South,Wholesale,Maintenance,In Person,27,2311.38,Yes,54294.32,High
+200120,Central,Nonprofit,Office Supplies,Partner,80,1797.76,Yes,110742.02,High
+200121,West,Education,Office Supplies,Partner,27,1020.08,No,27542.16,High
+200122,West,Government,Office Supplies,Phone,99,490.99,Yes,42775.05,High
+200123,West,Wholesale,Food Service,In Person,71,1594.92,No,113239.32,High
+200124,North,Education,Furniture,Phone,76,1694.54,Yes,105603.73,High
+200125,North,Nonprofit,Maintenance,In Person,4,633.11,No,2532.44,Medium
+200126,South,Wholesale,Food Service,Phone,48,588.66,No,28255.68,High
+200127,North,Government,Furniture,In Person,12,1258.78,No,15105.36,High
+200128,West,Government,Maintenance,Phone,72,2231.02,Yes,144570.1,High
+200129,Central,Education,Furniture,Phone,77,2261.25,Yes,163669.27,High
+200130,East,Government,Office Supplies,Phone,70,1592.86,No,111500.2,High
+200131,South,Education,Food Service,Phone,12,167.23,No,2006.76,Medium
+200132,South,Wholesale,Technology,Online,61,1321.56,Yes,64492.13,High
+200133,North,Education,Office Supplies,Online,83,632.89,Yes,43074.49,High
+200134,South,Nonprofit,Technology,Phone,84,589.21,Yes,39099.98,High
+200135,South,Nonprofit,Furniture,Phone,7,2124.6,No,14872.2,High
+200136,North,Nonprofit,Technology,In Person,99,1500.93,No,148592.07,High
+200137,West,Retail,Technology,Partner,63,2401.23,No,151277.49,High
+200138,South,Education,Technology,Online,66,35.22,No,2324.52,Medium
+200139,South,Education,Furniture,Phone,2,69.32,Yes,112.3,Low
+200140,Central,Education,Maintenance,Phone,12,1642.92,Yes,15772.03,High
+200141,Central,Nonprofit,Technology,Phone,100,970.48,Yes,74726.96,High
+200142,West,Education,Technology,Partner,49,1959.79,No,96029.71,High
+200143,South,Education,Furniture,Partner,32,606.2,No,19398.4,High
+200144,East,Nonprofit,Office Supplies,Online,13,1456.64,Yes,15149.06,High
+200145,North,Government,Office Supplies,Phone,75,75.28,Yes,4516.8,Medium
+200146,North,Retail,Furniture,In Person,13,798.46,No,10379.98,High
+200147,North,Wholesale,Technology,Online,99,2263.29,Yes,192696.51,High
+200148,North,Wholesale,Maintenance,Online,51,2116.85,Yes,88526.67,High
+200149,West,Education,Food Service,In Person,96,1741.27,No,167161.92,High
+200150,Central,Retail,Furniture,Online,44,1244.33,No,54750.52,High
+200151,South,Retail,Technology,Online,59,98.73,No,5825.07,Medium
+200152,North,Wholesale,Food Service,Partner,23,1273.22,Yes,27527.02,High
+200153,West,Education,Maintenance,Partner,44,1120.27,No,49291.88,High
+200154,East,Education,Technology,In Person,20,504.53,No,10090.6,High
+200155,Central,Retail,Furniture,Phone,40,2019.01,No,80760.4,High
+200156,North,Education,Technology,Online,93,1013.1,No,94218.3,High
+200157,North,Education,Office Supplies,Phone,33,618.8,Yes,19195.18,High
+200158,Central,Nonprofit,Food Service,In Person,30,2182.37,No,65471.1,High
+200159,North,Education,Technology,Online,93,27.21,No,2530.53,Medium
+200160,South,Government,Food Service,Phone,68,1155.15,Yes,59698.15,High
+200161,South,Wholesale,Furniture,Phone,36,537.47,Yes,14898.67,High
+200162,East,Wholesale,Office Supplies,Phone,39,1308.99,Yes,39308.97,High
+200163,South,Nonprofit,Technology,In Person,90,1271.11,No,114399.9,High
+200164,North,Education,Technology,Partner,74,104.93,Yes,6289.5,Medium
+200165,East,Education,Food Service,In Person,91,324.19,Yes,25371.11,High
+200166,South,Retail,Technology,Phone,21,2363.58,No,49635.18,High
+200167,Central,Wholesale,Maintenance,Online,95,1552.25,No,147463.75,High
+200168,North,Education,Maintenance,In Person,6,1131.15,Yes,5361.65,Medium
+200169,North,Wholesale,Maintenance,In Person,95,347.51,No,33013.45,High
+200170,South,Retail,Furniture,Phone,2,1306.75,No,2613.5,Medium
+200171,West,Nonprofit,Office Supplies,In Person,27,1116.92,No,30156.84,High
+200172,North,Wholesale,Food Service,Phone,21,100.41,Yes,1855.58,Medium
+200173,North,Government,Technology,Phone,8,627.76,No,5022.08,Medium
+200174,North,Retail,Furniture,Online,83,202.97,No,16846.51,High
+200175,East,Government,Furniture,Online,61,1131.58,No,69026.38,High
+200176,South,Wholesale,Food Service,Partner,16,2472.32,No,39557.12,High
+200177,North,Nonprofit,Technology,Online,6,928.48,No,5570.88,Medium
+200178,West,Government,Office Supplies,Online,6,341.5,No,2049.0,Medium
+200179,West,Wholesale,Food Service,Phone,52,118.28,Yes,5227.98,Medium
+200180,South,Retail,Maintenance,Online,59,1243.74,Yes,63107.37,High
+200181,West,Government,Furniture,Phone,33,416.54,Yes,10309.37,High
+200182,South,Retail,Maintenance,Partner,18,1661.98,No,29915.64,High
+200183,South,Government,Technology,Online,63,2217.68,Yes,120153.9,High
+200184,West,Retail,Maintenance,In Person,73,1705.08,No,124470.84,High
+200185,Central,Education,Office Supplies,In Person,43,1145.07,No,49238.01,High
+200186,Central,Retail,Office Supplies,Partner,42,583.77,No,24518.34,High
+200187,West,Government,Furniture,Partner,77,355.79,Yes,24382.29,High
+200188,North,Education,Office Supplies,In Person,16,2341.04,Yes,31089.01,High
+200189,West,Government,Technology,Partner,88,2472.03,Yes,187083.23,High
+200190,South,Nonprofit,Technology,Partner,20,1195.06,No,23901.2,High
+200191,East,Education,Furniture,Online,97,2102.8,Yes,169296.43,High
+200192,North,Government,Furniture,Partner,63,194.84,No,12274.92,High
+200193,West,Government,Technology,Online,85,2113.0,Yes,159848.45,High
+200194,Central,Government,Office Supplies,In Person,6,1999.33,Yes,10556.46,High
+200195,West,Retail,Food Service,Partner,47,1427.37,No,67086.39,High
+200196,East,Education,Furniture,Online,61,896.09,Yes,42089.35,High
+200197,South,Wholesale,Maintenance,Online,73,2485.25,No,181423.25,High
+200198,South,Wholesale,Furniture,Online,23,1730.06,Yes,32231.02,High
+200199,East,Nonprofit,Office Supplies,Online,15,94.98,Yes,1125.51,Medium
+200200,North,Wholesale,Technology,Online,93,1940.37,No,180454.41,High
+200201,South,Wholesale,Technology,In Person,20,1205.01,No,24100.2,High
+200202,East,Government,Food Service,In Person,94,1997.86,No,187798.84,High
+200203,Central,Education,Food Service,Online,21,2451.54,No,51482.34,High
+200204,West,Government,Maintenance,Phone,16,112.53,Yes,1422.38,Medium
+200205,North,Nonprofit,Food Service,Partner,39,2384.36,No,92990.04,High
+200206,Central,Wholesale,Food Service,Online,28,351.06,No,9829.68,Medium
+200207,Central,Retail,Office Supplies,In Person,67,1961.96,Yes,105161.06,High
+200208,North,Wholesale,Office Supplies,In Person,16,2041.68,No,32666.88,High
+200209,North,Nonprofit,Office Supplies,Phone,97,73.53,No,7132.41,Medium
+200210,Central,Education,Technology,In Person,11,1013.7,Yes,10258.64,High
+200211,Central,Wholesale,Food Service,Online,97,1761.21,No,170837.37,High
+200212,North,Wholesale,Technology,Partner,40,935.83,Yes,35187.21,High
+200213,Central,Wholesale,Office Supplies,Phone,54,982.74,Yes,41393.01,High
+200214,South,Retail,Office Supplies,Partner,32,2298.74,No,73559.68,High
+200215,West,Education,Technology,Phone,4,1862.02,Yes,5809.5,Medium
+200216,West,Government,Maintenance,In Person,69,658.04,No,45404.76,High
+200217,Central,Government,Furniture,Partner,35,446.16,No,15615.6,High
+200218,West,Government,Food Service,Online,50,910.4,Yes,35960.8,High
+200219,East,Retail,Office Supplies,Partner,39,1917.99,No,74801.61,High
+200220,West,Retail,Food Service,Phone,34,1444.49,No,49112.66,High
+200221,South,Retail,Furniture,Phone,36,150.91,No,5432.76,Medium
+200222,West,Education,Office Supplies,Online,61,1849.27,No,112805.47,High
+200223,East,Retail,Food Service,Partner,45,1909.08,Yes,69585.97,High
+200224,West,Education,Maintenance,In Person,6,1668.64,No,10011.84,High
+200225,North,Retail,Food Service,In Person,88,1790.71,Yes,132369.28,High
+200226,West,Wholesale,Furniture,Partner,82,1312.79,No,107648.78,High
+200227,West,Wholesale,Maintenance,Phone,92,1194.55,Yes,96710.77,High
+200228,North,Nonprofit,Furniture,In Person,77,1456.64,No,112161.28,High
+200229,North,Nonprofit,Food Service,Partner,44,1552.07,Yes,64876.53,High
+200230,North,Education,Technology,Phone,51,779.18,Yes,32187.93,High
+200231,East,Retail,Technology,Phone,55,1193.72,Yes,56462.96,High
+200232,Central,Retail,Maintenance,In Person,15,392.4,Yes,5297.4,Medium
+200233,Central,Nonprofit,Food Service,Partner,68,1953.72,No,132852.96,High
+200234,West,Wholesale,Technology,Online,30,1891.88,No,56756.4,High
+200235,East,Education,Maintenance,Partner,18,346.44,Yes,5924.12,Medium
+200236,South,Government,Maintenance,Partner,3,1627.28,No,4881.84,Medium
+200237,East,Education,Technology,In Person,3,499.74,Yes,1124.41,Medium
+200238,Central,Wholesale,Furniture,Partner,22,2472.32,Yes,44600.65,High
+200239,South,Education,Technology,Partner,61,1666.02,Yes,86383.14,High
+200240,East,Nonprofit,Food Service,Online,96,1310.76,No,125832.96,High
+200241,East,Retail,Office Supplies,In Person,48,774.39,Yes,30108.28,High
+200242,South,Education,Office Supplies,Partner,42,142.37,Yes,5680.56,Medium
+200243,North,Nonprofit,Office Supplies,Phone,88,1826.26,Yes,126961.6,High
+200244,West,Nonprofit,Food Service,Phone,59,583.77,Yes,28587.22,High
+200245,South,Government,Maintenance,Online,90,906.52,No,81586.8,High
+200246,West,Government,Maintenance,Phone,98,808.53,No,79235.94,High
+200247,West,Retail,Office Supplies,Partner,80,1614.3,Yes,104606.64,High
+200248,North,Retail,Technology,Partner,9,335.99,No,3023.91,Medium
+200249,Central,Wholesale,Office Supplies,In Person,78,986.85,Yes,63118.93,High
+200250,Central,Nonprofit,Furniture,Online,20,1770.07,Yes,29029.15,High
+200251,North,Education,Maintenance,In Person,98,857.19,Yes,78124.3,High
+200252,South,Retail,Technology,In Person,100,783.71,Yes,65047.93,High
+200253,East,Retail,Maintenance,Phone,68,1745.0,No,118660.0,High
+200254,West,Wholesale,Food Service,Online,21,2219.39,No,46607.19,High
+200255,South,Nonprofit,Maintenance,Online,51,41.83,Yes,1856.0,Medium
+200256,West,Education,Furniture,In Person,28,1939.25,No,54299.0,High
+200257,East,Education,Food Service,Online,17,73.53,No,1250.01,Medium
+200258,West,Education,Maintenance,In Person,3,2238.55,Yes,5708.3,Medium
+200259,West,Wholesale,Maintenance,Phone,52,2367.41,No,123105.32,High
+200260,North,Retail,Technology,Phone,9,1752.56,Yes,13880.28,High
+200261,North,Nonprofit,Office Supplies,In Person,58,1383.48,No,80241.84,High
+200262,South,Education,Food Service,Online,50,2200.1,No,110005.0,High
+200263,West,Government,Technology,Online,3,151.19,Yes,362.86,Low
+200264,East,Government,Maintenance,Online,26,1749.22,No,45479.72,High
+200265,West,Education,Technology,In Person,13,1552.14,No,20177.82,High
+200266,Central,Nonprofit,Maintenance,Phone,63,2467.36,No,155443.68,High
+200267,North,Retail,Maintenance,Partner,61,468.33,No,28568.13,High
+200268,South,Wholesale,Food Service,In Person,53,2209.72,Yes,110088.25,High
+200269,East,Government,Maintenance,Phone,88,2139.57,No,188282.16,High
+200270,Central,Nonprofit,Food Service,Partner,75,92.27,No,6920.25,Medium
+200271,North,Government,Maintenance,Phone,76,2100.9,No,159668.4,High
+200272,Central,Government,Maintenance,Online,84,1927.41,No,161902.44,High
+200273,West,Retail,Maintenance,Partner,75,1392.35,Yes,99204.94,High
+200274,East,Wholesale,Office Supplies,Partner,88,1429.37,Yes,108174.72,High
+200275,West,Government,Technology,Phone,36,1155.15,Yes,38258.57,High
+200276,West,Retail,Maintenance,Partner,20,926.4,Yes,15378.24,High
+200277,North,Education,Technology,Online,61,911.04,Yes,51127.56,High
+200278,Central,Retail,Maintenance,In Person,15,2191.55,No,32873.25,High
+200279,East,Education,Food Service,In Person,21,1808.4,No,37976.4,High
+200280,North,Government,Office Supplies,Phone,69,597.91,No,41255.79,High
+200281,North,Education,Furniture,Partner,93,2309.85,No,214816.05,High
+200282,South,Retail,Food Service,In Person,17,1758.27,Yes,26004.81,High
+200283,Central,Education,Furniture,In Person,77,222.11,No,17102.47,High
+200284,North,Government,Food Service,Phone,16,2466.34,No,39461.44,High
+200285,North,Retail,Food Service,Phone,30,1510.04,Yes,42130.12,High
+200286,East,Education,Furniture,In Person,6,300.71,Yes,1696.0,Medium
+200287,Central,Wholesale,Technology,Phone,42,507.3,Yes,17684.48,High
+200288,Central,Retail,Food Service,Online,59,2303.68,Yes,115529.55,High
+200289,North,Wholesale,Technology,Phone,8,645.52,Yes,4647.74,Medium
+200290,South,Government,Maintenance,Online,34,1892.29,Yes,59190.83,High
+200291,West,Government,Office Supplies,Phone,53,1792.92,No,95024.76,High
+200292,South,Government,Furniture,Phone,65,1108.16,Yes,55463.41,High
+200293,East,Retail,Office Supplies,In Person,72,832.74,No,59957.28,High
+200294,North,Retail,Food Service,In Person,4,33.18,No,132.72,Low
+200295,Central,Retail,Technology,In Person,22,1197.28,No,26340.16,High
+200296,West,Wholesale,Office Supplies,Online,86,776.46,No,66775.56,High
+200297,West,Education,Office Supplies,Phone,59,1538.92,No,90796.28,High
+200298,South,Wholesale,Technology,Online,100,1506.44,No,150644.0,High
+200299,West,Nonprofit,Furniture,In Person,98,2492.42,No,244257.16,High
+200300,East,Wholesale,Technology,Online,20,2282.95,No,45659.0,High
+200301,West,Retail,Maintenance,In Person,85,1706.39,Yes,116034.52,High
+200302,West,Nonprofit,Maintenance,Partner,68,833.54,No,56680.72,High
+200303,West,Government,Technology,Phone,5,1657.62,Yes,6879.12,Medium
+200304,South,Wholesale,Furniture,In Person,53,1651.15,Yes,78759.86,High
+200305,East,Retail,Technology,In Person,44,430.55,Yes,15155.36,High
+200306,West,Wholesale,Maintenance,Online,81,2481.05,No,200965.05,High
+200307,West,Education,Office Supplies,In Person,2,2293.89,No,4587.78,Medium
+200308,South,Education,Office Supplies,Partner,41,919.45,No,37697.45,High
+200309,South,Nonprofit,Technology,In Person,53,453.4,Yes,18262.95,High
+200310,West,Wholesale,Food Service,Partner,65,2453.28,Yes,129165.19,High
+200311,Central,Government,Maintenance,Partner,32,1816.2,Yes,44169.98,High
+200312,South,Wholesale,Food Service,Phone,40,2187.6,No,87504.0,High
+200313,Central,Government,Maintenance,Online,34,2352.41,No,79981.94,High
+200314,Central,Nonprofit,Food Service,Online,34,660.63,No,22461.42,High
+200315,West,Government,Maintenance,In Person,16,1740.44,Yes,23948.45,High
+200316,East,Education,Food Service,In Person,87,2344.53,No,203974.11,High
+200317,South,Education,Food Service,In Person,53,1617.3,No,85716.9,High
+200318,South,Government,Technology,Partner,1,2366.59,No,2366.59,Medium
+200319,North,Retail,Food Service,In Person,91,2211.75,No,201269.25,High
+200320,West,Nonprofit,Food Service,Partner,98,9.53,Yes,747.15,Low
+200321,West,Education,Office Supplies,In Person,34,745.63,Yes,21295.19,High
+200322,Central,Retail,Maintenance,Phone,90,1826.26,No,164363.4,High
+200323,East,Education,Office Supplies,Phone,16,202.81,No,3244.96,Medium
+200324,West,Retail,Maintenance,Phone,62,1472.84,Yes,74879.19,High
+200325,East,Education,Furniture,In Person,3,897.81,No,2693.43,Medium
+200326,North,Wholesale,Technology,Online,98,1234.07,No,120938.86,High
+200327,North,Nonprofit,Food Service,In Person,43,1212.22,Yes,44827.9,High
+200328,East,Nonprofit,Food Service,In Person,23,1363.18,Yes,26650.17,High
+200329,North,Retail,Technology,Online,88,783.97,No,68989.36,High
+200330,North,Education,Office Supplies,Phone,71,355.19,No,25218.49,High
+200331,Central,Education,Maintenance,In Person,58,2433.99,No,141171.42,High
+200332,East,Education,Furniture,In Person,56,794.41,Yes,42262.61,High
+200333,North,Wholesale,Maintenance,Partner,7,898.2,No,6287.4,Medium
+200334,South,Nonprofit,Maintenance,Partner,5,180.32,No,901.6,Low
+200335,West,Retail,Office Supplies,Online,63,1860.34,Yes,111341.35,High
+200336,East,Government,Food Service,Phone,79,803.77,No,63497.83,High
+200337,West,Education,Technology,Phone,36,796.34,No,28668.24,High
+200338,North,Retail,Maintenance,In Person,67,202.31,No,13554.77,High
+200339,East,Government,Furniture,Phone,55,1685.0,Yes,76920.25,High
+200340,West,Retail,Office Supplies,Phone,78,299.18,Yes,17968.75,High
+200341,East,Education,Office Supplies,In Person,59,118.33,No,6981.47,Medium
+200342,East,Retail,Furniture,Online,27,2466.48,Yes,59935.46,High
+200343,Central,Education,Technology,Phone,6,1654.27,No,9925.62,Medium
+200344,Central,Government,Furniture,In Person,82,683.18,No,56020.76,High
+200345,East,Education,Technology,Phone,20,29.02,Yes,551.38,Low
+200346,East,Nonprofit,Office Supplies,Online,83,2313.3,No,192003.9,High
+200347,East,Retail,Technology,In Person,65,2076.97,Yes,122852.78,High
+200348,East,Government,Food Service,In Person,32,536.15,No,17156.8,High
+200349,West,Government,Food Service,Online,20,1157.77,Yes,20608.31,High
+200350,South,Government,Maintenance,Phone,13,2387.02,Yes,27928.13,High
+200351,East,Wholesale,Technology,Phone,90,1098.72,Yes,77130.14,High
+200352,East,Retail,Office Supplies,In Person,15,1952.5,No,29287.5,High
+200353,Central,Wholesale,Office Supplies,In Person,6,2319.35,No,13916.1,High
+200354,South,Education,Technology,Phone,64,138.48,Yes,7976.45,Medium
+200355,South,Nonprofit,Maintenance,In Person,95,1574.59,No,149586.05,High
+200356,Central,Retail,Technology,In Person,48,348.86,No,16745.28,High
+200357,West,Government,Office Supplies,In Person,41,1331.73,Yes,41496.71,High
+200358,East,Retail,Furniture,Partner,51,1843.03,Yes,86474.97,High
+200359,Central,Retail,Food Service,Online,1,1110.95,No,1110.95,Medium
+200360,Central,Government,Maintenance,Phone,2,1327.03,Yes,2521.36,Medium
+200361,Central,Nonprofit,Food Service,Online,78,310.8,Yes,18424.22,High
+200362,North,Wholesale,Technology,Partner,33,678.68,Yes,16797.33,High
+200363,East,Nonprofit,Furniture,Phone,92,727.53,No,66932.76,High
+200364,East,Wholesale,Furniture,Partner,71,1475.62,Yes,80672.15,High
+200365,West,Education,Furniture,In Person,19,896.26,No,17028.94,High
+200366,West,Retail,Technology,Online,33,1919.81,No,63353.73,High
+200367,North,Government,Furniture,In Person,46,112.0,No,5152.0,Medium
+200368,West,Retail,Furniture,In Person,58,490.02,No,28421.16,High
+200369,North,Education,Furniture,In Person,26,848.71,No,22066.46,High
+200370,South,Government,Food Service,In Person,70,1446.56,No,101259.2,High
+200371,South,Education,Office Supplies,Online,100,939.07,No,93907.0,High
+200372,South,Education,Food Service,Phone,59,1498.38,No,88404.42,High
+200373,Central,Government,Furniture,In Person,74,1113.63,Yes,78288.19,High
+200374,South,Wholesale,Office Supplies,Online,72,130.18,No,9372.96,Medium
+200375,West,Retail,Technology,In Person,3,348.36,No,1045.08,Medium
+200376,East,Nonprofit,Office Supplies,Phone,78,2362.06,No,184240.68,High
+200377,North,Government,Furniture,Online,76,159.2,No,12099.2,High
+200378,North,Nonprofit,Technology,Partner,44,944.65,Yes,31173.45,High
+200379,East,Retail,Food Service,Online,17,1866.17,Yes,27600.65,High
+200380,South,Education,Maintenance,Partner,64,2309.24,Yes,113799.35,High
+200381,East,Wholesale,Furniture,Phone,95,896.08,No,85127.6,High
+200382,Central,Wholesale,Maintenance,In Person,13,1126.16,Yes,12736.87,High
+200383,West,Education,Furniture,Partner,88,492.32,Yes,37692.02,High
+200384,South,Education,Office Supplies,Online,42,1090.12,No,45785.04,High
+200385,North,Wholesale,Technology,Phone,96,1611.57,Yes,145428.08,High
+200386,East,Government,Furniture,Online,66,598.71,No,39514.86,High
+200387,East,Nonprofit,Technology,Online,84,1081.11,No,90813.24,High
+200388,East,Wholesale,Maintenance,In Person,72,716.65,Yes,44374.97,High
+200389,North,Education,Technology,Online,10,2374.13,No,23741.3,High
+200390,West,Retail,Maintenance,Phone,18,686.07,Yes,11608.3,High
+200391,West,Retail,Office Supplies,Partner,67,731.38,Yes,46062.31,High
+200392,North,Government,Technology,Online,29,1117.02,No,32393.58,High
+200393,North,Nonprofit,Food Service,Phone,58,2053.95,Yes,101259.73,High
+200394,South,Retail,Furniture,Partner,69,1125.4,No,77652.6,High
+200395,South,Retail,Technology,In Person,63,354.22,Yes,19191.64,High
+200396,South,Retail,Food Service,Online,12,1977.82,Yes,19461.75,High
+200397,West,Education,Maintenance,Partner,25,1125.45,Yes,26448.07,High
+200398,Central,Retail,Food Service,In Person,64,1829.64,Yes,110071.14,High
+200399,Central,Nonprofit,Food Service,Partner,36,679.23,No,24452.28,High
+200400,South,Education,Office Supplies,Phone,59,1780.95,No,105076.05,High
+200401,South,Education,Maintenance,In Person,41,1256.66,Yes,44825.06,High
+200402,West,Nonprofit,Furniture,In Person,100,1359.29,Yes,108743.2,High
+200403,West,Education,Furniture,Online,47,2427.25,Yes,104954.29,High
+200404,South,Government,Food Service,Online,49,2450.36,Yes,91251.41,High
+200405,West,Education,Food Service,In Person,74,2420.38,No,179108.12,High
+200406,South,Wholesale,Office Supplies,Phone,22,1961.28,No,43148.16,High
+200407,Central,Education,Maintenance,Online,53,1765.07,No,93548.71,High
+200408,North,Wholesale,Technology,Online,68,1565.71,No,106468.28,High
+200409,South,Retail,Food Service,In Person,95,908.07,Yes,66425.32,High
+200410,West,Wholesale,Maintenance,Online,65,2064.05,Yes,123430.19,High
+200411,Central,Government,Food Service,Phone,38,105.53,Yes,3248.21,Medium
+200412,South,Nonprofit,Office Supplies,Partner,78,1598.17,No,124657.26,High
+200413,East,Education,Furniture,Phone,82,1863.01,No,152766.82,High
+200414,West,Retail,Furniture,Online,37,962.22,No,35602.14,High
+200415,West,Wholesale,Food Service,Partner,37,363.37,No,13444.69,High
+200416,South,Nonprofit,Furniture,Phone,48,1205.61,No,57869.28,High
+200417,South,Retail,Furniture,Phone,80,231.32,No,18505.6,High
+200418,East,Wholesale,Office Supplies,Phone,81,2287.44,No,185282.64,High
+200419,North,Education,Office Supplies,Online,61,1804.82,No,110094.02,High
+200420,South,Government,Furniture,Phone,75,558.64,No,41898.0,High
+200421,East,Education,Furniture,Phone,72,122.13,No,8793.36,Medium
+200422,North,Retail,Food Service,Phone,35,662.13,Yes,17612.66,High
+200423,South,Retail,Food Service,Online,79,429.51,Yes,31895.41,High
+200424,West,Wholesale,Food Service,Partner,51,2446.08,No,124750.08,High
+200425,East,Nonprofit,Maintenance,Phone,19,1470.95,No,27948.05,High
+200426,North,Government,Maintenance,Phone,64,2332.31,No,149267.84,High
+200427,East,Government,Office Supplies,In Person,87,1430.43,No,124447.41,High
+200428,North,Nonprofit,Furniture,Online,28,68.66,Yes,1787.91,Medium
+200429,West,Wholesale,Office Supplies,Phone,40,2030.14,No,81205.6,High
+200430,North,Nonprofit,Technology,Phone,80,2367.08,Yes,159067.78,High
+200431,Central,Nonprofit,Food Service,In Person,6,1559.4,No,9356.4,Medium
+200432,North,Education,Food Service,In Person,36,1169.05,Yes,32826.92,High
+200433,South,Nonprofit,Maintenance,Partner,63,1881.23,No,118517.49,High
+200434,South,Education,Furniture,Phone,54,361.15,Yes,16771.81,High
+200435,East,Wholesale,Maintenance,In Person,75,901.27,No,67595.25,High
+200436,West,Government,Office Supplies,Online,54,429.12,Yes,17842.81,High
+200437,North,Government,Food Service,Partner,21,305.63,No,6418.23,Medium
+200438,South,Education,Maintenance,Online,76,9.85,Yes,696.2,Low
+200439,North,Nonprofit,Maintenance,In Person,10,789.51,Yes,6789.79,Medium
+200440,South,Education,Food Service,Phone,26,522.31,Yes,11271.45,High
+200441,North,Nonprofit,Furniture,Phone,61,1866.35,No,113847.35,High
+200442,East,Education,Furniture,In Person,71,1003.3,No,71234.3,High
+200443,North,Education,Office Supplies,Online,71,1876.93,No,133262.03,High
+200444,North,Government,Furniture,In Person,20,1435.33,Yes,24974.74,High
+200445,East,Retail,Food Service,Phone,42,994.66,No,41775.72,High
+200446,East,Government,Furniture,Phone,1,89.95,Yes,81.85,Low
+200447,South,Nonprofit,Furniture,Online,54,2150.05,Yes,94043.19,High
+200448,South,Retail,Technology,Phone,97,628.37,Yes,56685.26,High
+200449,East,Wholesale,Furniture,Phone,3,24.36,Yes,57.0,Low
+200450,West,Wholesale,Maintenance,Online,87,1659.43,Yes,127045.96,High
+200451,Central,Education,Furniture,Partner,9,1746.98,No,15722.82,High
+200452,South,Wholesale,Food Service,In Person,17,2475.84,No,42089.28,High
+200453,West,Government,Food Service,Partner,25,374.98,Yes,8437.05,Medium
+200454,Central,Nonprofit,Furniture,Phone,67,723.78,Yes,41219.27,High
+200455,South,Government,Technology,Phone,65,886.97,Yes,47275.5,High
+200456,Central,Nonprofit,Office Supplies,Partner,74,822.26,No,60847.24,High
+200457,South,Government,Food Service,Phone,55,62.21,No,3421.55,Medium
+200458,East,Government,Maintenance,In Person,77,140.08,No,10786.16,High
+200459,West,Government,Food Service,In Person,94,514.69,No,48380.86,High
+200460,West,Wholesale,Food Service,Partner,40,1752.56,Yes,54679.87,High
+200461,Central,Government,Furniture,Partner,10,1253.77,Yes,11033.18,High
+200462,South,Government,Office Supplies,Partner,96,1070.63,Yes,85307.8,High
+200463,East,Wholesale,Technology,Online,11,1504.41,Yes,12907.84,High
+200464,East,Retail,Office Supplies,Partner,98,940.17,No,92136.66,High
+200465,West,Nonprofit,Furniture,In Person,87,1837.48,No,159860.76,High
+200466,Central,Wholesale,Furniture,Online,77,324.02,Yes,20209.13,High
+200467,South,Wholesale,Office Supplies,In Person,63,133.24,No,8394.12,Medium
+200468,East,Education,Office Supplies,Phone,9,1095.4,Yes,7591.12,Medium
+200469,West,Government,Office Supplies,In Person,31,160.47,No,4974.57,Medium
+200470,North,Education,Office Supplies,In Person,36,2197.13,No,79096.68,High
+200471,Central,Nonprofit,Office Supplies,Phone,6,295.02,Yes,1522.3,Medium
+200472,West,Government,Maintenance,Phone,81,1921.78,No,155664.18,High
+200473,West,Wholesale,Technology,Online,50,2016.21,Yes,78632.19,High
+200474,Central,Government,Furniture,In Person,55,1443.67,Yes,69873.63,High
+200475,South,Government,Office Supplies,Partner,46,2463.95,Yes,87273.11,High
+200476,North,Nonprofit,Food Service,Phone,63,592.79,No,37345.77,High
+200477,West,Retail,Technology,Partner,92,623.02,No,57317.84,High
+200478,North,Wholesale,Technology,Partner,17,1274.95,No,21674.15,High
+200479,West,Wholesale,Maintenance,Partner,1,1732.62,Yes,1542.03,Medium
+200480,West,Retail,Furniture,In Person,98,169.13,Yes,12596.8,High
+200481,South,Government,Food Service,In Person,52,73.93,Yes,3267.71,Medium
+200482,Central,Education,Food Service,In Person,48,1794.59,No,86140.32,High
+200483,South,Government,Maintenance,In Person,17,579.71,Yes,9362.32,Medium
+200484,East,Nonprofit,Furniture,In Person,4,1573.58,Yes,5161.34,Medium
+200485,North,Government,Food Service,Online,45,1441.1,No,64849.5,High
+200486,North,Education,Furniture,Phone,60,1113.03,Yes,60103.62,High
+200487,South,Retail,Maintenance,In Person,32,1465.45,Yes,40798.13,High
+200488,South,Retail,Technology,In Person,69,1998.85,No,137920.65,High
+200489,Central,Retail,Technology,Phone,5,896.06,No,4480.3,Medium
+200490,North,Education,Maintenance,Partner,22,379.33,Yes,6843.11,Medium
+200491,South,Nonprofit,Furniture,Online,83,854.15,Yes,65222.89,High
+200492,South,Education,Office Supplies,Partner,47,1118.52,No,52570.44,High
+200493,West,Nonprofit,Office Supplies,In Person,86,1514.48,Yes,123733.02,High
+200494,East,Government,Maintenance,Online,21,1876.05,No,39397.05,High
+200495,North,Nonprofit,Technology,Online,47,169.06,No,7945.82,Medium
+200496,East,Government,Office Supplies,Partner,67,630.83,No,42265.61,High
+200497,South,Wholesale,Office Supplies,Phone,57,1690.65,Yes,82875.66,High
+200498,West,Wholesale,Furniture,Phone,3,45.75,No,137.25,Low
+200499,East,Nonprofit,Furniture,In Person,68,708.64,Yes,37586.27,High
+200500,Central,Education,Office Supplies,Phone,96,2089.33,No,200575.68,High
+200501,South,Retail,Technology,Phone,30,861.42,No,25842.6,High
+200502,South,Wholesale,Technology,Online,67,404.16,No,27078.72,High
+200503,West,Wholesale,Furniture,Online,51,428.8,Yes,18807.17,High
+200504,Central,Retail,Food Service,Phone,20,295.65,Yes,5144.31,Medium
+200505,North,Nonprofit,Maintenance,Online,100,1920.02,No,192002.0,High
+200506,East,Retail,Technology,Online,32,2480.74,Yes,59537.76,High
+200507,North,Wholesale,Furniture,In Person,3,2425.38,No,7276.14,Medium
+200508,East,Retail,Technology,In Person,53,143.85,No,7624.05,Medium
+200509,North,Wholesale,Technology,Partner,45,2354.08,Yes,85806.22,High
+200510,North,Retail,Maintenance,Phone,57,2373.0,No,135261.0,High
+200511,South,Wholesale,Furniture,Phone,54,495.78,No,26772.12,High
+200512,West,Nonprofit,Maintenance,Phone,52,668.47,No,34760.44,High
+200513,South,Government,Technology,Partner,98,352.66,Yes,25920.51,High
+200514,North,Retail,Furniture,In Person,63,568.39,Yes,27930.68,High
+200515,East,Education,Food Service,Online,7,516.84,Yes,3111.38,Medium
+200516,South,Education,Technology,In Person,43,2336.53,Yes,94442.54,High
+200517,West,Wholesale,Maintenance,Online,85,662.13,Yes,50652.95,High
+200518,West,Wholesale,Office Supplies,In Person,76,275.83,No,20963.08,High
+200519,South,Education,Food Service,Online,39,2373.8,No,92578.2,High
+200520,West,Retail,Food Service,Phone,16,590.49,No,9447.84,Medium
+200521,South,Nonprofit,Technology,Online,77,1924.97,No,148222.69,High
+200522,North,Education,Furniture,Partner,71,1667.68,No,118405.28,High
+200523,South,Education,Office Supplies,Phone,90,821.13,No,73901.7,High
+200524,Central,Retail,Furniture,In Person,18,775.25,No,13954.5,High
+200525,East,Retail,Technology,Partner,98,1823.88,Yes,134055.18,High
+200526,Central,Nonprofit,Technology,Partner,37,1365.65,Yes,42949.69,High
+200527,North,Wholesale,Office Supplies,Partner,76,2356.91,No,179125.16,High
+200528,West,Government,Food Service,Partner,23,701.3,No,16129.9,High
+200529,South,Nonprofit,Office Supplies,In Person,41,147.52,No,6048.32,Medium
+200530,East,Wholesale,Maintenance,Phone,33,1778.08,Yes,48701.61,High
+200531,West,Government,Office Supplies,In Person,3,282.53,Yes,762.83,Low
+200532,North,Education,Technology,In Person,88,911.84,Yes,69810.47,High
+200533,East,Education,Technology,Partner,17,602.31,No,10239.27,High
+200534,North,Education,Technology,Online,4,1259.85,Yes,3930.73,Medium
+200535,East,Retail,Office Supplies,Online,17,1381.54,Yes,21607.29,High
+200536,South,Wholesale,Maintenance,In Person,83,1917.92,No,159187.36,High
+200537,South,Wholesale,Technology,Online,56,313.01,No,17528.56,High
+200538,West,Government,Office Supplies,In Person,83,1386.81,No,115105.23,High
+200539,Central,Retail,Office Supplies,Online,89,1844.63,No,164172.07,High
+200540,South,Education,Food Service,Phone,28,30.15,No,844.2,Low
+200541,Central,Wholesale,Office Supplies,Online,21,1321.57,Yes,24422.61,High
+200542,West,Nonprofit,Furniture,Online,49,154.17,No,7554.33,Medium
+200543,North,Nonprofit,Furniture,Partner,46,2111.7,Yes,74796.41,High
+200544,East,Wholesale,Furniture,In Person,89,946.32,Yes,70746.88,High
+200545,North,Wholesale,Maintenance,Online,91,2449.6,Yes,178330.88,High
+200546,Central,Nonprofit,Furniture,Partner,82,369.94,Yes,28211.62,High
+200547,Central,Education,Maintenance,In Person,68,922.56,No,62734.08,High
+200548,East,Nonprofit,Food Service,Partner,30,1662.39,No,49871.7,High
+200549,North,Education,Furniture,Online,17,50.76,Yes,742.11,Low
+200550,South,Education,Food Service,Online,63,1571.12,No,98980.56,High
+200551,Central,Nonprofit,Furniture,Online,6,1108.5,No,6651.0,Medium
+200552,Central,Government,Office Supplies,Phone,55,731.97,No,40258.35,High
+200553,North,Nonprofit,Technology,Online,13,1619.75,Yes,19793.34,High
+200554,Central,Retail,Food Service,In Person,38,1403.18,No,53320.84,High
+200555,East,Retail,Food Service,Online,2,2129.1,Yes,3960.13,Medium
+200556,East,Retail,Maintenance,Partner,87,1774.31,No,154364.97,High
+200557,South,Retail,Technology,In Person,91,2465.75,No,224383.25,High
+200558,East,Government,Food Service,Phone,5,1414.64,No,7073.2,Medium
+200559,East,Retail,Maintenance,Online,60,2106.46,Yes,94790.7,High
+200560,North,Retail,Office Supplies,Phone,9,2414.33,No,21728.97,High
+200561,West,Government,Office Supplies,Phone,60,498.21,No,29892.6,High
+200562,West,Nonprofit,Furniture,Phone,71,874.28,No,62073.88,High
+200563,North,Retail,Maintenance,Phone,87,1829.46,No,159163.02,High
+200564,East,Government,Maintenance,Online,42,1876.27,Yes,71711.04,High
+200565,West,Education,Furniture,Partner,45,242.74,Yes,9721.74,Medium
+200566,North,Education,Furniture,In Person,30,459.48,No,13784.4,High
+200567,North,Government,Maintenance,Phone,20,1197.33,No,23946.6,High
+200568,East,Nonprofit,Furniture,Phone,64,2350.91,Yes,123375.76,High
+200569,East,Retail,Furniture,Online,16,1798.71,Yes,27340.39,High
+200570,East,Government,Office Supplies,Phone,43,1800.9,No,77438.7,High
+200571,North,Wholesale,Maintenance,Partner,99,1217.3,No,120512.7,High
+200572,East,Nonprofit,Office Supplies,Online,12,989.77,Yes,9501.79,Medium
+200573,East,Nonprofit,Food Service,Partner,55,1709.28,No,94010.4,High
+200574,Central,Retail,Office Supplies,Partner,26,1560.72,Yes,32462.98,High
+200575,South,Retail,Office Supplies,Online,2,2156.48,No,4312.96,Medium
+200576,Central,Retail,Technology,Online,71,34.11,No,2421.81,Medium
+200577,North,Retail,Food Service,In Person,41,2396.59,Yes,75660.35,High
+200578,North,Wholesale,Food Service,Partner,43,1803.66,No,77557.38,High
+200579,East,Nonprofit,Office Supplies,Phone,70,296.89,Yes,18911.89,High
+200580,East,Education,Maintenance,Online,93,801.22,No,74513.46,High
+200581,North,Retail,Office Supplies,In Person,59,1377.46,Yes,75581.23,High
+200582,East,Retail,Maintenance,Phone,13,222.34,No,2890.42,Medium
+200583,South,Nonprofit,Food Service,In Person,65,1035.66,No,67317.9,High
+200584,East,Retail,Technology,Partner,90,1565.23,Yes,119740.1,High
+200585,Central,Wholesale,Maintenance,Online,73,1731.05,No,126366.65,High
+200586,South,Wholesale,Furniture,Partner,22,539.01,Yes,11028.14,High
+200587,North,Education,Office Supplies,In Person,68,298.21,No,20278.28,High
+200588,South,Retail,Technology,Phone,21,2011.43,Yes,39283.23,High
+200589,East,Education,Furniture,Partner,100,1999.56,Yes,159964.8,High
+200590,East,Government,Food Service,Phone,11,2159.31,Yes,18526.88,High
+200591,West,Education,Furniture,Partner,34,607.38,Yes,19618.37,High
+200592,North,Wholesale,Maintenance,Partner,8,1306.46,No,10451.68,High
+200593,South,Retail,Food Service,Online,52,881.43,Yes,41709.27,High
+200594,North,Nonprofit,Technology,Partner,10,357.4,Yes,3145.12,Medium
+200595,East,Nonprofit,Technology,Phone,30,34.81,No,1044.3,Medium
+200596,West,Government,Food Service,In Person,50,1351.75,No,67587.5,High
+200597,North,Education,Technology,Partner,5,1197.06,Yes,4608.68,Medium
+200598,North,Retail,Technology,Online,2,2033.42,Yes,3456.81,Medium
+200599,North,Wholesale,Office Supplies,Phone,22,1996.85,No,43930.7,High
+200600,North,Education,Office Supplies,Phone,46,1125.61,Yes,44529.13,High
+200601,West,Education,Furniture,Phone,81,313.48,No,25391.88,High
+200602,East,Education,Maintenance,Partner,28,1148.54,No,32159.12,High
+200603,West,Education,Maintenance,Online,6,463.35,No,2780.1,Medium
+200604,South,Government,Technology,Online,42,2170.54,No,91162.68,High
+200605,South,Wholesale,Furniture,Partner,24,149.8,No,3595.2,Medium
+200606,Central,Government,Maintenance,Online,2,316.11,No,632.22,Low
+200607,Central,Wholesale,Office Supplies,In Person,35,404.4,No,14154.0,High
+200608,West,Retail,Food Service,Phone,60,664.84,No,39890.4,High
+200609,Central,Retail,Furniture,Partner,100,283.02,No,28302.0,High
+200610,North,Government,Furniture,Phone,34,323.63,Yes,8472.63,Medium
+200611,East,Nonprofit,Food Service,Partner,31,920.38,Yes,26534.56,High
+200612,North,Wholesale,Food Service,Partner,100,2051.25,Yes,170253.75,High
+200613,North,Retail,Food Service,Online,28,1499.92,Yes,35698.1,High
+200614,Central,Wholesale,Technology,Phone,70,1030.56,Yes,68532.24,High
+200615,East,Government,Office Supplies,In Person,79,341.01,No,26939.79,High
+200616,West,Nonprofit,Food Service,Phone,7,1056.35,Yes,6802.89,Medium
+200617,South,Wholesale,Office Supplies,Partner,96,1515.95,Yes,130978.08,High
+200618,East,Education,Technology,Partner,78,259.5,No,20241.0,High
+200619,Central,Education,Office Supplies,Online,23,2131.37,No,49021.51,High
+200620,Central,Wholesale,Food Service,In Person,80,438.87,No,35109.6,High
+200621,West,Retail,Maintenance,Phone,67,761.95,No,51050.65,High
+200622,North,Education,Office Supplies,Phone,22,1362.11,Yes,23673.47,High
+200623,West,Wholesale,Furniture,Online,24,1563.83,No,37531.92,High
+200624,East,Retail,Food Service,Partner,62,626.91,No,38868.42,High
+200625,East,Nonprofit,Technology,Online,60,2273.44,Yes,126857.95,High
+200626,West,Retail,Furniture,Partner,33,2117.51,No,69877.83,High
+200627,South,Wholesale,Technology,In Person,20,2030.46,No,40609.2,High
+200628,East,Government,Technology,In Person,33,712.66,No,23517.78,High
+200629,West,Education,Food Service,Phone,16,2419.34,No,38709.44,High
+200630,South,Nonprofit,Maintenance,Partner,24,763.96,No,18335.04,High
+200631,North,Wholesale,Maintenance,Online,9,2282.93,Yes,18902.66,High
+200632,East,Government,Technology,Online,18,1402.13,No,25238.34,High
+200633,Central,Nonprofit,Maintenance,Online,27,1242.06,Yes,30852.77,High
+200634,South,Government,Technology,Phone,19,491.33,No,9335.27,Medium
+200635,South,Nonprofit,Furniture,Online,75,2237.12,Yes,149327.76,High
+200636,East,Nonprofit,Technology,Online,32,2407.31,Yes,60086.46,High
+200637,Central,Nonprofit,Furniture,Online,31,640.94,Yes,16094.0,High
+200638,Central,Government,Maintenance,Partner,52,223.57,Yes,10114.31,High
+200639,Central,Wholesale,Maintenance,Online,90,1047.78,Yes,70725.15,High
+200640,East,Education,Furniture,Phone,28,2082.78,No,58317.84,High
+200641,North,Education,Furniture,In Person,36,2317.38,Yes,67574.8,High
+200642,Central,Education,Technology,Online,83,2485.7,Yes,195997.44,High
+200643,North,Wholesale,Food Service,In Person,87,1198.87,No,104301.69,High
+200644,North,Wholesale,Food Service,Partner,2,1752.56,No,3505.12,Medium
+200645,West,Education,Furniture,Phone,35,668.64,Yes,19892.04,High
+200646,East,Nonprofit,Food Service,Partner,89,2099.76,Yes,170059.56,High
+200647,West,Retail,Office Supplies,In Person,6,543.92,No,3263.52,Medium
+200648,South,Wholesale,Furniture,Online,75,956.88,Yes,65307.06,High
+200649,South,Government,Food Service,Online,6,2399.44,No,14396.64,High
+200650,South,Retail,Maintenance,Online,58,459.13,No,26629.54,High
+200651,Central,Nonprofit,Technology,Online,85,2301.08,Yes,176032.62,High
+200652,North,Retail,Technology,In Person,94,1562.03,Yes,132147.74,High
+200653,South,Government,Food Service,In Person,35,1131.39,Yes,30490.96,High
+200654,Central,Government,Technology,Partner,76,989.95,No,75236.2,High
+200655,West,Nonprofit,Food Service,Online,86,1094.44,Yes,73415.04,High
+200656,West,Education,Office Supplies,Partner,97,892.69,Yes,82261.38,High
+200657,North,Government,Office Supplies,Phone,45,1939.28,Yes,74177.46,High
+200658,West,Wholesale,Technology,Phone,81,1695.26,No,137316.06,High
+200659,South,Government,Technology,In Person,1,1486.45,Yes,1382.4,Medium
+200660,Central,Government,Food Service,In Person,34,2303.98,No,78335.32,High
+200661,North,Nonprofit,Food Service,In Person,3,2187.3,No,6561.9,Medium
+200662,East,Government,Furniture,Partner,23,1456.56,No,33500.88,High
+200663,South,Education,Technology,Online,30,461.49,No,13844.7,High
+200664,East,Wholesale,Food Service,Phone,63,2121.89,Yes,112290.42,High
+200665,North,Government,Food Service,Online,68,653.36,No,44428.48,High
+200666,South,Nonprofit,Furniture,Partner,3,1740.73,No,5222.19,Medium
+200667,North,Education,Office Supplies,In Person,72,1612.2,Yes,99827.42,High
+200668,Central,Retail,Office Supplies,Online,31,937.47,No,29061.57,High
+200669,West,Wholesale,Food Service,Phone,46,2418.45,No,111248.7,High
+200670,South,Education,Office Supplies,Phone,92,2090.62,No,192337.04,High
+200671,Central,Retail,Furniture,Online,56,2155.64,Yes,114680.05,High
+200672,West,Wholesale,Food Service,Partner,34,1246.62,Yes,38994.27,High
+200673,North,Government,Office Supplies,In Person,74,1756.45,Yes,119579.12,High
+200674,East,Education,Technology,In Person,20,1137.61,No,22752.2,High
+200675,North,Nonprofit,Furniture,Partner,74,1077.66,Yes,74164.56,High
+200676,East,Wholesale,Maintenance,Phone,59,163.89,Yes,8605.86,Medium
+200677,South,Retail,Office Supplies,Phone,25,2025.37,No,50634.25,High
+200678,Central,Education,Maintenance,In Person,80,861.93,Yes,64127.59,High
+200679,South,Education,Technology,Partner,75,1796.97,Yes,123990.93,High
+200680,North,Wholesale,Food Service,Partner,73,1823.12,No,133087.76,High
+200681,North,Nonprofit,Food Service,In Person,19,550.7,No,10463.3,High
+200682,South,Retail,Food Service,Partner,28,797.52,Yes,21214.03,High
+200683,South,Education,Food Service,Online,55,2000.96,No,110052.8,High
+200684,South,Education,Technology,Phone,55,2182.48,Yes,91227.66,High
+200685,West,Education,Technology,Phone,20,246.09,Yes,3839.0,Medium
+200686,East,Nonprofit,Maintenance,Partner,9,995.39,No,8958.51,Medium
+200687,West,Retail,Furniture,Phone,31,1674.89,No,51921.59,High
+200688,North,Wholesale,Furniture,Phone,68,2004.17,No,136283.56,High
+200689,Central,Nonprofit,Technology,Partner,30,1613.69,No,48410.7,High
+200690,North,Education,Office Supplies,Partner,86,1553.02,No,133559.72,High
+200691,West,Government,Food Service,In Person,45,1123.02,Yes,41439.44,High
+200692,Central,Education,Technology,In Person,14,1576.94,Yes,20090.22,High
+200693,South,Education,Furniture,Partner,71,1912.53,Yes,129000.15,High
+200694,North,Wholesale,Maintenance,Partner,87,646.51,Yes,48934.34,High
+200695,Central,Education,Technology,Partner,25,2345.12,No,58628.0,High
+200696,East,Wholesale,Furniture,In Person,69,2055.4,No,141822.6,High
+200697,North,Government,Food Service,Online,30,1186.32,No,35589.6,High
+200698,Central,Education,Furniture,Online,22,2297.23,No,50539.06,High
+200699,East,Retail,Office Supplies,Partner,42,1177.5,Yes,38080.35,High
+200700,East,Retail,Furniture,Online,7,1220.96,No,8546.72,Medium
+200701,North,Education,Technology,Online,84,698.1,No,58640.4,High
+200702,North,Government,Technology,Online,15,2483.97,No,37259.55,High
+200703,South,Government,Office Supplies,Partner,42,2254.61,No,94693.62,High
+200704,North,Education,Office Supplies,Online,89,279.41,No,24867.49,High
+200705,South,Government,Office Supplies,Partner,5,748.05,Yes,3553.24,Medium
+200706,North,Government,Furniture,Online,59,192.55,No,11360.45,High
+200707,Central,Education,Maintenance,In Person,57,283.9,No,16182.3,High
+200708,East,Nonprofit,Furniture,In Person,99,2311.35,No,228823.65,High
+200709,East,Government,Office Supplies,Online,42,642.94,No,27003.48,High
+200710,North,Retail,Technology,Phone,9,1966.5,No,17698.5,High
+200711,Central,Nonprofit,Furniture,In Person,52,1326.91,Yes,62789.38,High
+200712,West,Wholesale,Food Service,Phone,92,94.73,No,8715.16,Medium
+200713,South,Education,Technology,Partner,11,272.24,No,2994.64,Medium
+200714,South,Retail,Office Supplies,Phone,33,937.52,Yes,25988.05,High
+200715,Central,Education,Food Service,In Person,21,1651.92,No,34690.32,High
+200716,North,Education,Food Service,Online,3,599.76,Yes,1583.37,Medium
+200717,Central,Government,Technology,Online,59,485.4,No,28638.6,High
+200718,East,Government,Maintenance,Partner,75,2452.91,Yes,169250.79,High
+200719,Central,Government,Office Supplies,Partner,3,1291.42,Yes,3060.67,Medium
+200720,Central,Retail,Office Supplies,Phone,100,1637.77,Yes,150674.84,High
+200721,Central,Nonprofit,Office Supplies,Online,95,1689.64,No,160515.8,High
+200722,North,Nonprofit,Technology,Online,58,1082.73,No,62798.34,High
+200723,South,Retail,Furniture,Phone,35,1136.88,No,39790.8,High
+200724,South,Retail,Technology,Online,95,2223.39,Yes,198548.73,High
+200725,South,Nonprofit,Office Supplies,Partner,58,1680.65,Yes,74083.05,High
+200726,Central,Education,Maintenance,Phone,77,1947.77,No,149978.29,High
+200727,Central,Nonprofit,Maintenance,In Person,43,1778.33,Yes,67292.01,High
+200728,Central,Government,Office Supplies,Partner,76,800.82,Yes,51732.97,High
+200729,North,Education,Technology,Online,60,1415.89,No,84953.4,High
+200730,South,Education,Furniture,In Person,29,1000.24,No,29006.96,High
+200731,West,Nonprofit,Food Service,Phone,68,1695.94,No,115323.92,High
+200732,North,Government,Food Service,Online,27,2201.78,No,59448.06,High
+200733,East,Nonprofit,Furniture,Partner,21,650.44,Yes,12020.13,High
+200734,South,Wholesale,Food Service,Phone,25,2248.87,Yes,50599.58,High
+200735,South,Retail,Technology,Partner,77,830.81,Yes,58214.86,High
+200736,North,Wholesale,Maintenance,Online,82,255.6,No,20959.2,High
+200737,North,Wholesale,Technology,Phone,20,269.36,Yes,4255.89,Medium
+200738,West,Wholesale,Technology,Partner,9,2078.81,Yes,17586.73,High
+200739,West,Education,Maintenance,Online,11,644.92,No,7094.12,Medium
+200740,South,Nonprofit,Food Service,Online,99,847.97,Yes,65480.24,High
+200741,Central,Government,Furniture,In Person,40,1200.95,Yes,41793.06,High
+200742,East,Nonprofit,Furniture,Partner,59,738.07,Yes,34836.9,High
+200743,North,Nonprofit,Food Service,Phone,12,200.09,Yes,1800.81,Medium
+200744,Central,Education,Food Service,In Person,11,1135.33,Yes,11864.2,High
+200745,North,Retail,Technology,Phone,91,1754.12,No,159624.92,High
+200746,South,Education,Technology,In Person,10,124.92,No,1249.2,Medium
+200747,East,Education,Technology,Partner,93,1374.3,Yes,100969.82,High
+200748,South,Wholesale,Maintenance,Online,80,1898.74,Yes,115443.39,High
+200749,North,Retail,Technology,Partner,11,17.53,No,192.83,Low
+200750,North,Wholesale,Office Supplies,In Person,12,2458.58,Yes,26847.69,High
+200751,West,Wholesale,Technology,In Person,87,713.4,Yes,57100.54,High
+200752,North,Education,Technology,In Person,46,709.28,No,32626.88,High
+200753,East,Wholesale,Technology,Phone,100,2243.75,Yes,181743.75,High
+200754,Central,Retail,Furniture,Partner,30,2468.31,Yes,68865.85,High
+200755,Central,Government,Furniture,Partner,86,248.59,No,21378.74,High
+200756,East,Retail,Food Service,In Person,32,1596.42,Yes,41379.21,High
+200757,Central,Education,Technology,Phone,88,330.58,No,29091.04,High
+200758,East,Education,Office Supplies,Phone,20,1345.45,Yes,24218.1,High
+200759,Central,Retail,Office Supplies,Online,53,252.36,No,13375.08,High
+200760,East,Nonprofit,Office Supplies,Phone,55,1392.69,Yes,61278.36,High
+200761,West,Nonprofit,Technology,Partner,8,1859.94,Yes,13689.16,High
+200762,West,Government,Office Supplies,In Person,92,355.9,Yes,24557.1,High
+200763,West,Wholesale,Furniture,Partner,52,2061.56,No,107201.12,High
+200764,East,Retail,Technology,Phone,61,490.52,Yes,25433.46,High
+200765,West,Education,Food Service,Partner,80,1153.56,Yes,71982.14,High
+200766,Central,Wholesale,Furniture,In Person,93,1799.82,Yes,130558.94,High
+200767,Central,Wholesale,Technology,Partner,48,1295.6,Yes,58457.47,High
+200768,West,Education,Furniture,Partner,86,404.87,Yes,28899.62,High
+200769,East,Nonprofit,Food Service,In Person,40,596.24,Yes,19556.67,High
+200770,Central,Wholesale,Furniture,Online,8,1308.97,No,10471.76,High
+200771,East,Wholesale,Technology,Online,93,781.64,Yes,58154.02,High
+200772,Central,Retail,Food Service,Online,99,508.1,Yes,37726.43,High
+200773,West,Retail,Office Supplies,Phone,97,1891.68,No,183492.96,High
+200774,South,Nonprofit,Technology,Partner,10,1003.69,No,10036.9,High
+200775,East,Wholesale,Technology,Phone,77,945.11,No,72773.47,High
+200776,East,Education,Food Service,Online,76,391.1,Yes,23481.64,High
+200777,North,Wholesale,Office Supplies,Partner,86,1504.42,No,129380.12,High
+200778,East,Nonprofit,Office Supplies,Phone,10,1444.1,No,14441.0,High
+200779,West,Wholesale,Food Service,Partner,41,2277.47,Yes,72833.49,High
+200780,Central,Retail,Office Supplies,Online,97,722.51,Yes,65878.46,High
+200781,East,Education,Furniture,Phone,72,285.1,Yes,18885.02,High
+200782,Central,Retail,Technology,Partner,6,397.48,Yes,1812.51,Medium
+200783,East,Retail,Furniture,In Person,19,803.9,Yes,14052.17,High
+200784,North,Wholesale,Maintenance,Phone,71,1713.69,Yes,92470.71,High
+200785,South,Wholesale,Maintenance,Online,67,1618.54,Yes,88922.59,High
+200786,West,Education,Maintenance,Partner,29,455.28,Yes,9902.34,Medium
+200787,South,Nonprofit,Technology,Online,79,2389.53,No,188772.87,High
+200788,Central,Government,Furniture,Online,57,926.9,Yes,39624.97,High
+200789,Central,Retail,Office Supplies,Phone,3,2398.6,No,7195.8,Medium
+200790,Central,Nonprofit,Technology,Phone,97,2399.05,No,232707.85,High
+200791,Central,Wholesale,Office Supplies,Phone,60,602.1,Yes,28900.8,High
+200792,North,Nonprofit,Furniture,Partner,81,346.49,No,28065.69,High
+200793,East,Government,Food Service,Online,68,1718.31,Yes,106329.02,High
+200794,West,Retail,Food Service,Online,33,1149.67,Yes,36042.15,High
+200795,East,Retail,Technology,Partner,88,1996.79,No,175717.52,High
+200796,North,Nonprofit,Technology,Phone,60,166.63,No,9997.8,Medium
+200797,Central,Education,Maintenance,In Person,80,1092.4,Yes,79526.72,High
+200798,South,Wholesale,Furniture,Online,61,1196.99,No,73016.39,High
+200799,South,Education,Maintenance,Phone,28,1413.74,No,39584.72,High
+200800,Central,Wholesale,Food Service,Phone,29,1126.35,Yes,27437.89,High
+200801,Central,Education,Furniture,In Person,22,1649.2,No,36282.4,High
+200802,Central,Wholesale,Office Supplies,Phone,88,1852.84,No,163049.92,High
+200803,North,Retail,Technology,Phone,90,364.59,No,32813.1,High
+200804,East,Education,Furniture,Phone,96,2342.73,Yes,191166.77,High
+200805,North,Retail,Food Service,In Person,26,1268.09,No,32970.34,High
+200806,West,Government,Technology,In Person,34,2202.48,No,74884.32,High
+200807,East,Wholesale,Office Supplies,Online,18,473.0,Yes,7492.32,Medium
+200808,Central,Nonprofit,Maintenance,Partner,57,1647.7,Yes,75135.12,High
+200809,East,Education,Office Supplies,In Person,43,816.53,Yes,26684.2,High
+200810,South,Nonprofit,Maintenance,Online,77,2422.09,No,186500.93,High
+200811,East,Wholesale,Technology,Online,49,1654.7,No,81080.3,High
+200812,Central,Nonprofit,Office Supplies,Partner,17,728.74,Yes,9415.32,Medium
+200813,West,Government,Furniture,Phone,55,1341.22,No,73767.1,High
+200814,North,Nonprofit,Furniture,Partner,85,179.31,No,15241.35,High
+200815,South,Government,Furniture,Phone,51,901.41,Yes,39535.84,High
+200816,East,Nonprofit,Food Service,Partner,75,2016.32,No,151224.0,High
+200817,West,Wholesale,Food Service,Online,24,1244.8,No,29875.2,High
+200818,Central,Government,Office Supplies,Phone,87,2113.43,No,183868.41,High
+200819,East,Wholesale,Technology,In Person,4,186.3,Yes,611.06,Low
+200820,East,Government,Office Supplies,Online,49,575.7,No,28209.3,High
+200821,East,Retail,Maintenance,Online,76,1149.53,Yes,73386.0,High
+200822,South,Retail,Furniture,Online,88,1623.43,Yes,134290.13,High
+200823,West,Education,Furniture,In Person,100,1296.13,Yes,112763.31,High
+200824,Central,Education,Maintenance,Phone,76,100.41,No,7631.16,Medium
+200825,North,Retail,Technology,Partner,86,1709.18,No,146989.48,High
+200826,North,Education,Maintenance,Partner,93,252.61,Yes,21848.24,High
+200827,South,Retail,Office Supplies,In Person,80,1891.39,No,151311.2,High
+200828,East,Retail,Food Service,In Person,15,1618.2,Yes,21845.7,High
+200829,East,Education,Office Supplies,Partner,84,500.74,Yes,37014.7,High
+200830,East,Education,Furniture,Online,85,2447.35,Yes,187222.27,High
+200831,South,Education,Office Supplies,Partner,37,789.91,Yes,24842.67,High
+200832,East,Education,Food Service,Online,24,177.98,No,4271.52,Medium
+200833,East,Education,Maintenance,Online,11,242.57,Yes,2401.44,Medium
+200834,West,Retail,Furniture,Online,87,1424.62,Yes,101632.39,High
+200835,North,Retail,Food Service,In Person,41,255.38,No,10470.58,High
+200836,West,Retail,Office Supplies,In Person,42,595.76,Yes,19517.1,High
+200837,South,Education,Furniture,In Person,17,2287.44,No,38886.48,High
+200838,North,Wholesale,Furniture,Phone,85,1612.09,No,137027.65,High
+200839,North,Wholesale,Office Supplies,In Person,44,235.69,No,10370.36,High
+200840,West,Retail,Technology,Partner,33,2108.77,No,69589.41,High
+200841,East,Education,Technology,In Person,59,2319.58,Yes,109484.18,High
+200842,South,Wholesale,Food Service,Partner,3,2264.37,Yes,6113.8,Medium
+200843,Central,Wholesale,Office Supplies,Online,42,971.04,No,40783.68,High
+200844,West,Retail,Furniture,In Person,65,758.68,Yes,44382.78,High
+200845,North,Education,Food Service,Online,78,1419.48,No,110719.44,High
+200846,Central,Education,Food Service,Phone,10,978.91,No,9789.1,Medium
+200847,South,Retail,Food Service,Phone,63,1790.58,Yes,92501.36,High
+200848,West,Nonprofit,Furniture,Partner,7,931.47,Yes,5868.26,Medium
+200849,South,Nonprofit,Office Supplies,Partner,11,1973.73,Yes,19757.04,High
+200850,North,Wholesale,Office Supplies,Online,36,1801.84,No,64866.24,High
+200851,West,Government,Maintenance,In Person,78,355.9,No,27760.2,High
+200852,North,Government,Furniture,Partner,16,2095.57,Yes,30846.79,High
+200853,West,Government,Office Supplies,Partner,4,1611.94,Yes,5029.25,Medium
+200854,West,Government,Technology,Phone,6,2024.74,Yes,11176.56,High
+200855,North,Nonprofit,Furniture,In Person,29,2394.52,No,69441.08,High
+200856,Central,Nonprofit,Office Supplies,Phone,81,2336.81,Yes,162782.18,High
+200857,South,Retail,Maintenance,In Person,21,1886.19,No,39609.99,High
+200858,West,Government,Furniture,In Person,60,1302.49,Yes,71115.95,High
+200859,East,Nonprofit,Office Supplies,Partner,89,515.66,No,45893.74,High
+200860,Central,Education,Technology,In Person,33,1929.72,Yes,56675.88,High
+200861,North,Education,Maintenance,In Person,42,1723.01,Yes,67300.77,High
+200862,North,Nonprofit,Office Supplies,In Person,63,1148.43,Yes,64392.47,High
+200863,South,Retail,Maintenance,Online,1,2230.04,No,2230.04,Medium
+200864,West,Wholesale,Technology,Online,65,2105.87,No,136881.55,High
+200865,Central,Government,Maintenance,Online,89,2197.82,No,195605.98,High
+200866,Central,Government,Maintenance,Online,52,1806.02,Yes,76069.56,High
+200867,East,Government,Furniture,Phone,5,1352.64,No,6763.2,Medium
+200868,Central,Nonprofit,Maintenance,Partner,58,1189.28,No,68978.24,High
+200869,Central,Education,Technology,In Person,98,1753.53,Yes,161535.18,High
+200870,North,Nonprofit,Technology,Partner,86,1917.69,No,164921.34,High
+200871,East,Retail,Technology,Phone,1,485.79,Yes,442.07,Low
+200872,North,Nonprofit,Food Service,Partner,92,1917.69,No,176427.48,High
+200873,West,Government,Food Service,Partner,58,2496.86,No,144817.88,High
+200874,North,Wholesale,Food Service,Partner,73,1872.59,No,136699.07,High
+200875,North,Education,Technology,Partner,71,1322.9,Yes,89229.61,High
+200876,Central,Retail,Technology,In Person,58,1813.64,Yes,98879.65,High
+200877,West,Nonprofit,Office Supplies,Partner,1,266.11,No,266.11,Low
+200878,West,Wholesale,Food Service,Online,84,2267.52,Yes,173329.23,High
+200879,Central,Government,Technology,Phone,31,1177.25,Yes,33575.17,High
+200880,East,Nonprofit,Office Supplies,Phone,4,1311.06,No,5244.24,Medium
+200881,East,Education,Office Supplies,Phone,70,1434.5,Yes,94390.1,High
+200882,Central,Wholesale,Furniture,Partner,1,1457.56,Yes,1093.17,Medium
+200883,South,Retail,Furniture,Phone,83,2258.5,Yes,161211.73,High
+200884,South,Nonprofit,Maintenance,Online,66,313.3,Yes,18196.46,High
+200885,South,Nonprofit,Food Service,Partner,76,2114.77,No,160722.52,High
+200886,Central,Government,Furniture,Phone,64,576.72,No,36910.08,High
+200887,East,Nonprofit,Maintenance,Partner,29,2495.64,No,72373.56,High
+200888,North,Education,Technology,Online,69,395.89,No,27316.41,High
+200889,South,Retail,Furniture,Online,28,1340.57,No,37535.96,High
+200890,Central,Wholesale,Technology,Partner,88,2359.94,Yes,184830.5,High
+200891,South,Retail,Technology,Online,23,798.9,No,18374.7,High
+200892,Central,Retail,Furniture,Phone,90,2230.6,No,200754.0,High
+200893,West,Wholesale,Office Supplies,Phone,52,670.34,Yes,32417.64,High
+200894,South,Wholesale,Office Supplies,Phone,49,1967.59,No,96411.91,High
+200895,East,Retail,Furniture,In Person,21,751.92,Yes,13263.87,High
+200896,South,Wholesale,Maintenance,Partner,20,925.01,No,18500.2,High
+200897,North,Nonprofit,Office Supplies,Phone,63,503.33,No,31709.79,High
+200898,East,Education,Office Supplies,Partner,82,1489.78,No,122161.96,High
+200899,East,Government,Food Service,In Person,81,738.23,No,59796.63,High
+200900,East,Government,Technology,In Person,8,2224.4,Yes,16193.63,High
+200901,West,Government,Office Supplies,Phone,69,2009.01,No,138621.69,High
+200902,East,Wholesale,Food Service,In Person,2,1425.12,Yes,2593.72,Medium
+200903,West,Education,Office Supplies,Phone,87,2106.91,Yes,170470.09,High
+200904,Central,Education,Furniture,Phone,67,2394.42,Yes,123528.13,High
+200905,East,Nonprofit,Food Service,Partner,63,2141.69,Yes,105242.65,High
+200906,East,Wholesale,Food Service,In Person,79,1787.39,Yes,108726.93,High
+200907,South,Government,Technology,Partner,71,1374.23,Yes,74153.45,High
+200908,East,Wholesale,Maintenance,Partner,55,1463.49,No,80491.95,High
+200909,West,Education,Technology,In Person,59,1892.41,Yes,96020.88,High
+200910,South,Retail,Technology,Online,27,2343.95,Yes,48097.85,High
+200911,North,Education,Technology,Online,80,1123.11,Yes,85356.36,High
+200912,Central,Nonprofit,Food Service,Phone,26,1688.3,Yes,40823.09,High
+200913,Central,Wholesale,Maintenance,Online,89,2243.43,No,199665.27,High
+200914,South,Nonprofit,Technology,Partner,61,1223.58,No,74638.38,High
+200915,North,Wholesale,Food Service,Online,10,950.75,No,9507.5,Medium
+200916,West,Retail,Office Supplies,Phone,72,860.47,No,61953.84,High
+200917,North,Retail,Office Supplies,Online,35,2209.78,Yes,64967.53,High
+200918,West,Nonprofit,Maintenance,Online,20,868.95,Yes,14250.78,High
+200919,South,Nonprofit,Maintenance,Online,88,1092.98,Yes,87525.84,High
+200920,West,Nonprofit,Technology,Phone,81,2072.04,Yes,132589.84,High
+200921,East,Government,Technology,Phone,64,212.74,Yes,12934.59,High
+200922,South,Retail,Office Supplies,Online,14,704.97,Yes,8783.93,Medium
+200923,South,Nonprofit,Food Service,Online,23,1555.19,No,35769.37,High
+200924,South,Retail,Technology,Online,40,2429.0,No,97160.0,High
+200925,West,Retail,Office Supplies,Phone,20,2206.86,Yes,39282.11,High
+200926,West,Wholesale,Food Service,Online,30,2068.84,No,62065.2,High
+200927,West,Nonprofit,Technology,In Person,12,1851.56,Yes,19108.1,High
+200928,Central,Wholesale,Office Supplies,Phone,100,2209.68,Yes,172355.04,High
+200929,North,Government,Furniture,Partner,86,2290.72,No,197001.92,High
+200930,Central,Government,Furniture,In Person,75,1300.65,No,97548.75,High
+200931,West,Education,Food Service,Phone,67,1886.07,No,126366.69,High
+200932,South,Nonprofit,Office Supplies,Online,20,1088.7,Yes,18072.42,High
+200933,West,Nonprofit,Maintenance,Online,49,1576.9,Yes,61814.48,High
+200934,North,Government,Food Service,Partner,64,62.94,Yes,3303.09,Medium
+200935,West,Wholesale,Maintenance,In Person,72,339.89,No,24472.08,High
+200936,West,Nonprofit,Maintenance,Online,87,706.08,Yes,57128.93,High
+200937,Central,Nonprofit,Furniture,Online,48,2038.35,No,97840.8,High
+200938,East,Nonprofit,Furniture,In Person,30,2113.94,Yes,50100.38,High
+200939,Central,Retail,Maintenance,Phone,32,1214.66,No,38869.12,High
+200940,East,Education,Office Supplies,Online,33,653.46,No,21564.18,High
+200941,West,Education,Office Supplies,Phone,22,907.39,No,19962.58,High
+200942,South,Education,Office Supplies,In Person,90,960.68,No,86461.2,High
+200943,South,Education,Technology,Online,24,1943.34,No,46640.16,High
+200944,East,Wholesale,Office Supplies,Phone,24,320.03,Yes,6605.42,Medium
+200945,South,Education,Food Service,Online,82,210.59,Yes,15541.54,High
+200946,North,Education,Technology,In Person,66,1932.44,Yes,121163.99,High
+200947,East,Government,Office Supplies,In Person,37,645.52,Yes,19585.08,High
+200948,West,Retail,Food Service,Phone,59,2187.0,No,129033.0,High
+200949,West,Wholesale,Maintenance,Partner,49,560.76,No,27477.24,High
+200950,East,Nonprofit,Maintenance,Phone,59,1232.94,No,72743.46,High
+200951,South,Education,Maintenance,In Person,8,774.15,No,6193.2,Medium
+200952,North,Nonprofit,Food Service,Partner,100,2120.39,Yes,167510.81,High
+200953,West,Education,Technology,Partner,50,2069.16,No,103458.0,High
+200954,North,Wholesale,Furniture,Phone,7,52.28,No,365.96,Low
+200955,East,Nonprofit,Food Service,Online,52,2136.34,Yes,92204.43,High
+200956,East,Wholesale,Office Supplies,Phone,19,1156.99,No,21982.81,High
+200957,North,Government,Food Service,Online,64,1349.75,No,86384.0,High
+200958,West,Wholesale,Office Supplies,Phone,67,1185.07,No,79399.69,High
+200959,East,Nonprofit,Furniture,In Person,31,276.6,Yes,7631.39,Medium
+200960,East,Retail,Maintenance,In Person,10,2362.86,No,23628.6,High
+200961,West,Nonprofit,Technology,Phone,98,2132.65,No,208999.7,High
+200962,East,Government,Food Service,Online,48,254.57,No,12219.36,High
+200963,West,Nonprofit,Food Service,Partner,28,411.46,No,11520.88,High
+200964,East,Education,Maintenance,Online,79,8.26,Yes,522.03,Low
+200965,South,Retail,Furniture,Partner,24,2228.53,No,53484.72,High
+200966,Central,Government,Maintenance,In Person,49,115.64,No,5666.36,Medium
+200967,South,Wholesale,Furniture,Partner,42,216.1,Yes,8440.87,Medium
+200968,South,Government,Food Service,Partner,71,934.09,No,66320.39,High
+200969,South,Nonprofit,Maintenance,Partner,62,1210.42,No,75046.04,High
+200970,North,Nonprofit,Technology,In Person,81,377.22,Yes,23832.76,High
+200971,South,Education,Technology,Phone,93,1795.22,Yes,150259.91,High
+200972,East,Retail,Maintenance,Online,54,1211.96,No,65445.84,High
+200973,Central,Nonprofit,Technology,Partner,4,572.74,Yes,1741.13,Medium
+200974,Central,Government,Furniture,Phone,31,2131.29,No,66069.99,High
+200975,Central,Education,Furniture,Partner,66,1535.65,Yes,76014.68,High
+200976,Central,Retail,Office Supplies,Phone,40,2397.6,No,95904.0,High
+200977,West,Government,Food Service,Phone,19,1577.2,No,29966.8,High
+200978,East,Retail,Food Service,Online,99,1342.08,Yes,106292.74,High
+200979,East,Government,Furniture,Online,86,1034.4,Yes,72945.89,High
+200980,Central,Retail,Technology,In Person,75,2124.75,Yes,148201.31,High
+200981,Central,Retail,Furniture,Partner,78,704.58,No,54957.24,High
+200982,East,Retail,Technology,In Person,5,94.55,No,472.75,Low
+200983,Central,Education,Food Service,In Person,97,264.88,No,25693.36,High
+200984,East,Nonprofit,Furniture,Partner,27,2250.87,No,60773.49,High
+200985,Central,Education,Maintenance,Partner,40,408.73,Yes,14223.8,High
+200986,North,Government,Furniture,Partner,31,796.49,No,24691.19,High
+200987,East,Wholesale,Food Service,Online,48,146.68,Yes,6195.76,Medium
+200988,East,Government,Food Service,Online,25,300.6,No,7515.0,Medium
+200989,North,Education,Furniture,In Person,41,2335.6,Yes,85226.04,High
+200990,West,Education,Technology,Phone,89,1220.15,No,108593.35,High
+200991,East,Government,Technology,Partner,3,607.06,No,1821.18,Medium
+200992,West,Government,Maintenance,Online,76,592.18,No,45005.68,High
+200993,Central,Education,Office Supplies,In Person,16,1227.54,No,19640.64,High
+200994,Central,Nonprofit,Maintenance,Partner,41,1928.68,Yes,72749.81,High
+200995,West,Nonprofit,Office Supplies,Phone,98,2328.89,Yes,178020.35,High
+200996,North,Government,Food Service,Partner,42,2449.51,Yes,81274.74,High
+200997,South,Government,Food Service,Partner,7,760.71,Yes,4685.97,Medium
+200998,West,Retail,Office Supplies,In Person,15,2467.34,Yes,33679.19,High
+200999,North,Government,Office Supplies,Partner,79,1325.69,No,104729.51,High
+201000,West,Government,Furniture,Phone,66,602.12,Yes,29804.94,High
+201001,Central,Wholesale,Technology,In Person,23,446.59,Yes,8628.12,Medium
+201002,Central,Wholesale,Office Supplies,Phone,57,222.92,No,12706.44,High
+201003,South,Nonprofit,Technology,In Person,18,636.67,Yes,8709.65,Medium
+201004,South,Government,Office Supplies,Online,72,122.62,Yes,7592.63,Medium
+201005,East,Retail,Furniture,Phone,18,1908.27,Yes,32287.93,High
+201006,West,Retail,Food Service,Partner,98,301.43,No,29540.14,High
+201007,North,Wholesale,Food Service,Phone,65,2276.67,No,147983.55,High
+201008,Central,Education,Technology,In Person,59,632.05,No,37290.95,High
+201009,Central,Retail,Technology,Partner,48,2203.43,No,105764.64,High
+201010,North,Government,Maintenance,Partner,75,898.2,No,67365.0,High
+201011,Central,Government,Office Supplies,In Person,34,68.33,No,2323.22,Medium
+201012,West,Education,Office Supplies,Online,60,185.6,No,11136.0,High
+201013,North,Government,Office Supplies,Phone,81,1769.7,No,143345.7,High
+201014,West,Government,Maintenance,Online,24,1723.39,Yes,36811.61,High
+201015,South,Wholesale,Furniture,Online,40,1498.73,No,59949.2,High
+201016,South,Nonprofit,Office Supplies,Online,5,774.81,No,3874.05,Medium
+201017,East,Retail,Technology,Phone,85,1158.08,Yes,80718.18,High
+201018,Central,Retail,Maintenance,Partner,96,1612.3,No,154780.8,High
+201019,North,Wholesale,Office Supplies,Partner,69,1552.37,Yes,80335.15,High
+201020,North,Government,Food Service,Online,36,1045.15,Yes,29724.07,High
+201021,South,Wholesale,Technology,Phone,54,530.12,No,28626.48,High
+201022,North,Nonprofit,Food Service,In Person,20,435.78,Yes,7931.2,Medium
+201023,North,Nonprofit,Office Supplies,Online,73,1469.75,Yes,86906.32,High
+201024,Central,Education,Maintenance,Phone,55,602.69,No,33147.95,High
+201025,South,Education,Office Supplies,Online,60,1523.28,No,91396.8,High
+201026,Central,Government,Furniture,Online,95,1127.65,Yes,93200.27,High
+201027,South,Retail,Food Service,In Person,26,784.2,Yes,16107.47,High
+201028,Central,Education,Technology,Online,13,1130.19,Yes,11019.35,High
+201029,East,Government,Food Service,In Person,53,1210.31,No,64146.43,High
+201030,South,Government,Technology,Online,9,2086.34,Yes,14458.34,High
+201031,North,Nonprofit,Technology,Online,21,1868.32,No,39234.72,High
+201032,South,Government,Office Supplies,In Person,66,41.25,No,2722.5,Medium
+201033,West,Wholesale,Maintenance,In Person,46,470.69,Yes,19486.57,High
+201034,East,Wholesale,Office Supplies,Online,9,876.03,No,7884.27,Medium
+201035,West,Wholesale,Food Service,Online,38,1384.55,Yes,47351.61,High
+201036,North,Nonprofit,Maintenance,Partner,31,2056.86,No,63762.66,High
+201037,North,Nonprofit,Food Service,Phone,87,1479.93,Yes,97852.97,High
+201038,South,Government,Food Service,Phone,24,2220.7,Yes,41571.5,High
+201039,East,Government,Furniture,Online,26,269.54,Yes,5956.83,Medium
+201040,North,Nonprofit,Office Supplies,Phone,2,2383.3,Yes,4003.94,Medium
+201041,Central,Retail,Technology,Phone,97,772.73,No,74954.81,High
+201042,West,Nonprofit,Furniture,Phone,88,1027.33,No,90405.04,High
+201043,North,Nonprofit,Food Service,Partner,32,1951.07,No,62434.24,High
+201044,North,Nonprofit,Maintenance,Online,3,1322.41,Yes,3411.82,Medium
+201045,South,Wholesale,Food Service,Phone,77,945.01,No,72765.77,High
+201046,Central,Retail,Food Service,Partner,60,856.31,Yes,41616.67,High
+201047,Central,Retail,Office Supplies,In Person,7,1783.26,Yes,9486.94,Medium
+201048,South,Wholesale,Office Supplies,Partner,63,2460.18,No,154991.34,High
+201049,North,Nonprofit,Food Service,Online,58,1088.7,No,63144.6,High
+201050,South,Education,Technology,Online,60,866.74,No,52004.4,High
+201051,East,Nonprofit,Furniture,Partner,91,2481.15,Yes,200948.34,High
+201052,West,Wholesale,Food Service,Partner,12,960.93,Yes,10839.29,High
+201053,West,Nonprofit,Office Supplies,In Person,42,2052.32,No,86197.44,High
+201054,North,Retail,Maintenance,Online,77,1259.86,No,97009.22,High
+201055,South,Nonprofit,Maintenance,Online,27,1014.0,No,27378.0,High
+201056,Central,Wholesale,Office Supplies,Online,97,1067.18,Yes,91094.48,High
+201057,East,Education,Food Service,Partner,40,90.36,No,3614.4,Medium
+201058,North,Nonprofit,Food Service,Online,20,1066.93,Yes,17497.65,High
+201059,East,Education,Furniture,Phone,29,411.23,Yes,10852.36,High
+201060,North,Retail,Maintenance,Phone,57,686.2,Yes,30899.59,High
+201061,East,Wholesale,Furniture,Partner,35,1620.78,Yes,44247.29,High
+201062,South,Nonprofit,Maintenance,Phone,62,656.63,Yes,33790.18,High
+201063,South,Education,Food Service,In Person,84,2224.2,Yes,160676.21,High
+201064,Central,Nonprofit,Office Supplies,Online,42,1853.36,No,77841.12,High
+201065,East,Education,Maintenance,Partner,99,682.78,Yes,51372.37,High
+201066,West,Nonprofit,Maintenance,Phone,38,1719.06,No,65324.28,High
+201067,Central,Retail,Maintenance,In Person,59,1739.0,No,102601.0,High
+201068,East,Retail,Technology,Online,36,626.96,Yes,19410.68,High
+201069,North,Retail,Food Service,Online,62,1069.22,No,66291.64,High
+201070,East,Education,Furniture,Online,47,1014.81,Yes,40064.7,High
+201071,North,Government,Furniture,Partner,90,843.35,Yes,62239.23,High
+201072,Central,Government,Office Supplies,Online,27,2217.37,Yes,56276.85,High
+201073,East,Government,Food Service,In Person,14,2242.03,Yes,29819.0,High
+201074,North,Retail,Food Service,Phone,49,1090.13,Yes,47006.41,High
+201075,East,Wholesale,Office Supplies,Online,59,1507.89,Yes,80068.96,High
+201076,South,Wholesale,Maintenance,Phone,98,698.37,Yes,51330.19,High
+201077,South,Government,Office Supplies,Partner,35,1566.68,Yes,41125.35,High
+201078,West,Retail,Furniture,Phone,66,1874.94,No,123746.04,High
+201079,South,Education,Food Service,In Person,27,920.38,No,24850.26,High
+201080,West,Retail,Office Supplies,Phone,84,1225.02,No,102901.68,High
+201081,West,Retail,Furniture,Partner,54,887.54,No,47927.16,High
+201082,East,Nonprofit,Maintenance,Online,8,159.2,Yes,1209.92,Medium
+201083,West,Retail,Food Service,Online,56,1298.99,No,72743.44,High
+201084,Central,Government,Furniture,Online,90,712.5,No,64125.0,High
+201085,Central,Nonprofit,Office Supplies,Partner,56,877.01,No,49112.56,High
+201086,Central,Government,Office Supplies,Partner,7,1423.5,Yes,9167.34,Medium
+201087,West,Retail,Maintenance,Phone,83,2280.52,Yes,179819.0,High
+201088,South,Wholesale,Office Supplies,In Person,55,610.51,No,33578.05,High
+201089,South,Wholesale,Office Supplies,In Person,44,431.47,Yes,17845.6,High
+201090,Central,Nonprofit,Technology,In Person,60,1697.88,No,101872.8,High
+201091,East,Wholesale,Furniture,Online,88,198.63,No,17479.44,High
+201092,West,Retail,Office Supplies,In Person,96,1359.74,Yes,117481.54,High
+201093,Central,Wholesale,Office Supplies,Online,92,1211.6,Yes,96976.46,High
+201094,North,Retail,Furniture,In Person,51,530.53,Yes,20292.77,High
+201095,South,Education,Maintenance,Partner,99,2161.58,No,213996.42,High
+201096,West,Government,Office Supplies,Online,2,2212.51,Yes,4203.77,Medium
+201097,East,Retail,Technology,Online,10,2032.88,No,20328.8,High
+201098,West,Government,Food Service,Phone,82,1217.43,No,99829.26,High
+201099,Central,Education,Maintenance,Online,24,304.58,Yes,5994.13,Medium
+201100,East,Retail,Furniture,In Person,23,2395.18,No,55089.14,High
+201101,Central,Nonprofit,Food Service,In Person,16,2459.01,No,39344.16,High
+201102,Central,Government,Food Service,Online,24,1143.6,No,27446.4,High
+201103,South,Government,Office Supplies,Partner,44,2246.74,Yes,76119.55,High
+201104,East,Wholesale,Office Supplies,In Person,89,445.36,Yes,33691.48,High
+201105,North,Retail,Office Supplies,Phone,92,479.66,Yes,38833.27,High
+201106,South,Wholesale,Food Service,Online,24,198.57,Yes,4003.17,Medium
+201107,Central,Retail,Furniture,Partner,14,385.42,Yes,4478.58,Medium
+201108,South,Education,Maintenance,Online,21,404.4,No,8492.4,Medium
+201109,South,Retail,Technology,In Person,35,1999.31,Yes,63678.02,High
+201110,West,Nonprofit,Technology,Phone,72,310.63,No,22365.36,High
+201111,East,Government,Furniture,Partner,86,834.12,No,71734.32,High
+201112,East,Education,Office Supplies,Phone,1,2463.91,No,2463.91,Medium
+201113,South,Wholesale,Office Supplies,Online,69,242.57,Yes,13557.24,High
+201114,Central,Retail,Maintenance,In Person,34,1817.62,Yes,58709.13,High
+201115,East,Nonprofit,Office Supplies,Phone,53,2061.16,No,109241.48,High
+201116,West,Education,Food Service,Online,44,2110.63,Yes,82652.27,High
+201117,West,Wholesale,Office Supplies,Online,80,738.54,No,59083.2,High
+201118,Central,Education,Technology,Online,68,16.73,Yes,1012.5,Medium
+201119,Central,Education,Technology,Online,77,2009.35,No,154719.95,High
+201120,East,Nonprofit,Maintenance,In Person,46,186.21,No,8565.66,Medium
+201121,Central,Nonprofit,Maintenance,Partner,99,73.28,No,7254.72,Medium
+201122,North,Nonprofit,Office Supplies,Online,16,2171.45,Yes,27447.13,High
+201123,North,Retail,Office Supplies,Partner,26,102.05,No,2653.3,Medium
+201124,Central,Retail,Office Supplies,In Person,54,2311.14,No,124801.56,High
+201125,West,Education,Food Service,Partner,95,217.26,Yes,17956.54,High
+201126,East,Government,Maintenance,Phone,51,451.37,Yes,20027.29,High
+201127,Central,Nonprofit,Technology,Partner,2,2158.5,No,4317.0,Medium
+201128,South,Education,Food Service,Online,44,437.69,Yes,18295.44,High
+201129,South,Education,Office Supplies,Phone,98,2128.82,Yes,187761.92,High
+201130,North,Wholesale,Furniture,In Person,2,278.05,No,556.1,Low
+201131,South,Government,Maintenance,Phone,88,1906.01,Yes,145924.13,High
+201132,West,Government,Food Service,Partner,80,2473.0,Yes,185969.6,High
+201133,West,Nonprofit,Maintenance,Online,96,1202.09,No,115400.64,High
+201134,South,Wholesale,Technology,In Person,74,721.33,Yes,40567.6,High
+201135,South,Government,Food Service,Phone,45,1823.0,Yes,74651.85,High
+201136,North,Nonprofit,Office Supplies,Online,64,1988.36,Yes,118347.19,High
+201137,Central,Education,Furniture,Partner,1,2338.34,No,2338.34,Medium
+201138,East,Wholesale,Food Service,Phone,77,1220.97,Yes,78972.34,High
+201139,East,Nonprofit,Food Service,Online,65,896.64,No,58281.6,High
+201140,West,Education,Office Supplies,Partner,20,114.75,No,2295.0,Medium
+201141,South,Nonprofit,Maintenance,Online,69,1584.21,Yes,92913.92,High
+201142,Central,Nonprofit,Food Service,Partner,25,1505.5,No,37637.5,High
+201143,Central,Wholesale,Technology,In Person,98,577.12,Yes,51467.56,High
+201144,West,Wholesale,Furniture,Partner,43,2275.11,No,97829.73,High
+201145,Central,Retail,Food Service,In Person,41,789.42,No,32366.22,High
+201146,North,Nonprofit,Food Service,Partner,6,1994.39,Yes,9453.41,Medium
+201147,North,Government,Furniture,Partner,42,2228.53,No,93598.26,High
+201148,Central,Wholesale,Technology,Online,62,420.03,Yes,19531.39,High
+201149,South,Retail,Technology,In Person,88,282.37,Yes,22612.19,High
+201150,East,Wholesale,Technology,Phone,74,861.54,No,63753.96,High
+201151,East,Education,Office Supplies,Phone,83,2127.13,No,176551.79,High
+201152,South,Retail,Maintenance,In Person,73,888.37,Yes,59014.42,High
+201153,South,Wholesale,Food Service,In Person,84,1543.32,Yes,114082.21,High
+201154,East,Wholesale,Food Service,In Person,16,1842.64,Yes,26239.19,High
+201155,West,Education,Technology,Online,50,140.75,No,7037.5,Medium
+201156,South,Education,Furniture,Partner,40,278.6,Yes,10586.8,High
+201157,East,Nonprofit,Food Service,In Person,87,2338.95,Yes,170930.47,High
+201158,West,Government,Food Service,In Person,49,1118.01,Yes,48208.59,High
+201159,East,Retail,Furniture,Online,34,1288.12,Yes,39854.43,High
+201160,Central,Retail,Maintenance,Online,65,430.9,Yes,26327.99,High
+201161,North,Retail,Technology,Phone,25,1151.44,Yes,21877.36,High
+201162,Central,Nonprofit,Office Supplies,Partner,44,1431.3,No,62977.2,High
+201163,West,Nonprofit,Furniture,Phone,81,526.03,No,42608.43,High
+201164,West,Education,Food Service,Partner,94,1300.25,No,122223.5,High
+201165,South,Nonprofit,Furniture,Online,47,1070.41,No,50309.27,High
+201166,South,Wholesale,Office Supplies,Phone,15,2158.5,Yes,29139.75,High
+201167,South,Education,Furniture,Partner,44,1123.02,Yes,46448.11,High
+201168,North,Retail,Food Service,Phone,79,1392.85,No,110035.15,High
+201169,Central,Nonprofit,Technology,Partner,63,1555.29,No,97983.27,High
+201170,West,Retail,Food Service,Partner,87,274.06,Yes,21220.47,High
+201171,South,Retail,Maintenance,In Person,31,298.21,Yes,8320.06,Medium
+201172,Central,Wholesale,Office Supplies,In Person,41,643.65,Yes,19792.24,High
+201173,West,Nonprofit,Technology,Online,77,907.87,Yes,65711.63,High
+201174,East,Wholesale,Technology,In Person,19,441.13,Yes,7962.4,Medium
+201175,West,Education,Office Supplies,Phone,49,148.19,Yes,5445.98,Medium
+201176,South,Retail,Furniture,Partner,45,2255.85,No,101513.25,High
+201177,South,Wholesale,Maintenance,In Person,76,832.78,No,63291.28,High
+201178,East,Education,Technology,Partner,9,1159.43,No,10434.87,High
+201179,East,Nonprofit,Technology,Online,57,558.02,No,31807.14,High
+201180,North,Retail,Maintenance,In Person,75,1892.41,Yes,126318.37,High
+201181,West,Retail,Maintenance,In Person,59,18.58,Yes,833.13,Low
+201182,South,Government,Furniture,Online,52,2467.0,No,128284.0,High
+201183,North,Retail,Furniture,Partner,98,380.62,Yes,30586.62,High
+201184,North,Government,Food Service,Phone,54,656.11,Yes,30469.75,High
+201185,West,Government,Food Service,Phone,17,67.91,No,1154.47,Medium
+201186,West,Retail,Maintenance,Phone,44,2069.0,No,91036.0,High
+201187,North,Government,Technology,Online,30,2176.45,Yes,53540.67,High
+201188,West,Wholesale,Technology,In Person,9,978.62,Yes,7134.14,Medium
+201189,Central,Retail,Furniture,Partner,80,76.83,No,6146.4,Medium
+201190,North,Government,Furniture,In Person,61,2262.5,Yes,117310.62,High
+201191,West,Government,Food Service,Online,66,1448.17,No,95579.22,High
+201192,South,Wholesale,Furniture,Online,6,48.59,Yes,241.98,Low
+201193,Central,Government,Maintenance,Partner,86,370.76,Yes,28696.82,High
+201194,North,Wholesale,Maintenance,Phone,52,1033.34,No,53733.68,High
+201195,North,Government,Maintenance,Phone,24,607.78,Yes,13273.92,High
+201196,East,Nonprofit,Food Service,In Person,56,1234.75,No,69146.0,High
+201197,Central,Wholesale,Furniture,Partner,48,1374.51,Yes,50801.89,High
+201198,North,Wholesale,Maintenance,Partner,40,1993.13,No,79725.2,High
+201199,Central,Education,Maintenance,Online,84,846.9,No,71139.6,High
+201200,South,Nonprofit,Maintenance,Partner,63,289.99,No,18269.37,High
+201201,South,Wholesale,Technology,In Person,83,959.51,Yes,67693.43,High
+201202,Central,Nonprofit,Food Service,Phone,50,1712.67,Yes,75357.48,High
+201203,Central,Government,Furniture,In Person,10,1784.6,No,17846.0,High
+201204,South,Retail,Maintenance,Phone,21,422.3,Yes,7005.96,Medium
+201205,Central,Retail,Maintenance,Online,55,1709.69,Yes,78987.68,High
+201206,East,Retail,Furniture,Partner,53,816.53,No,43276.09,High
+201207,West,Nonprofit,Furniture,Partner,68,1012.21,Yes,63323.86,High
+201208,West,Education,Technology,Partner,56,1105.21,Yes,58178.25,High
+201209,North,Education,Technology,In Person,81,18.22,Yes,1343.0,Medium
+201210,Central,Government,Furniture,Partner,82,1914.66,Yes,136591.84,High
+201211,West,Retail,Technology,Partner,100,865.17,No,86517.0,High
+201212,North,Wholesale,Office Supplies,Online,89,1336.76,Yes,110643.63,High
+201213,South,Nonprofit,Maintenance,In Person,3,2323.46,Yes,6133.93,Medium
+201214,North,Nonprofit,Office Supplies,Partner,78,880.75,No,68698.5,High
+201215,North,Government,Technology,Phone,98,2064.37,No,202308.26,High
+201216,West,Government,Food Service,Online,70,96.03,Yes,5176.02,Medium
+201217,North,Nonprofit,Food Service,Partner,38,2407.5,Yes,80506.8,High
+201218,Central,Retail,Maintenance,Partner,23,2240.68,No,51535.64,High
+201219,South,Education,Maintenance,In Person,34,1550.11,No,52703.74,High
+201220,West,Nonprofit,Food Service,Phone,1,287.63,Yes,258.87,Low
+201221,West,Wholesale,Furniture,Partner,58,1976.84,No,114656.72,High
+201222,North,Retail,Office Supplies,Phone,19,1626.1,No,30895.9,High
+201223,West,Government,Maintenance,Online,43,1887.02,No,81141.86,High
+201224,South,Government,Technology,Phone,74,2310.08,Yes,138466.2,High
+201225,West,Education,Technology,Phone,25,2425.38,No,60634.5,High
+201226,South,Nonprofit,Technology,Partner,2,34.77,No,69.54,Low
+201227,Central,Nonprofit,Technology,Phone,65,2173.49,No,141276.85,High
+201228,North,Government,Maintenance,Online,44,1093.34,No,48106.96,High
+201229,South,Retail,Food Service,In Person,41,1817.42,No,74514.22,High
+201230,East,Wholesale,Maintenance,Online,7,1210.17,No,8471.19,Medium
+201231,West,Education,Food Service,Online,70,1554.04,No,108782.8,High
+201232,North,Retail,Furniture,In Person,41,705.68,Yes,24592.95,High
+201233,Central,Government,Maintenance,In Person,41,717.69,No,29425.29,High
+201234,East,Government,Office Supplies,In Person,90,917.71,No,82593.9,High
+201235,South,Nonprofit,Office Supplies,Phone,83,301.43,Yes,19764.77,High
+201236,North,Wholesale,Office Supplies,In Person,19,352.8,No,6703.2,Medium
+201237,West,Retail,Furniture,Online,98,1059.97,Yes,78946.57,High
+201238,South,Nonprofit,Technology,In Person,95,1530.95,No,145440.25,High
+201239,South,Government,Furniture,Partner,10,2036.45,No,20364.5,High
+201240,Central,Government,Office Supplies,Partner,86,2411.14,No,207358.04,High
+201241,South,Government,Technology,In Person,46,1043.58,Yes,40323.93,High
+201242,North,Education,Office Supplies,Online,42,1426.38,No,59907.96,High
+201243,South,Government,Food Service,In Person,22,1325.02,No,29150.44,High
+201244,West,Education,Maintenance,In Person,90,1439.22,No,129529.8,High
+201245,North,Retail,Technology,Phone,28,1691.67,No,47366.76,High
+201246,East,Wholesale,Technology,Phone,2,22.18,No,44.36,Low
+201247,North,Retail,Office Supplies,Online,52,2258.71,No,117452.92,High
+201248,Central,Wholesale,Technology,Partner,10,2181.78,No,21817.8,High
+201249,West,Education,Technology,Partner,81,202.35,No,16390.35,High
+201250,East,Education,Food Service,Partner,52,1008.15,Yes,49278.37,High
+201251,South,Wholesale,Food Service,In Person,6,789.48,Yes,3600.03,Medium
+201252,Central,Government,Maintenance,Online,98,2236.6,No,219186.8,High
+201253,West,Government,Office Supplies,In Person,21,324.02,No,6804.42,Medium
+201254,Central,Government,Technology,Online,4,615.07,Yes,2214.25,Medium
+201255,North,Nonprofit,Furniture,In Person,56,1159.92,Yes,50015.75,High
+201256,West,Government,Office Supplies,In Person,95,362.22,Yes,28905.16,High
+201257,Central,Government,Food Service,In Person,46,2283.69,Yes,97696.26,High
+201258,North,Education,Technology,Phone,45,2458.21,No,110619.45,High
+201259,East,Retail,Maintenance,Partner,88,120.26,No,10582.88,High
+201260,South,Government,Furniture,In Person,96,194.53,Yes,17180.89,High
+201261,South,Wholesale,Technology,In Person,2,394.36,No,788.72,Low
+201262,East,Education,Maintenance,In Person,98,1755.43,Yes,149667.96,High
+201263,West,Wholesale,Maintenance,Phone,76,2355.93,No,179050.68,High
+201264,North,Retail,Furniture,Partner,75,1447.27,No,108545.25,High
+201265,East,Retail,Maintenance,Phone,63,767.87,Yes,36765.62,High
+201266,North,Government,Maintenance,Phone,58,387.37,No,22467.46,High
+201267,South,Education,Office Supplies,Online,51,1433.75,No,73121.25,High
+201268,Central,Government,Food Service,Phone,41,1822.11,Yes,67235.86,High
+201269,North,Wholesale,Technology,Phone,27,1998.64,No,53963.28,High
+201270,West,Government,Maintenance,In Person,84,538.27,No,45214.68,High
+201271,South,Nonprofit,Maintenance,Online,79,1549.71,Yes,93044.59,High
+201272,East,Education,Office Supplies,In Person,90,581.12,No,52300.8,High
+201273,Central,Government,Technology,In Person,88,1696.35,Yes,129872.56,High
+201274,West,Education,Maintenance,In Person,20,1004.66,No,20093.2,High
+201275,South,Government,Technology,Online,11,537.47,No,5912.17,Medium
+201276,South,Education,Office Supplies,Phone,1,1593.24,Yes,1481.71,Medium
+201277,East,Wholesale,Maintenance,Partner,22,2272.91,No,50004.02,High
+201278,South,Government,Food Service,Partner,37,933.81,No,34550.97,High
+201279,Central,Education,Technology,Phone,89,1348.77,Yes,111637.69,High
+201280,Central,Retail,Furniture,Partner,55,2231.58,No,122736.9,High
+201281,East,Government,Maintenance,Online,6,1744.09,Yes,8580.92,Medium
+201282,West,Government,Maintenance,Partner,9,1773.45,No,15961.05,High
+201283,West,Nonprofit,Technology,Partner,28,1538.7,No,43083.6,High
+201284,East,Wholesale,Food Service,In Person,79,1857.58,No,146748.82,High
+201285,East,Government,Furniture,Phone,73,2028.0,Yes,116954.76,High
+201286,South,Wholesale,Technology,In Person,96,824.42,Yes,71229.89,High
+201287,Central,Wholesale,Food Service,Phone,48,833.65,Yes,30011.4,High
+201288,East,Education,Food Service,Online,77,1593.73,Yes,107991.14,High
+201289,East,Retail,Food Service,Partner,39,1316.63,No,51348.57,High
+201290,West,Wholesale,Maintenance,Partner,1,627.77,No,627.77,Low
+201291,South,Education,Office Supplies,In Person,84,1611.05,No,135328.2,High
+201292,East,Government,Food Service,Partner,42,198.07,Yes,6488.77,Medium
+201293,Central,Wholesale,Maintenance,Phone,94,884.98,Yes,64886.73,High
+201294,North,Government,Office Supplies,In Person,50,1697.56,No,84878.0,High
+201295,Central,Retail,Technology,Online,18,2362.65,No,42527.7,High
+201296,Central,Wholesale,Furniture,Online,30,1176.88,No,35306.4,High
+201297,South,Wholesale,Office Supplies,Online,28,1579.05,Yes,41560.6,High
+201298,North,Education,Office Supplies,Phone,11,2224.5,No,24469.5,High
+201299,North,Nonprofit,Maintenance,Phone,15,162.43,No,2436.45,Medium
+201300,East,Education,Food Service,In Person,45,883.05,No,39737.25,High
+201301,West,Government,Food Service,Partner,33,379.33,No,12517.89,High
+201302,East,Wholesale,Office Supplies,Phone,2,1404.99,No,2809.98,Medium
+201303,Central,Education,Technology,Phone,71,997.49,No,70821.79,High
+201304,North,Nonprofit,Technology,Phone,14,2258.81,Yes,24033.74,High
+201305,East,Wholesale,Food Service,Phone,66,2097.38,Yes,117663.02,High
+201306,East,Education,Food Service,In Person,17,1885.97,No,32061.49,High
+201307,East,Education,Furniture,Phone,50,1307.77,Yes,52964.69,High
+201308,West,Wholesale,Maintenance,Online,3,1842.34,No,5527.02,Medium
+201309,East,Nonprofit,Maintenance,Online,87,72.9,No,6342.3,Medium
+201310,North,Wholesale,Food Service,Partner,6,1552.55,No,9315.3,Medium
+201311,West,Education,Furniture,Partner,30,900.78,Yes,21348.49,High
+201312,North,Retail,Maintenance,Online,69,1674.45,No,115537.05,High
+201313,East,Nonprofit,Food Service,In Person,49,1569.4,No,76900.6,High
+201314,North,Government,Maintenance,Partner,17,1981.99,Yes,26618.13,High
+201315,South,Nonprofit,Office Supplies,Online,69,2141.12,No,147737.28,High
+201316,West,Education,Food Service,Online,46,1432.1,No,65876.6,High
+201317,East,Retail,Furniture,Online,13,786.89,Yes,9104.32,Medium
+201318,West,Education,Furniture,Partner,98,423.51,Yes,31958.06,High
+201319,East,Retail,Furniture,Online,22,2120.78,No,46657.16,High
+201320,Central,Nonprofit,Technology,In Person,11,1000.76,No,11008.36,High
+201321,East,Government,Office Supplies,In Person,38,1144.02,No,43472.76,High
+201322,Central,Nonprofit,Technology,Phone,39,892.61,Yes,28197.55,High
+201323,North,Nonprofit,Furniture,Online,40,1171.07,Yes,38411.1,High
+201324,Central,Government,Furniture,Phone,56,1441.5,Yes,65386.44,High
+201325,Central,Retail,Maintenance,Partner,29,2179.51,Yes,54989.04,High
+201326,East,Retail,Office Supplies,Online,7,53.9,Yes,309.39,Low
+201327,East,Government,Food Service,Phone,91,1205.11,Yes,84442.06,High
+201328,North,Education,Food Service,Online,44,108.07,No,4755.08,Medium
+201329,Central,Wholesale,Technology,In Person,12,678.67,Yes,7736.84,Medium
+201330,Central,Wholesale,Technology,Online,91,531.3,No,48348.3,High
+201331,North,Retail,Technology,Partner,2,1793.25,Yes,3191.99,Medium
+201332,South,Government,Technology,Phone,18,555.7,No,10002.6,High
+201333,South,Retail,Furniture,In Person,41,1710.45,Yes,62414.32,High
+201334,North,Nonprofit,Furniture,Online,88,2214.91,Yes,146184.06,High
+201335,South,Education,Food Service,Online,6,1256.15,No,7536.9,Medium
+201336,North,Education,Technology,Partner,31,1300.24,Yes,37485.92,High
+201337,South,Government,Office Supplies,Online,21,267.66,Yes,4890.15,Medium
+201338,South,Education,Food Service,In Person,100,1676.86,No,167686.0,High
+201339,South,Retail,Maintenance,Phone,43,1483.12,Yes,49106.1,High
+201340,North,Government,Furniture,Partner,14,1469.29,No,20570.06,High
+201341,East,Nonprofit,Technology,Partner,20,845.15,Yes,13353.37,High
+201342,South,Education,Furniture,Online,34,1809.4,No,61519.6,High
+201343,Central,Government,Furniture,Partner,69,149.1,No,10287.9,High
+201344,North,Government,Technology,Online,65,197.61,No,12844.65,High
+201345,South,Nonprofit,Technology,Partner,7,1956.71,No,13696.97,High
+201346,East,Retail,Furniture,In Person,98,1117.54,Yes,96376.65,High
+201347,South,Government,Technology,Online,13,2043.1,Yes,23373.06,High
+201348,East,Education,Office Supplies,Online,3,2056.39,No,6169.17,Medium
+201349,Central,Retail,Office Supplies,In Person,81,404.35,Yes,27511.97,High
+201350,North,Nonprofit,Food Service,Online,8,1814.21,No,14513.68,High
+201351,West,Wholesale,Maintenance,Phone,24,1804.97,No,43319.28,High
+201352,Central,Education,Food Service,Online,83,2299.42,No,190851.86,High
+201353,South,Education,Food Service,In Person,16,1640.15,Yes,21781.19,High
+201354,West,Nonprofit,Maintenance,In Person,71,957.09,No,67953.39,High
+201355,North,Nonprofit,Food Service,Phone,7,1359.8,Yes,7138.95,Medium
+201356,East,Wholesale,Technology,In Person,20,599.76,No,11995.2,High
+201357,North,Education,Maintenance,Partner,70,1772.87,Yes,99280.72,High
+201358,South,Wholesale,Maintenance,In Person,59,43.99,No,2595.41,Medium
+201359,West,Retail,Food Service,In Person,1,1012.97,Yes,921.8,Low
+201360,East,Nonprofit,Maintenance,Phone,51,1361.14,No,69418.14,High
+201361,East,Nonprofit,Maintenance,Online,84,1403.98,Yes,100244.17,High
+201362,Central,Wholesale,Technology,Partner,67,796.56,Yes,45364.09,High
+201363,North,Retail,Furniture,In Person,3,2131.83,No,6395.49,Medium
+201364,West,Nonprofit,Technology,In Person,81,720.46,No,58357.26,High
+201365,East,Retail,Food Service,Phone,33,2279.79,No,75233.07,High
+201366,West,Retail,Office Supplies,Online,2,2005.71,Yes,3650.39,Medium
+201367,East,Wholesale,Office Supplies,Partner,41,406.92,Yes,15182.19,High
+201368,South,Nonprofit,Food Service,In Person,100,2033.11,No,203311.0,High
+201369,East,Wholesale,Office Supplies,In Person,25,1406.81,Yes,33060.03,High
+201370,North,Government,Furniture,Phone,91,1892.31,Yes,129150.16,High
+201371,Central,Government,Food Service,In Person,11,1080.43,Yes,9626.63,Medium
+201372,Central,Government,Maintenance,Partner,82,2218.11,Yes,167334.22,High
+201373,West,Nonprofit,Food Service,Partner,37,1619.14,No,59908.18,High
+201374,East,Nonprofit,Technology,Phone,5,2004.06,Yes,7815.83,Medium
+201375,West,Government,Furniture,Online,53,1866.62,No,98930.86,High
+201376,West,Education,Furniture,Online,66,2324.6,No,153423.6,High
+201377,East,Nonprofit,Maintenance,In Person,89,2232.57,No,198698.73,High
+201378,North,Government,Food Service,Phone,19,1167.07,No,22174.33,High
+201379,Central,Education,Furniture,Phone,14,203.36,No,2847.04,Medium
+201380,East,Government,Furniture,Phone,97,2441.46,No,236821.62,High
+201381,Central,Education,Office Supplies,In Person,85,2045.78,Yes,159980.0,High
+201382,East,Retail,Furniture,Partner,28,1878.94,Yes,44718.77,High
+201383,North,Nonprofit,Food Service,Online,35,62.99,No,2204.65,Medium
+201384,West,Nonprofit,Office Supplies,Online,93,471.2,No,43821.6,High
+201385,Central,Nonprofit,Maintenance,Online,36,1942.28,No,69922.08,High
+201386,South,Government,Office Supplies,Online,72,524.04,No,37730.88,High
+201387,North,Retail,Food Service,In Person,6,850.74,Yes,4491.91,Medium
+201388,East,Wholesale,Furniture,Online,52,1177.28,No,61218.56,High
+201389,South,Wholesale,Office Supplies,Online,62,312.32,No,19363.84,High
+201390,North,Government,Office Supplies,Online,12,2429.17,Yes,23028.53,High
+201391,East,Government,Furniture,Online,52,680.83,Yes,27614.46,High
+201392,North,Nonprofit,Furniture,In Person,60,1627.95,Yes,90839.61,High
+201393,North,Education,Office Supplies,In Person,25,1680.91,No,42022.75,High
+201394,Central,Wholesale,Technology,In Person,29,1514.42,No,43918.18,High
+201395,West,Government,Technology,In Person,60,493.32,No,29599.2,High
+201396,East,Wholesale,Furniture,Partner,38,1676.46,Yes,56060.82,High
+201397,West,Nonprofit,Office Supplies,In Person,48,2274.41,No,109171.68,High
+201398,North,Nonprofit,Technology,Phone,29,562.32,No,16307.28,High
+201399,South,Wholesale,Food Service,In Person,58,1814.95,Yes,78950.33,High
+201400,West,Wholesale,Food Service,Partner,3,1604.53,Yes,4284.1,Medium
+201401,North,Retail,Furniture,In Person,65,2148.18,Yes,118686.94,High
+201402,North,Education,Maintenance,Partner,49,783.27,Yes,32623.2,High
+201403,North,Government,Furniture,Phone,78,2423.56,No,189037.68,High
+201404,South,Education,Technology,Phone,59,297.28,Yes,14733.2,High
+201405,North,Wholesale,Food Service,Phone,68,477.95,Yes,28275.52,High
+201406,South,Education,Maintenance,Online,41,1510.72,Yes,56364.96,High
+201407,West,Retail,Food Service,Online,30,225.97,Yes,6033.4,Medium
+201408,West,Nonprofit,Maintenance,Phone,92,735.33,Yes,52090.78,High
+201409,East,Nonprofit,Office Supplies,Partner,21,1258.2,No,26422.2,High
+201410,North,Nonprofit,Food Service,In Person,95,1514.42,No,143869.9,High
+201411,West,Wholesale,Furniture,Online,75,2331.28,Yes,138128.34,High
+201412,South,Government,Food Service,Online,65,514.45,No,33439.25,High
+201413,North,Education,Technology,Online,60,1731.39,No,103883.4,High
+201414,East,Wholesale,Maintenance,Partner,91,2462.15,No,224055.65,High
+201415,Central,Wholesale,Technology,In Person,12,1921.51,No,23058.12,High
+201416,North,Education,Technology,Partner,62,743.9,Yes,40125.97,High
+201417,West,Education,Furniture,Phone,78,1913.55,No,149256.9,High
+201418,East,Education,Furniture,In Person,4,1892.5,No,7570.0,Medium
+201419,West,Wholesale,Technology,Partner,45,2109.58,No,94931.1,High
+201420,South,Retail,Furniture,In Person,80,1970.48,No,157638.4,High
+201421,East,Nonprofit,Food Service,Partner,93,973.53,Yes,84200.61,High
+201422,West,Nonprofit,Furniture,In Person,2,111.73,Yes,203.35,Low
+201423,South,Wholesale,Office Supplies,Online,31,46.77,Yes,1333.88,Medium
+201424,West,Retail,Furniture,In Person,55,1890.66,Yes,96707.26,High
+201425,South,Nonprofit,Food Service,Partner,6,298.21,Yes,1628.23,Medium
+201426,North,Wholesale,Food Service,In Person,38,1473.3,Yes,46467.88,High
+201427,East,Government,Food Service,Partner,63,1135.81,Yes,58675.94,High
+201428,North,Nonprofit,Maintenance,Phone,76,410.3,No,31182.8,High
+201429,West,Education,Maintenance,Online,6,1774.42,Yes,7984.89,Medium
+201430,Central,Retail,Furniture,Phone,71,2459.01,No,174589.71,High
+201431,West,Government,Technology,Online,38,128.69,Yes,3716.57,Medium
+201432,Central,Retail,Office Supplies,In Person,93,2091.91,Yes,180929.3,High
+201433,West,Government,Maintenance,Online,98,1481.37,Yes,136463.8,High
+201434,Central,Wholesale,Food Service,In Person,31,2485.03,Yes,72413.77,High
+201435,Central,Nonprofit,Furniture,Phone,54,1853.28,No,100077.12,High
+201436,East,Wholesale,Technology,Phone,73,14.76,No,1077.48,Medium
+201437,South,Nonprofit,Food Service,In Person,89,2384.42,Yes,182503.51,High
+201438,East,Government,Furniture,Partner,71,2199.8,No,156185.8,High
+201439,West,Nonprofit,Office Supplies,Phone,44,1847.87,Yes,74801.78,High
+201440,West,Wholesale,Furniture,Online,13,241.01,No,3133.13,Medium
+201441,South,Retail,Maintenance,In Person,81,586.67,Yes,42768.24,High
+201442,East,Nonprofit,Maintenance,Online,82,1214.33,No,99575.06,High
+201443,West,Wholesale,Food Service,Phone,25,796.49,Yes,14934.19,High
+201444,East,Government,Technology,Partner,36,163.89,Yes,4838.03,Medium
+201445,North,Nonprofit,Maintenance,Online,23,1912.42,Yes,40026.95,High
+201446,East,Government,Technology,Partner,33,1658.84,No,54741.72,High
+201447,South,Wholesale,Office Supplies,Online,7,2024.05,Yes,12893.2,High
+201448,Central,Education,Technology,In Person,39,2205.92,No,86030.88,High
+201449,East,Retail,Maintenance,Phone,45,1686.14,No,75876.3,High
+201450,East,Education,Furniture,Phone,42,537.6,No,22579.2,High
+201451,Central,Education,Maintenance,Phone,58,188.34,Yes,9503.64,Medium
+201452,South,Government,Technology,Partner,30,38.25,Yes,952.42,Low
+201453,East,Retail,Technology,Online,9,2059.12,No,18532.08,High
+201454,South,Nonprofit,Technology,In Person,56,2368.54,Yes,111416.12,High
+201455,North,Wholesale,Food Service,Phone,13,2047.58,Yes,23956.69,High
+201456,North,Nonprofit,Maintenance,Online,61,1857.73,No,113321.53,High
+201457,West,Nonprofit,Technology,Phone,44,861.03,No,37885.32,High
+201458,North,Nonprofit,Furniture,In Person,61,971.9,Yes,48614.44,High
+201459,West,Education,Furniture,In Person,22,1992.12,No,43826.64,High
+201460,East,Government,Maintenance,Online,90,1862.85,No,167656.5,High
+201461,West,Retail,Technology,In Person,58,581.5,No,33727.0,High
+201462,North,Government,Maintenance,Online,29,70.56,No,2046.24,Medium
+201463,North,Nonprofit,Office Supplies,Online,30,966.64,No,28999.2,High
+201464,Central,Government,Maintenance,Online,5,136.92,Yes,533.99,Low
+201465,North,Nonprofit,Maintenance,Partner,85,647.08,Yes,44551.46,High
+201466,East,Education,Office Supplies,In Person,2,1081.18,No,2162.36,Medium
+201467,East,Retail,Technology,Partner,16,1348.84,Yes,16617.71,High
+201468,East,Retail,Food Service,Partner,11,178.59,Yes,1748.4,Medium
+201469,West,Education,Furniture,Online,75,2059.66,Yes,132848.07,High
+201470,West,Government,Furniture,Partner,64,615.08,Yes,37003.21,High
+201471,West,Retail,Furniture,Phone,39,643.36,No,25091.04,High
+201472,Central,Education,Office Supplies,In Person,77,572.46,No,44079.42,High
+201473,Central,Government,Office Supplies,Phone,96,434.85,No,41745.6,High
+201474,East,Government,Office Supplies,Phone,77,904.82,No,69671.14,High
+201475,North,Nonprofit,Office Supplies,Partner,79,30.51,No,2410.29,Medium
+201476,North,Retail,Office Supplies,In Person,40,579.16,No,23166.4,High
+201477,South,Wholesale,Food Service,In Person,29,1598.49,Yes,40793.46,High
+201478,South,Government,Maintenance,Partner,47,1231.06,No,57859.82,High
+201479,East,Nonprofit,Furniture,In Person,71,2250.87,Yes,143830.59,High
+201480,North,Wholesale,Furniture,Online,62,1632.27,Yes,93104.68,High
+201481,West,Government,Furniture,Phone,43,2308.38,No,99260.34,High
+201482,South,Nonprofit,Food Service,Partner,22,2246.46,No,49422.12,High
+201483,East,Retail,Food Service,Phone,48,2091.02,Yes,77284.1,High
+201484,Central,Nonprofit,Maintenance,Partner,91,2246.41,No,204423.31,High
+201485,Central,Nonprofit,Maintenance,Phone,4,1840.53,No,7362.12,Medium
+201486,West,Retail,Food Service,In Person,49,2033.64,Yes,84701.11,High
+201487,East,Government,Technology,In Person,72,1097.47,Yes,75066.95,High
+201488,East,Education,Office Supplies,In Person,9,2068.89,No,18620.01,High
+201489,East,Education,Technology,In Person,37,1168.37,No,43229.69,High
+201490,North,Government,Furniture,Online,72,2207.5,Yes,144635.4,High
+201491,North,Retail,Furniture,Partner,100,530.47,No,53047.0,High
+201492,West,Government,Furniture,Online,19,926.51,Yes,16195.39,High
+201493,East,Nonprofit,Technology,Online,90,1540.62,Yes,127563.34,High
+201494,West,Retail,Technology,Phone,39,1743.86,No,68010.54,High
+201495,Central,Education,Technology,In Person,23,453.4,Yes,9593.94,Medium
+201496,West,Education,Furniture,Phone,76,263.11,No,19996.36,High
+201497,Central,Retail,Food Service,In Person,96,1084.43,No,104105.28,High
+201498,East,Retail,Maintenance,Partner,100,819.87,Yes,68049.21,High
+201499,North,Government,Food Service,In Person,9,1462.14,No,13159.26,High
+201500,South,Government,Furniture,Phone,34,13.01,Yes,375.99,Low
+201501,West,Retail,Food Service,Online,12,2309.14,No,27709.68,High
+201502,North,Wholesale,Maintenance,Phone,82,1745.12,Yes,121634.86,High
+201503,East,Government,Furniture,Partner,99,1431.58,No,141726.42,High
+201504,East,Nonprofit,Food Service,Phone,74,295.54,No,21869.96,High
+201505,Central,Education,Office Supplies,Partner,29,1053.5,Yes,28718.41,High
+201506,North,Retail,Maintenance,In Person,3,1834.95,Yes,4183.69,Medium
+201507,East,Nonprofit,Maintenance,Phone,78,2147.76,No,167525.28,High
+201508,East,Education,Technology,Phone,12,1878.58,Yes,19386.95,High
+201509,North,Government,Technology,Online,95,1413.13,No,134247.35,High
+201510,North,Wholesale,Office Supplies,Partner,48,2082.39,No,99954.72,High
+201511,Central,Retail,Office Supplies,Phone,87,2032.89,Yes,145026.37,High
+201512,North,Wholesale,Furniture,Online,39,2003.49,No,78136.11,High
+201513,Central,Nonprofit,Food Service,Partner,36,2266.92,Yes,77528.66,High
+201514,West,Government,Office Supplies,Partner,44,406.26,Yes,16445.4,High
+201515,East,Government,Furniture,In Person,12,2235.27,No,26823.24,High
+201516,Central,Nonprofit,Maintenance,In Person,26,2460.92,Yes,55666.01,High
+201517,South,Retail,Maintenance,Partner,54,2350.4,No,126921.6,High
+201518,Central,Wholesale,Office Supplies,In Person,21,945.13,No,19847.73,High
+201519,West,Retail,Food Service,Partner,5,1621.32,Yes,6647.41,Medium
+201520,East,Government,Office Supplies,Online,53,294.99,No,15634.47,High
+201521,East,Nonprofit,Maintenance,Online,36,1441.23,Yes,38913.21,High
+201522,East,Education,Technology,Online,4,247.14,Yes,929.25,Low
+201523,Central,Education,Maintenance,Partner,3,2199.59,Yes,5213.03,Medium
+201524,East,Government,Furniture,Partner,57,940.01,No,53580.57,High
+201525,South,Retail,Office Supplies,Online,54,1029.68,Yes,50598.48,High
+201526,West,Nonprofit,Technology,In Person,100,2188.48,No,218848.0,High
+201527,East,Retail,Maintenance,Partner,35,870.93,No,30482.55,High
+201528,East,Education,Food Service,Phone,54,1123.02,No,60643.08,High
+201529,Central,Nonprofit,Food Service,Phone,71,1325.92,Yes,89433.3,High
+201530,South,Education,Office Supplies,Online,70,2009.52,Yes,118159.78,High
+201531,North,Government,Maintenance,Partner,44,1852.84,No,81524.96,High
+201532,North,Government,Office Supplies,Online,26,1743.62,No,45334.12,High
+201533,South,Government,Food Service,Partner,48,1481.37,Yes,54751.44,High
+201534,East,Nonprofit,Maintenance,Partner,53,2426.99,No,128630.47,High
+201535,West,Wholesale,Technology,Phone,18,1173.73,Yes,16479.17,High
+201536,East,Government,Maintenance,Phone,46,1559.06,Yes,59524.91,High
+201537,South,Education,Technology,Online,24,1174.33,Yes,26492.88,High
+201538,East,Wholesale,Food Service,Online,12,1063.05,Yes,9822.58,Medium
+201539,West,Government,Furniture,In Person,99,2170.83,No,214912.17,High
+201540,West,Retail,Food Service,Phone,21,1345.67,No,28259.07,High
+201541,North,Wholesale,Technology,Partner,21,946.84,Yes,17298.77,High
+201542,North,Retail,Food Service,Phone,38,162.29,No,6167.02,Medium
+201543,East,Education,Technology,Phone,13,8.4,Yes,100.46,Low
+201544,Central,Retail,Maintenance,Phone,41,626.28,Yes,22852.96,High
+201545,North,Education,Furniture,Phone,14,2000.26,Yes,21002.73,High
+201546,North,Wholesale,Maintenance,Phone,81,404.6,No,32772.6,High
+201547,West,Nonprofit,Maintenance,In Person,46,452.56,Yes,19152.34,High
+201548,North,Government,Food Service,Partner,27,753.99,No,20357.73,High
+201549,Central,Nonprofit,Office Supplies,Partner,45,1174.72,No,52862.4,High
+201550,West,Retail,Office Supplies,Partner,6,1700.85,No,10205.1,High
+201551,West,Nonprofit,Technology,Phone,54,1496.33,No,80801.82,High
+201552,West,Education,Food Service,In Person,78,2179.79,Yes,136018.9,High
+201553,North,Government,Maintenance,Phone,29,1783.46,No,51720.34,High
+201554,West,Nonprofit,Furniture,Phone,47,1300.84,Yes,50745.77,High
+201555,North,Wholesale,Furniture,Online,29,225.36,No,6535.44,Medium
+201556,North,Wholesale,Maintenance,In Person,60,1717.82,No,103069.2,High
+201557,Central,Nonprofit,Technology,In Person,39,684.83,Yes,25105.87,High
+201558,Central,Nonprofit,Maintenance,Phone,13,1122.44,Yes,13862.13,High
+201559,Central,Education,Furniture,Online,25,1562.06,No,39051.5,High
+201560,North,Government,Food Service,Phone,75,219.66,No,16474.5,High
+201561,North,Education,Maintenance,Online,84,2067.46,Yes,158036.64,High
+201562,South,Wholesale,Maintenance,Partner,26,121.32,No,3154.32,Medium
+201563,West,Education,Maintenance,In Person,56,2031.74,No,113777.44,High
+201564,North,Education,Furniture,Phone,26,224.05,No,5825.3,Medium
+201565,Central,Retail,Office Supplies,Partner,49,1711.58,Yes,63739.24,High
+201566,South,Education,Office Supplies,Partner,31,628.75,No,19491.25,High
+201567,West,Wholesale,Maintenance,Phone,75,13.48,No,1011.0,Medium
+201568,Central,Education,Office Supplies,Phone,98,149.98,No,14698.04,High
+201569,South,Education,Food Service,Partner,85,1512.11,No,128529.35,High
+201570,South,Retail,Food Service,Partner,70,2267.39,No,158717.3,High
+201571,North,Retail,Maintenance,Phone,29,1775.3,Yes,47365.0,High
+201572,East,Nonprofit,Office Supplies,Partner,48,2281.17,No,109496.16,High
+201573,West,Retail,Food Service,In Person,49,2217.69,Yes,93453.46,High
+201574,East,Education,Furniture,Partner,9,525.91,No,4733.19,Medium
+201575,North,Government,Technology,In Person,40,2066.05,No,82642.0,High
+201576,West,Government,Technology,Phone,6,2239.45,No,13436.7,High
+201577,West,Education,Office Supplies,Online,96,2276.67,No,218560.32,High
+201578,South,Nonprofit,Furniture,Partner,90,2389.93,Yes,204339.01,High
+201579,South,Education,Office Supplies,Partner,53,1296.32,No,68704.96,High
+201580,Central,Education,Food Service,Online,86,557.49,Yes,41711.4,High
+201581,East,Wholesale,Office Supplies,Partner,23,1336.88,No,30748.24,High
+201582,Central,Nonprofit,Food Service,Partner,78,653.36,Yes,44846.63,High
+201583,Central,Wholesale,Technology,Phone,16,83.71,Yes,1178.64,Medium
+201584,North,Government,Office Supplies,Phone,47,1541.52,Yes,60134.7,High
+201585,West,Nonprofit,Office Supplies,Online,49,2280.52,No,111745.48,High
+201586,South,Education,Technology,In Person,14,1559.76,No,21836.64,High
+201587,Central,Retail,Technology,Online,93,2043.26,Yes,169120.63,High
+201588,West,Retail,Maintenance,In Person,76,20.22,Yes,1429.15,Medium
+201589,South,Government,Food Service,Phone,71,2328.39,No,165315.69,High
+201590,Central,Retail,Technology,Phone,18,1246.51,No,22437.18,High
+201591,North,Wholesale,Technology,Partner,47,239.17,Yes,8880.38,Medium
+201592,West,Nonprofit,Office Supplies,Partner,7,1869.4,Yes,10861.21,High
+201593,South,Wholesale,Food Service,In Person,88,2045.66,Yes,154815.55,High
+201594,Central,Retail,Office Supplies,Phone,97,327.36,Yes,23815.44,High
+201595,Central,Retail,Technology,Online,90,1944.45,Yes,136500.39,High
+201596,South,Nonprofit,Maintenance,Online,69,209.24,No,14437.56,High
+201597,West,Wholesale,Food Service,Phone,48,66.76,No,3204.48,Medium
+201598,North,Government,Office Supplies,In Person,70,2268.82,No,158817.4,High
+201599,Central,Education,Maintenance,Online,17,2319.8,No,39436.6,High
+201600,South,Wholesale,Food Service,Phone,60,1443.89,Yes,73638.39,High
+201601,North,Wholesale,Office Supplies,Online,17,481.38,No,8183.46,Medium
+201602,North,Retail,Furniture,Partner,60,2443.65,Yes,118761.39,High
+201603,East,Retail,Food Service,Partner,57,2331.4,No,132889.8,High
+201604,West,Nonprofit,Technology,Online,100,1516.27,Yes,115236.52,High
+201605,South,Nonprofit,Maintenance,Phone,56,576.85,Yes,28750.2,High
+201606,Central,Wholesale,Food Service,Phone,30,977.01,No,29310.3,High
+201607,West,Education,Food Service,Partner,87,965.43,No,83992.41,High
+201608,South,Education,Technology,Phone,78,1996.67,Yes,116805.2,High
+201609,East,Wholesale,Food Service,Online,49,558.72,Yes,22996.92,High
+201610,South,Wholesale,Technology,Phone,53,814.86,Yes,36709.44,High
+201611,West,Education,Maintenance,Partner,95,398.47,No,37854.65,High
+201612,Central,Nonprofit,Technology,Partner,61,948.81,No,57877.41,High
+201613,East,Wholesale,Furniture,Partner,69,1714.14,Yes,94620.53,High
+201614,East,Nonprofit,Office Supplies,Partner,69,2250.4,Yes,119563.75,High
+201615,West,Retail,Maintenance,Partner,90,663.23,No,59690.7,High
+201616,East,Nonprofit,Maintenance,Online,59,1237.39,Yes,67165.53,High
+201617,South,Education,Technology,In Person,84,1850.14,No,155411.76,High
+201618,East,Government,Food Service,Partner,17,2345.2,Yes,34286.82,High
+201619,East,Wholesale,Office Supplies,Online,52,1006.68,No,52347.36,High
+201620,North,Retail,Technology,In Person,6,1883.34,Yes,9379.03,Medium
+201621,Central,Government,Furniture,Online,90,583.77,No,52539.3,High
+201622,South,Education,Food Service,Phone,31,1071.21,Yes,28890.53,High
+201623,South,Nonprofit,Furniture,Partner,77,2304.62,No,177455.74,High
+201624,West,Government,Technology,Online,11,123.71,Yes,1115.86,Medium
+201625,North,Nonprofit,Technology,Phone,9,2179.41,No,19614.69,High
+201626,East,Wholesale,Office Supplies,Phone,78,2056.86,Yes,131556.77,High
+201627,North,Retail,Furniture,In Person,1,1546.82,No,1546.82,Medium
+201628,West,Nonprofit,Technology,Partner,33,763.62,No,25199.46,High
+201629,South,Education,Office Supplies,Partner,72,1993.48,Yes,127742.2,High
+201630,East,Nonprofit,Food Service,Online,27,569.24,Yes,14601.01,High
+201631,East,Government,Furniture,Phone,53,1143.63,No,60612.39,High
+201632,South,Government,Maintenance,In Person,71,2341.52,Yes,128010.9,High
+201633,South,Education,Technology,Online,68,842.04,Yes,53250.61,High
+201634,North,Education,Office Supplies,Phone,76,1936.75,No,147193.0,High
+201635,West,Retail,Technology,In Person,83,1693.67,No,140574.61,High
+201636,South,Wholesale,Furniture,Partner,14,1935.63,No,27098.82,High
+201637,East,Education,Food Service,In Person,63,914.69,Yes,51862.92,High
+201638,West,Retail,Technology,Partner,6,1092.47,No,6554.82,Medium
+201639,North,Retail,Food Service,In Person,9,580.65,No,5225.85,Medium
+201640,East,Wholesale,Furniture,In Person,29,1425.65,Yes,32661.64,High
+201641,East,Education,Office Supplies,In Person,54,1530.04,Yes,72707.5,High
+201642,South,Retail,Food Service,Online,99,864.17,No,85552.83,High
+201643,East,Nonprofit,Maintenance,Partner,29,567.95,No,16470.55,High
+201644,Central,Government,Maintenance,Partner,78,1518.09,No,118411.02,High
+201645,South,Government,Food Service,In Person,19,496.07,Yes,8954.06,Medium
+201646,North,Wholesale,Furniture,Phone,37,1647.12,No,60943.44,High
+201647,West,Retail,Technology,Online,6,1353.11,No,8118.66,Medium
+201648,East,Education,Food Service,Partner,90,1764.77,No,158829.3,High
+201649,South,Education,Food Service,Partner,64,268.28,Yes,15281.23,High
+201650,Central,Education,Technology,Online,40,2202.13,No,88085.2,High
+201651,South,Government,Food Service,In Person,68,1727.13,Yes,98653.67,High
+201652,North,Wholesale,Food Service,Phone,27,2022.39,Yes,47505.94,High
+201653,West,Government,Maintenance,Phone,78,1881.48,No,146755.44,High
+201654,North,Retail,Maintenance,Phone,43,1115.57,Yes,41253.78,High
+201655,South,Education,Office Supplies,Online,22,757.08,No,16655.76,High
+201656,North,Nonprofit,Furniture,Partner,98,357.86,No,35070.28,High
+201657,East,Wholesale,Food Service,Online,37,149.4,No,5527.8,Medium
+201658,South,Education,Office Supplies,Online,78,2042.22,No,159293.16,High
+201659,East,Education,Technology,Phone,76,1008.62,Yes,68223.06,High
+201660,East,Retail,Furniture,In Person,67,1314.21,No,88052.07,High
+201661,West,Nonprofit,Furniture,In Person,40,332.11,Yes,10893.21,High
+201662,West,Wholesale,Maintenance,Online,9,1534.21,No,13807.89,High
+201663,West,Government,Furniture,In Person,64,844.32,No,54036.48,High
+201664,East,Education,Maintenance,Phone,14,787.71,Yes,10476.54,High
+201665,South,Government,Maintenance,Phone,17,1344.81,No,22861.77,High
+201666,South,Nonprofit,Food Service,Phone,89,1931.08,Yes,158116.83,High
+201667,East,Nonprofit,Food Service,Phone,64,2001.1,No,128070.4,High
+201668,Central,Wholesale,Office Supplies,Online,69,2368.77,Yes,142197.26,High
+201669,North,Nonprofit,Furniture,In Person,29,1309.61,Yes,31902.1,High
+201670,Central,Government,Maintenance,Online,46,1957.61,Yes,70239.05,High
+201671,North,Education,Office Supplies,Phone,90,803.9,No,72351.0,High
+201672,East,Nonprofit,Food Service,Phone,59,1931.27,Yes,94574.29,High
+201673,North,Nonprofit,Food Service,Phone,51,384.01,No,19584.51,High
+201674,North,Education,Food Service,Phone,40,2291.5,No,91660.0,High
+201675,Central,Wholesale,Furniture,Online,19,2278.62,Yes,39830.28,High
+201676,South,Wholesale,Maintenance,Phone,80,1701.9,Yes,104837.04,High
+201677,East,Education,Office Supplies,Partner,29,1480.7,No,42940.3,High
+201678,South,Government,Furniture,Partner,75,2195.83,No,164687.25,High
+201679,North,Education,Technology,Phone,31,1779.89,Yes,41934.21,High
+201680,North,Wholesale,Furniture,Online,11,2453.47,No,26988.17,High
+201681,South,Education,Technology,Online,61,2286.55,No,139479.55,High
+201682,Central,Education,Furniture,Partner,33,583.77,No,19264.41,High
+201683,Central,Education,Furniture,In Person,71,2001.32,Yes,106570.29,High
+201684,Central,Nonprofit,Technology,In Person,12,1238.64,Yes,12336.85,High
+201685,North,Nonprofit,Furniture,Online,28,1222.02,Yes,27031.08,High
+201686,West,Retail,Food Service,Partner,75,1368.11,Yes,82086.6,High
+201687,North,Government,Furniture,Online,33,47.69,No,1573.77,Medium
+201688,East,Wholesale,Office Supplies,Partner,58,939.96,No,54517.68,High
+201689,South,Wholesale,Maintenance,Phone,40,1603.85,No,64154.0,High
+201690,East,Government,Furniture,Partner,21,1102.65,No,23155.65,High
+201691,East,Nonprofit,Furniture,In Person,100,2344.31,Yes,201610.66,High
+201692,West,Government,Food Service,Partner,35,505.93,Yes,14166.04,High
+201693,Central,Retail,Technology,Partner,39,295.54,No,11526.06,High
+201694,Central,Education,Office Supplies,Online,78,1882.48,Yes,117466.75,High
+201695,West,Government,Technology,In Person,80,2194.49,Yes,165025.65,High
+201696,East,Wholesale,Furniture,Partner,99,2086.03,Yes,196191.12,High
+201697,East,Government,Food Service,Online,53,453.96,Yes,22375.69,High
+201698,East,Retail,Office Supplies,In Person,84,2111.96,No,177404.64,High
+201699,North,Wholesale,Furniture,Partner,95,1485.37,No,141110.15,High
+201700,North,Nonprofit,Technology,Partner,53,595.34,No,31553.02,High
+201701,Central,Education,Technology,In Person,78,348.67,No,27196.26,High
+201702,South,Retail,Technology,Online,66,113.44,Yes,5839.89,Medium
+201703,South,Retail,Food Service,Partner,44,2280.52,Yes,78267.45,High
+201704,West,Education,Technology,In Person,99,1595.24,Yes,146873.75,High
+201705,South,Retail,Food Service,In Person,61,1137.16,Yes,61736.42,High
+201706,North,Nonprofit,Maintenance,Online,64,637.45,No,40796.8,High
+201707,South,Wholesale,Office Supplies,Online,65,1875.73,No,121922.45,High
+201708,North,Education,Office Supplies,In Person,56,6.64,No,371.84,Low
+201709,North,Nonprofit,Furniture,Online,18,361.11,No,6499.98,Medium
+201710,Central,Retail,Office Supplies,In Person,64,2150.88,Yes,114254.75,High
+201711,South,Government,Food Service,Online,79,423.8,No,33480.2,High
+201712,North,Government,Office Supplies,Partner,46,1606.84,No,73914.64,High
+201713,Central,Nonprofit,Furniture,Partner,97,1629.06,Yes,150117.88,High
+201714,West,Nonprofit,Furniture,Phone,21,1675.77,Yes,30264.41,High
+201715,South,Nonprofit,Office Supplies,In Person,97,883.09,No,85659.73,High
+201716,Central,Nonprofit,Maintenance,Phone,88,868.96,No,76468.48,High
+201717,East,Retail,Maintenance,Phone,82,183.96,No,15084.72,High
+201718,North,Nonprofit,Maintenance,Phone,18,451.3,Yes,7067.36,Medium
+201719,East,Nonprofit,Food Service,Phone,95,908.03,Yes,74186.05,High
+201720,South,Nonprofit,Food Service,In Person,85,2285.71,No,194285.35,High
+201721,West,Nonprofit,Office Supplies,Phone,72,242.48,Yes,16061.88,High
+201722,Central,Wholesale,Office Supplies,Online,8,1283.52,No,10268.16,High
+201723,West,Nonprofit,Maintenance,Online,33,2275.52,No,75092.16,High
+201724,Central,Nonprofit,Food Service,Partner,79,1675.94,No,132399.26,High
+201725,North,Government,Technology,Online,8,1851.06,Yes,12883.38,High
+201726,West,Government,Office Supplies,Phone,16,1684.86,No,26957.76,High
+201727,East,Wholesale,Office Supplies,In Person,98,1199.41,Yes,99910.85,High
+201728,Central,Government,Technology,Phone,73,200.58,Yes,12592.41,High
+201729,Central,Retail,Food Service,Partner,13,1083.77,Yes,10566.76,High
+201730,East,Retail,Technology,Online,64,2112.14,Yes,110845.11,High
+201731,South,Retail,Food Service,Online,37,486.11,Yes,15468.02,High
+201732,North,Retail,Technology,Online,68,1240.98,Yes,65821.58,High
+201733,East,Education,Food Service,Online,14,618.59,Yes,6495.19,Medium
+201734,South,Government,Office Supplies,Online,86,1777.16,Yes,116155.18,High
+201735,East,Nonprofit,Maintenance,Online,20,813.52,No,16270.4,High
+201736,East,Nonprofit,Technology,In Person,96,452.54,No,43443.84,High
+201737,East,Wholesale,Furniture,Partner,55,588.66,No,32376.3,High
+201738,South,Education,Food Service,Online,30,1705.39,Yes,45533.91,High
+201739,South,Nonprofit,Maintenance,Online,97,891.03,No,86429.91,High
+201740,South,Nonprofit,Food Service,Partner,78,1011.69,No,78911.82,High
+201741,South,Retail,Office Supplies,Phone,2,1430.13,Yes,2374.02,Medium
+201742,East,Nonprofit,Furniture,Partner,25,2339.43,No,58485.75,High
+201743,South,Nonprofit,Office Supplies,In Person,89,826.39,Yes,63987.38,High
+201744,East,Wholesale,Furniture,Online,89,671.72,No,59783.08,High
+201745,East,Wholesale,Technology,Online,88,2281.86,Yes,170683.13,High
+201746,West,Retail,Furniture,Online,95,1568.12,Yes,137053.69,High
+201747,East,Government,Office Supplies,Phone,24,60.67,No,1456.08,Medium
+201748,East,Wholesale,Food Service,Partner,75,2215.28,No,166146.0,High
+201749,West,Nonprofit,Maintenance,Phone,13,1969.4,No,25602.2,High
+201750,East,Wholesale,Food Service,Partner,100,1558.11,Yes,116858.25,High
+201751,Central,Government,Maintenance,In Person,9,1262.72,Yes,9546.16,Medium
+201752,East,Wholesale,Technology,Phone,32,217.71,Yes,5364.37,Medium
+201753,South,Retail,Food Service,Phone,99,414.97,Yes,36563.01,High
+201754,Central,Government,Technology,Partner,73,610.61,Yes,40562.82,High
+201755,South,Nonprofit,Furniture,Phone,92,1109.65,No,102087.8,High
+201756,North,Retail,Maintenance,Partner,81,577.67,Yes,41644.23,High
+201757,South,Education,Food Service,Partner,24,1840.88,No,44181.12,High
+201758,East,Government,Furniture,In Person,14,2372.0,No,33208.0,High
+201759,West,Wholesale,Technology,Online,20,1104.0,No,22080.0,High
+201760,West,Nonprofit,Food Service,In Person,10,427.77,No,4277.7,Medium
+201761,North,Retail,Food Service,In Person,44,931.93,No,41004.92,High
+201762,East,Government,Food Service,Partner,38,2470.17,Yes,73215.84,High
+201763,West,Education,Maintenance,In Person,85,1374.03,No,116792.55,High
+201764,South,Nonprofit,Furniture,In Person,28,997.98,Yes,21516.45,High
+201765,South,Nonprofit,Technology,Phone,1,2097.93,Yes,1783.24,Medium
+201766,South,Education,Maintenance,Online,28,1325.82,Yes,33781.89,High
+201767,West,Retail,Food Service,Phone,99,1299.12,No,128612.88,High
+201768,West,Wholesale,Food Service,Online,10,2088.3,Yes,18168.21,High
+201769,West,Nonprofit,Maintenance,In Person,9,2214.76,Yes,17341.57,High
+201770,North,Government,Food Service,Partner,68,1407.21,No,95690.28,High
+201771,South,Retail,Furniture,Online,42,1281.64,Yes,51137.44,High
+201772,South,Nonprofit,Technology,Online,21,1431.3,No,30057.3,High
+201773,West,Retail,Maintenance,Phone,51,51.54,No,2628.54,Medium
+201774,East,Education,Furniture,Partner,6,630.66,Yes,3178.53,Medium
+201775,Central,Government,Technology,Online,98,1760.14,No,172493.72,High
+201776,East,Government,Maintenance,Partner,90,98.54,No,8868.6,Medium
+201777,North,Nonprofit,Office Supplies,In Person,63,581.8,No,36653.4,High
+201778,South,Wholesale,Furniture,In Person,91,650.35,No,59181.85,High
+201779,East,Retail,Office Supplies,Phone,10,24.05,Yes,223.66,Low
+201780,South,Retail,Office Supplies,Online,70,1157.77,No,81043.9,High
+201781,East,Education,Technology,Online,80,2212.49,No,176999.2,High
+201782,North,Wholesale,Furniture,Online,51,753.34,No,38420.34,High
+201783,West,Retail,Food Service,Online,18,865.35,No,15576.3,High
+201784,East,Education,Food Service,Online,68,133.11,Yes,6969.64,Medium
+201785,West,Wholesale,Maintenance,In Person,38,1593.24,Yes,50856.22,High
+201786,Central,Education,Furniture,In Person,81,1895.03,Yes,118193.02,High
+201787,West,Government,Technology,Phone,6,293.39,Yes,1425.88,Medium
+201788,North,Education,Technology,Online,36,1794.14,No,64589.04,High
+201789,West,Government,Office Supplies,Online,100,2054.12,No,205412.0,High
+201790,East,Education,Technology,Online,51,220.13,No,11226.63,High
+201791,East,Retail,Office Supplies,Phone,35,1491.39,Yes,44368.85,High
+201792,East,Retail,Technology,In Person,11,1355.89,No,14914.79,High
+201793,Central,Government,Technology,Phone,18,1343.73,No,24187.14,High
+201794,Central,Nonprofit,Maintenance,Online,19,639.06,No,12142.14,High
+201795,North,Retail,Furniture,Partner,26,2104.32,Yes,45958.35,High
+201796,East,Education,Office Supplies,Phone,87,1845.68,No,160574.16,High
+201797,West,Nonprofit,Maintenance,In Person,66,554.78,No,36615.48,High
+201798,Central,Education,Maintenance,Phone,61,332.45,No,20279.45,High
+201799,East,Retail,Technology,Partner,40,452.56,Yes,13938.85,High
+201800,South,Wholesale,Maintenance,Phone,76,2367.43,Yes,170928.45,High
+201801,West,Education,Office Supplies,Partner,84,176.42,Yes,12151.81,High
+201802,East,Education,Office Supplies,Phone,31,518.14,Yes,14616.73,High
+201803,East,Education,Food Service,Online,55,1913.18,Yes,79970.92,High
+201804,East,Government,Furniture,In Person,39,1576.36,No,61478.04,High
+201805,East,Education,Furniture,In Person,23,622.48,Yes,10880.95,High
+201806,South,Education,Technology,Partner,90,2184.86,Yes,157309.92,High
+201807,West,Wholesale,Food Service,Phone,86,1390.04,No,119543.44,High
+201808,Central,Nonprofit,Office Supplies,Phone,100,1167.86,Yes,98100.24,High
+201809,West,Education,Technology,Online,1,513.45,No,513.45,Low
+201810,Central,Education,Furniture,Partner,88,1518.71,Yes,104244.25,High
+201811,East,Retail,Maintenance,Partner,55,826.67,No,45466.85,High
+201812,West,Wholesale,Office Supplies,Online,23,355.68,Yes,7198.96,Medium
+201813,South,Wholesale,Maintenance,Phone,10,1314.32,Yes,9988.83,Medium
+201814,Central,Wholesale,Food Service,Partner,73,1349.69,No,98527.37,High
+201815,Central,Retail,Office Supplies,Phone,55,833.65,No,45850.75,High
+201816,East,Retail,Maintenance,Online,31,1158.62,Yes,29811.29,High
+201817,West,Government,Furniture,Partner,33,691.56,No,22821.48,High
+201818,South,Wholesale,Office Supplies,Online,46,945.57,No,43496.22,High
+201819,East,Education,Office Supplies,Partner,85,1380.34,Yes,98556.28,High
+201820,East,Nonprofit,Technology,Phone,6,2031.91,No,12191.46,High
+201821,West,Nonprofit,Technology,Phone,19,207.67,No,3945.73,Medium
+201822,North,Nonprofit,Maintenance,Online,40,1750.75,Yes,58825.2,High
+201823,East,Government,Furniture,Online,51,2124.56,Yes,83431.47,High
+201824,Central,Education,Food Service,Online,79,1376.69,No,108758.51,High
+201825,West,Retail,Food Service,In Person,37,281.99,No,10433.63,High
+201826,Central,Nonprofit,Food Service,Partner,43,1633.48,Yes,58298.9,High
+201827,North,Education,Maintenance,Partner,79,1415.21,Yes,106211.51,High
+201828,West,Retail,Food Service,In Person,94,31.12,Yes,2749.76,Medium
+201829,North,Nonprofit,Furniture,Partner,92,676.59,Yes,46684.71,High
+201830,East,Wholesale,Office Supplies,Partner,32,771.5,Yes,20984.8,High
+201831,South,Retail,Technology,Partner,85,1943.71,No,165215.35,High
+201832,South,Retail,Technology,Phone,81,39.77,No,3221.37,Medium
+201833,West,Nonprofit,Maintenance,Online,28,1727.13,No,48359.64,High
+201834,South,Education,Technology,Partner,100,2227.35,No,222735.0,High
+201835,North,Wholesale,Furniture,Partner,18,616.93,No,11104.74,High
+201836,South,Retail,Technology,Partner,30,484.66,No,14539.8,High
+201837,South,Nonprofit,Food Service,Partner,26,2297.23,No,59727.98,High
+201838,West,Wholesale,Technology,In Person,24,2482.12,Yes,44678.16,High
+201839,Central,Education,Office Supplies,Phone,60,1424.57,No,85474.2,High
+201840,North,Education,Furniture,In Person,13,998.07,No,12974.91,High
+201841,South,Wholesale,Maintenance,In Person,88,939.29,Yes,66126.02,High
+201842,Central,Retail,Food Service,Phone,57,213.2,No,12152.4,High
+201843,West,Wholesale,Furniture,Online,42,557.4,Yes,18260.42,High
+201844,Central,Retail,Technology,Partner,26,956.5,Yes,21387.34,High
+201845,Central,Education,Maintenance,Online,41,1288.51,No,52828.91,High
+201846,North,Wholesale,Food Service,Online,98,1023.91,Yes,76260.82,High
+201847,North,Government,Office Supplies,In Person,52,855.6,No,44491.2,High
+201848,East,Nonprofit,Food Service,In Person,77,691.43,Yes,50578.1,High
+201849,South,Wholesale,Food Service,Phone,57,124.01,No,7068.57,Medium
+201850,East,Education,Office Supplies,Phone,86,13.01,Yes,939.84,Low
+201851,South,Wholesale,Office Supplies,Phone,60,302.19,No,18131.4,High
+201852,East,Nonprofit,Furniture,Online,91,1573.01,No,143143.91,High
+201853,North,Government,Food Service,Partner,13,2005.51,No,26071.63,High
+201854,North,Education,Technology,Partner,51,1689.85,Yes,79287.76,High
+201855,North,Wholesale,Food Service,In Person,95,1897.63,No,180274.85,High
+201856,West,Wholesale,Furniture,Online,31,2120.33,Yes,61786.42,High
+201857,Central,Government,Food Service,Phone,57,2492.4,Yes,109391.44,High
+201858,West,Nonprofit,Office Supplies,Phone,31,2045.46,Yes,58336.52,High
+201859,East,Education,Maintenance,In Person,66,2193.89,No,144796.74,High
+201860,East,Education,Food Service,Online,81,887.12,Yes,62515.35,High
+201861,East,Retail,Food Service,In Person,78,964.9,Yes,66983.36,High
+201862,West,Retail,Technology,Phone,31,1080.34,Yes,27127.34,High
+201863,West,Retail,Maintenance,Partner,57,292.31,Yes,15162.12,High
+201864,West,Education,Food Service,Phone,90,1669.08,Yes,112662.9,High
+201865,South,Wholesale,Office Supplies,Phone,68,792.06,Yes,45242.47,High
+201866,Central,Government,Furniture,Online,65,1864.29,No,121178.85,High
+201867,Central,Nonprofit,Maintenance,Partner,41,1310.12,No,53714.92,High
+201868,North,Nonprofit,Maintenance,Partner,9,2484.84,Yes,18114.48,High
+201869,North,Wholesale,Technology,Phone,93,2499.67,Yes,197598.91,High
+201870,South,Nonprofit,Technology,In Person,90,1362.75,Yes,93212.1,High
+201871,Central,Wholesale,Furniture,Phone,49,2318.0,Yes,87458.14,High
+201872,East,Wholesale,Food Service,Online,13,1301.31,No,16917.03,High
+201873,West,Government,Furniture,Online,11,2144.82,Yes,22177.44,High
+201874,Central,Nonprofit,Office Supplies,Online,23,171.0,No,3933.0,Medium
+201875,Central,Education,Food Service,In Person,69,1518.65,No,104786.85,High
+201876,West,Wholesale,Furniture,Phone,57,911.39,No,51949.23,High
+201877,North,Retail,Maintenance,Online,1,1462.49,Yes,1374.74,Medium
+201878,South,Retail,Furniture,In Person,65,1809.46,No,117614.9,High
+201879,Central,Nonprofit,Technology,In Person,17,2035.37,Yes,29065.08,High
+201880,Central,Retail,Furniture,Online,84,506.52,Yes,34889.1,High
+201881,Central,Education,Food Service,Partner,58,1166.47,Yes,52094.55,High
+201882,South,Wholesale,Food Service,Online,56,2343.21,Yes,124658.77,High
+201883,Central,Retail,Office Supplies,Phone,92,1240.57,No,114132.44,High
+201884,Central,Nonprofit,Maintenance,Online,59,2014.61,No,118861.99,High
+201885,East,Wholesale,Technology,In Person,96,1521.41,Yes,109541.52,High
+201886,West,Nonprofit,Maintenance,Partner,7,2263.29,Yes,11882.27,High
+201887,West,Wholesale,Food Service,In Person,1,349.86,Yes,279.89,Low
+201888,East,Retail,Food Service,Phone,47,368.84,No,17335.48,High
+201889,North,Education,Furniture,Online,82,947.08,Yes,68341.29,High
+201890,West,Wholesale,Food Service,Phone,73,2477.12,No,180829.76,High
+201891,West,Education,Furniture,In Person,48,259.86,No,12473.28,High
+201892,Central,Nonprofit,Maintenance,Online,86,1154.66,No,99300.76,High
+201893,West,Wholesale,Office Supplies,In Person,24,997.93,No,23950.32,High
+201894,West,Nonprofit,Furniture,In Person,15,936.25,No,14043.75,High
+201895,Central,Government,Office Supplies,In Person,56,2114.54,Yes,103020.39,High
+201896,West,Retail,Office Supplies,Online,22,234.19,No,5152.18,Medium
+201897,East,Wholesale,Furniture,In Person,85,2494.1,No,211998.5,High
+201898,South,Nonprofit,Furniture,Phone,70,312.84,No,21898.8,High
+201899,North,Government,Technology,Online,18,647.28,Yes,9320.83,Medium
+201900,East,Wholesale,Maintenance,Phone,47,2418.3,No,113660.1,High
+201901,North,Government,Furniture,Phone,88,168.31,No,14811.28,High
+201902,East,Education,Furniture,Partner,16,667.47,No,10679.52,High
+201903,North,Wholesale,Furniture,In Person,21,2287.44,No,48036.24,High
+201904,East,Nonprofit,Office Supplies,In Person,94,1164.21,Yes,93020.38,High
+201905,South,Wholesale,Food Service,In Person,49,728.14,No,35678.86,High
+201906,West,Government,Technology,Partner,61,884.54,Yes,45323.83,High
+201907,North,Government,Technology,Partner,65,1636.96,Yes,95762.16,High
+201908,East,Nonprofit,Office Supplies,In Person,98,506.57,No,49643.86,High
+201909,West,Education,Food Service,Online,90,1446.8,No,130212.0,High
+201910,South,Wholesale,Maintenance,In Person,30,918.17,No,27545.1,High
+201911,South,Government,Food Service,Partner,50,1159.9,Yes,51035.6,High
+201912,Central,Education,Furniture,Online,13,525.64,No,6833.32,Medium
+201913,North,Education,Office Supplies,Partner,76,1650.01,No,125400.76,High
+201914,West,Education,Maintenance,In Person,40,290.31,No,11612.4,High
+201915,East,Government,Furniture,Partner,46,307.76,No,14156.96,High
+201916,East,Education,Technology,Online,89,1886.49,Yes,159502.73,High
+201917,South,Nonprofit,Technology,Phone,92,2211.78,Yes,193309.57,High
+201918,West,Wholesale,Food Service,Phone,23,1393.32,Yes,30123.58,High
+201919,South,Wholesale,Office Supplies,Phone,44,1687.97,No,74270.68,High
+201920,Central,Wholesale,Food Service,In Person,55,2239.68,No,123182.4,High
+201921,West,Government,Food Service,Online,31,131.43,Yes,3463.18,Medium
+201922,West,Wholesale,Office Supplies,In Person,20,2148.87,No,42977.4,High
+201923,East,Retail,Office Supplies,Partner,24,1479.75,No,35514.0,High
+201924,East,Government,Technology,Phone,27,1222.45,Yes,31355.84,High
+201925,North,Wholesale,Furniture,Partner,94,1994.63,No,187495.22,High
+201926,East,Education,Furniture,Partner,74,522.21,Yes,36711.36,High
+201927,North,Retail,Furniture,Phone,9,2043.97,No,18395.73,High
+201928,West,Retail,Food Service,Partner,88,177.54,Yes,13279.99,High
+201929,North,Education,Furniture,In Person,40,615.91,Yes,23404.58,High
+201930,West,Government,Maintenance,Partner,43,1125.76,Yes,42598.76,High
+201931,Central,Government,Food Service,In Person,93,1723.81,Yes,152298.61,High
+201932,North,Government,Furniture,In Person,80,227.57,No,18205.6,High
+201933,East,Wholesale,Technology,Online,59,779.18,No,45971.62,High
+201934,East,Government,Food Service,Phone,44,1247.77,No,54901.88,High
+201935,West,Education,Maintenance,Partner,37,1586.13,No,58686.81,High
+201936,North,Government,Food Service,Online,83,665.01,Yes,43604.71,High
+201937,South,Education,Maintenance,Phone,86,510.54,No,43906.44,High
+201938,East,Education,Furniture,Online,38,1841.33,Yes,57375.84,High
+201939,South,Government,Technology,In Person,64,1482.41,Yes,74001.91,High
+201940,Central,Government,Furniture,Partner,23,243.83,No,5608.09,Medium
+201941,South,Wholesale,Technology,Partner,33,1403.35,No,46310.55,High
+201942,West,Retail,Furniture,In Person,98,1960.74,No,192152.52,High
+201943,North,Education,Technology,Online,87,1806.63,No,157176.81,High
+201944,East,Wholesale,Office Supplies,Phone,63,1331.28,Yes,67096.51,High
+201945,East,Wholesale,Technology,In Person,44,1317.09,Yes,51577.24,High
+201946,East,Nonprofit,Food Service,Phone,92,850.5,Yes,74333.7,High
+201947,South,Wholesale,Office Supplies,Online,4,640.69,Yes,2127.09,Medium
+201948,South,Government,Food Service,Phone,96,1996.05,No,191620.8,High
+201949,Central,Retail,Technology,In Person,8,733.07,Yes,5454.04,Medium
+201950,East,Retail,Office Supplies,Partner,15,1011.95,Yes,13813.12,High
+201951,East,Education,Maintenance,Online,68,1594.7,Yes,81329.7,High
+201952,Central,Government,Technology,Partner,87,1891.09,Yes,153008.09,High
+201953,West,Retail,Office Supplies,Online,31,1053.2,Yes,25466.38,High
+201954,West,Education,Maintenance,In Person,26,844.4,Yes,19100.33,High
+201955,East,Government,Food Service,Partner,31,1422.83,Yes,41902.34,High
+201956,South,Nonprofit,Food Service,Online,41,929.01,No,38089.41,High
+201957,North,Wholesale,Food Service,Partner,75,735.71,Yes,41935.47,High
+201958,West,Retail,Office Supplies,Partner,33,205.78,Yes,6315.39,Medium
+201959,East,Nonprofit,Office Supplies,Phone,90,1132.02,No,101881.8,High
+201960,South,Education,Technology,Phone,99,264.23,No,26158.77,High
+201961,South,Government,Maintenance,Partner,24,766.07,No,18385.68,High
+201962,West,Wholesale,Furniture,Phone,77,1256.08,Yes,79308.89,High
+201963,West,Retail,Office Supplies,Partner,6,1656.86,Yes,8549.4,Medium
+201964,East,Nonprofit,Maintenance,Phone,63,1198.94,Yes,61937.24,High
+201965,East,Government,Office Supplies,Partner,55,1331.28,Yes,66630.56,High
+201966,South,Nonprofit,Food Service,Online,88,2081.57,No,183178.16,High
+201967,South,Retail,Food Service,Partner,33,1961.16,Yes,52421.81,High
+201968,East,Wholesale,Maintenance,In Person,23,207.36,Yes,3624.65,Medium
+201969,Central,Nonprofit,Furniture,Partner,25,907.6,No,22690.0,High
+201970,East,Wholesale,Furniture,Partner,24,305.63,Yes,6674.96,Medium
+201971,Central,Wholesale,Maintenance,In Person,30,295.67,Yes,6741.28,Medium
+201972,South,Retail,Technology,Online,18,846.9,Yes,13262.45,High
+201973,South,Wholesale,Technology,Online,60,1405.91,Yes,70857.86,High
+201974,West,Retail,Food Service,In Person,89,1740.57,No,154910.73,High
+201975,West,Government,Food Service,In Person,57,2242.56,No,127825.92,High
+201976,Central,Wholesale,Furniture,Phone,9,2230.12,Yes,17461.84,High
+201977,South,Wholesale,Furniture,Phone,18,1836.15,Yes,31067.66,High
+201978,East,Education,Furniture,Partner,21,941.43,No,19770.03,High
+201979,East,Nonprofit,Technology,Phone,95,843.91,Yes,72956.02,High
+201980,West,Education,Technology,In Person,67,1339.35,Yes,74481.25,High
+201981,North,Retail,Furniture,Online,90,1372.51,No,123525.9,High
+201982,Central,Wholesale,Technology,Online,45,2299.42,No,103473.9,High
+201983,Central,Retail,Furniture,Phone,10,1298.74,Yes,11688.66,High
+201984,South,Nonprofit,Maintenance,Online,59,1903.91,No,112330.69,High
+201985,East,Education,Food Service,Phone,17,792.32,No,13469.44,High
+201986,North,Government,Technology,In Person,59,144.3,Yes,8002.88,Medium
+201987,North,Retail,Office Supplies,In Person,52,1985.76,No,103259.52,High
+201988,West,Education,Maintenance,Phone,83,1444.1,Yes,113867.28,High
+201989,Central,Education,Office Supplies,Partner,85,580.35,Yes,38970.5,High
+201990,North,Wholesale,Furniture,Online,99,978.62,Yes,83319.71,High
+201991,North,Government,Maintenance,Partner,17,2111.7,Yes,31950.02,High
+201992,West,Government,Furniture,Phone,7,607.34,No,4251.38,Medium
+201993,North,Government,Maintenance,Online,66,358.69,No,23673.54,High
+201994,North,Retail,Furniture,In Person,80,730.31,Yes,51413.82,High
+201995,Central,Nonprofit,Maintenance,Partner,5,716.42,No,3582.1,Medium
+201996,Central,Government,Office Supplies,Online,75,390.34,No,29275.5,High
+201997,East,Government,Office Supplies,Partner,42,1641.3,Yes,55837.03,High
+201998,Central,Education,Office Supplies,Online,27,2410.04,No,65071.08,High
+201999,Central,Wholesale,Maintenance,Partner,36,739.45,Yes,22893.37,High
+202000,West,Wholesale,Technology,Partner,75,2072.04,No,155403.0,High
+202001,Central,Nonprofit,Office Supplies,Partner,77,923.92,Yes,53356.38,High
+202002,West,Nonprofit,Technology,In Person,21,606.76,No,12741.96,High
+202003,West,Nonprofit,Food Service,In Person,23,921.89,Yes,16538.71,High
+202004,West,Retail,Maintenance,Phone,94,1581.67,No,148676.98,High
+202005,South,Retail,Maintenance,Partner,40,1106.05,Yes,34951.18,High
+202006,South,Education,Food Service,Online,27,888.21,No,23981.67,High
+202007,North,Government,Technology,Phone,2,645.26,Yes,1096.94,Medium
+202008,South,Government,Technology,Online,43,1366.48,No,58758.64,High
+202009,South,Government,Office Supplies,Online,50,1165.97,Yes,50136.71,High
+202010,South,Wholesale,Office Supplies,Phone,55,760.85,Yes,36406.67,High
+202011,West,Nonprofit,Maintenance,In Person,9,294.66,Yes,2360.23,Medium
+202012,East,Education,Furniture,Online,25,2326.26,Yes,45943.64,High
+202013,South,Education,Maintenance,Partner,15,173.29,No,2599.35,Medium
+202014,East,Education,Technology,In Person,95,885.44,Yes,70658.11,High
+202015,South,Nonprofit,Maintenance,Partner,94,1855.76,Yes,144786.4,High
+202016,Central,Retail,Technology,Phone,7,176.42,Yes,1025.0,Medium
+202017,North,Nonprofit,Furniture,Phone,4,2246.12,No,8984.48,Medium
+202018,East,Nonprofit,Office Supplies,Phone,37,1462.49,No,54112.13,High
+202019,North,Nonprofit,Food Service,Online,58,558.22,Yes,29462.85,High
+202020,West,Retail,Office Supplies,Phone,97,1969.35,No,191026.95,High
+202021,North,Education,Technology,In Person,28,900.81,No,25222.68,High
+202022,Central,Nonprofit,Furniture,Online,57,1300.48,No,74127.36,High
+202023,East,Education,Office Supplies,Online,23,634.5,Yes,13280.09,High
+202024,North,Nonprofit,Maintenance,Partner,43,253.36,No,10894.48,High
+202025,North,Wholesale,Technology,Partner,79,295.54,Yes,17510.74,High
+202026,South,Education,Maintenance,Online,30,1969.95,No,59098.5,High
+202027,West,Nonprofit,Technology,Online,79,2494.22,Yes,173398.17,High
+202028,East,Wholesale,Furniture,Phone,2,916.7,Yes,1668.39,Medium
+202029,North,Nonprofit,Furniture,Phone,32,499.69,No,15990.08,High
+202030,Central,Nonprofit,Office Supplies,In Person,66,1688.56,No,111444.96,High
+202031,Central,Wholesale,Food Service,Partner,51,686.95,Yes,28377.9,High
+202032,North,Nonprofit,Technology,In Person,65,911.57,Yes,56289.45,High
+202033,East,Nonprofit,Furniture,Online,57,79.54,Yes,4171.08,Medium
+202034,South,Wholesale,Furniture,In Person,86,683.94,No,58818.84,High
+202035,West,Wholesale,Food Service,Phone,64,2361.27,Yes,132986.73,High
+202036,Central,Wholesale,Furniture,Online,46,2357.81,No,108459.26,High
+202037,West,Government,Office Supplies,In Person,18,1756.83,Yes,28460.65,High
+202038,West,Retail,Maintenance,Partner,49,2299.48,No,112674.52,High
+202039,East,Education,Office Supplies,In Person,97,873.61,No,84740.17,High
+202040,East,Education,Office Supplies,Online,77,2291.41,Yes,165852.26,High
+202041,South,Education,Technology,Online,51,1029.79,No,52519.29,High
+202042,North,Nonprofit,Food Service,Phone,49,1817.92,No,89078.08,High
+202043,West,Retail,Maintenance,Partner,1,337.56,Yes,303.8,Low
+202044,East,Government,Maintenance,Phone,39,523.62,Yes,15520.1,High
+202045,North,Retail,Furniture,Phone,18,793.7,No,14286.6,High
+202046,South,Nonprofit,Maintenance,In Person,33,2204.31,Yes,56738.94,High
+202047,East,Retail,Furniture,In Person,81,1985.08,No,160791.48,High
+202048,North,Retail,Maintenance,Online,9,1794.92,Yes,14215.77,High
+202049,North,Nonprofit,Office Supplies,Partner,29,2179.85,No,63215.65,High
+202050,South,Wholesale,Maintenance,Partner,66,1730.06,Yes,89063.49,High
+202051,North,Wholesale,Office Supplies,Partner,89,2368.95,Yes,170777.61,High
+202052,Central,Education,Technology,Online,53,20.94,Yes,932.25,Low
+202053,South,Wholesale,Technology,Phone,22,1812.25,No,39869.5,High
+202054,Central,Government,Maintenance,Online,37,440.22,No,16288.14,High
+202055,North,Nonprofit,Office Supplies,Phone,23,732.92,No,16857.16,High
+202056,North,Government,Office Supplies,Partner,48,2004.14,Yes,80806.92,High
+202057,East,Wholesale,Food Service,Phone,5,1376.04,Yes,5710.57,Medium
+202058,Central,Education,Maintenance,Online,34,1144.02,No,38896.68,High
+202059,South,Education,Technology,Partner,62,2046.5,No,126883.0,High
+202060,East,Education,Maintenance,In Person,48,2413.75,No,115860.0,High
+202061,South,Government,Food Service,Partner,26,2254.16,Yes,52747.34,High
+202062,North,Education,Technology,Online,50,1393.07,No,69653.5,High
+202063,West,Retail,Furniture,Phone,48,2398.81,Yes,92114.3,High
+202064,East,Nonprofit,Technology,Partner,42,305.21,Yes,10383.24,High
+202065,South,Nonprofit,Furniture,Phone,3,1286.32,No,3858.96,Medium
+202066,South,Nonprofit,Technology,Partner,57,770.95,Yes,39110.29,High
+202067,South,Retail,Maintenance,Phone,12,1215.73,No,14588.76,High
+202068,East,Retail,Technology,In Person,35,556.3,Yes,18302.27,High
+202069,Central,Nonprofit,Food Service,Phone,14,760.71,No,10649.94,High
+202070,West,Government,Furniture,Phone,53,801.25,No,42466.25,High
+202071,South,Government,Food Service,Phone,76,2357.01,Yes,139723.55,High
+202072,West,Retail,Food Service,Partner,75,953.27,No,71495.25,High
+202073,North,Education,Maintenance,Phone,10,105.55,No,1055.5,Medium
+202074,East,Government,Food Service,Partner,21,2147.39,Yes,41487.57,High
+202075,Central,Retail,Maintenance,Partner,53,418.01,Yes,18831.35,High
+202076,North,Wholesale,Maintenance,Phone,32,888.25,No,28424.0,High
+202077,North,Retail,Technology,In Person,45,41.83,Yes,1656.47,Medium
+202078,South,Education,Technology,Phone,57,656.9,No,37443.3,High
+202079,North,Retail,Maintenance,Online,97,572.07,No,55490.79,High
+202080,West,Nonprofit,Office Supplies,Online,33,2179.85,Yes,53951.29,High
+202081,East,Retail,Maintenance,In Person,93,300.71,No,27966.03,High
+202082,East,Education,Food Service,In Person,50,1519.47,No,75973.5,High
+202083,South,Retail,Food Service,Partner,90,1324.54,No,119208.6,High
+202084,North,Wholesale,Maintenance,Partner,89,2252.05,Yes,172371.91,High
+202085,South,Government,Office Supplies,Phone,48,286.29,No,13741.92,High
+202086,North,Government,Technology,Online,47,2330.56,Yes,98582.69,High
+202087,East,Retail,Furniture,Online,64,1624.35,Yes,93562.56,High
+202088,West,Nonprofit,Technology,Online,55,2149.35,Yes,107574.97,High
+202089,North,Nonprofit,Furniture,Partner,34,11.75,No,399.5,Low
+202090,North,Wholesale,Food Service,Phone,59,1113.51,No,65697.09,High
+202091,South,Retail,Furniture,Partner,71,2283.69,Yes,149170.63,High
+202092,North,Wholesale,Food Service,Online,17,1128.39,Yes,14962.45,High
+202093,North,Nonprofit,Office Supplies,Online,77,1200.88,Yes,84145.66,High
+202094,West,Wholesale,Furniture,In Person,10,633.54,Yes,4941.61,Medium
+202095,East,Wholesale,Maintenance,Partner,49,2398.36,Yes,95190.91,High
+202096,East,Wholesale,Food Service,Online,43,1890.28,No,81282.04,High
+202097,Central,Retail,Office Supplies,In Person,24,1946.27,No,46710.48,High
+202098,East,Government,Office Supplies,Partner,83,1803.7,No,149707.1,High
+202099,West,Wholesale,Furniture,Partner,29,746.4,Yes,19264.58,High
+202100,West,Wholesale,Technology,Partner,54,241.57,Yes,12131.65,High
+202101,West,Education,Furniture,Partner,26,532.77,Yes,13159.42,High
+202102,East,Wholesale,Furniture,Online,96,1845.04,Yes,139927.83,High
+202103,South,Nonprofit,Maintenance,Phone,34,1745.0,Yes,45090.8,High
+202104,East,Government,Food Service,Online,43,1801.84,No,77479.12,High
+202105,Central,Retail,Office Supplies,Phone,56,24.62,No,1378.72,Medium
+202106,North,Nonprofit,Food Service,Online,46,2192.51,Yes,81692.92,High
+202107,East,Wholesale,Maintenance,Online,89,518.22,Yes,42431.85,High
+202108,South,Retail,Food Service,In Person,6,2379.11,Yes,13418.18,High
+202109,Central,Wholesale,Food Service,In Person,28,753.99,Yes,16467.14,High
+202110,West,Education,Furniture,Partner,60,563.95,Yes,29438.19,High
+202111,Central,Nonprofit,Technology,Online,1,1640.45,Yes,1230.34,Medium
+202112,North,Education,Maintenance,Phone,85,1734.53,No,147435.05,High
+202113,North,Nonprofit,Furniture,Online,88,1638.78,Yes,108159.48,High
+202114,Central,Retail,Technology,In Person,3,1912.42,Yes,4532.44,Medium
+202115,Central,Nonprofit,Office Supplies,Online,76,2201.13,No,167285.88,High
+202116,West,Nonprofit,Office Supplies,Partner,100,337.14,No,33714.0,High
+202117,Central,Education,Technology,Partner,33,980.32,Yes,30733.03,High
+202118,Central,Education,Office Supplies,In Person,40,555.12,No,22204.8,High
+202119,South,Nonprofit,Food Service,In Person,3,1083.8,No,3251.4,Medium
+202120,North,Education,Technology,Online,4,722.83,Yes,2428.71,Medium
+202121,East,Government,Maintenance,Partner,19,1834.05,Yes,27877.56,High
+202122,Central,Nonprofit,Maintenance,In Person,5,2246.41,No,11232.05,High
+202123,East,Education,Maintenance,Phone,89,2287.63,No,203599.07,High
+202124,South,Retail,Furniture,Online,68,2140.41,Yes,114982.83,High
+202125,West,Retail,Maintenance,Phone,42,2380.41,No,99977.22,High
+202126,East,Wholesale,Food Service,Partner,85,241.44,No,20522.4,High
+202127,East,Education,Furniture,Online,6,1205.11,Yes,5856.83,Medium
+202128,South,Retail,Food Service,In Person,87,960.08,No,83526.96,High
+202129,East,Retail,Food Service,Online,43,2490.73,No,107101.39,High
+202130,South,Government,Furniture,Partner,49,2043.65,Yes,85118.02,High
+202131,West,Retail,Furniture,Online,73,1514.48,No,110557.04,High
+202132,South,Retail,Maintenance,Online,54,2421.29,No,130749.66,High
+202133,North,Government,Furniture,Online,88,221.6,Yes,14625.6,High
+202134,West,Education,Office Supplies,Partner,43,332.87,Yes,12595.8,High
+202135,Central,Government,Furniture,Phone,1,446.35,No,446.35,Low
+202136,Central,Education,Furniture,Partner,85,1556.29,No,132284.65,High
+202137,Central,Government,Maintenance,In Person,58,545.26,Yes,29727.58,High
+202138,North,Retail,Office Supplies,Phone,75,1414.81,No,106110.75,High
+202139,South,Retail,Furniture,Partner,48,43.1,Yes,1592.98,Medium
+202140,North,Education,Office Supplies,In Person,73,89.07,Yes,4876.58,Medium
+202141,Central,Education,Food Service,In Person,57,1363.65,No,77728.05,High
+202142,North,Government,Furniture,Partner,23,1750.95,Yes,32217.48,High
+202143,East,Wholesale,Office Supplies,Phone,55,100.18,Yes,5124.21,Medium
+202144,North,Retail,Furniture,Online,57,1290.1,Yes,60299.27,High
+202145,North,Retail,Food Service,In Person,93,119.09,Yes,8638.79,Medium
+202146,Central,Education,Office Supplies,Partner,78,1284.61,No,100199.58,High
+202147,West,Retail,Food Service,Online,71,20.22,Yes,1263.35,Medium
+202148,North,Wholesale,Maintenance,Phone,65,2184.86,Yes,113612.72,High
+202149,South,Nonprofit,Maintenance,In Person,43,1337.26,Yes,46001.74,High
+202150,West,Retail,Furniture,In Person,100,1281.23,No,128123.0,High
+202151,North,Education,Office Supplies,In Person,84,2298.82,Yes,166066.76,High
+202152,West,Wholesale,Technology,Phone,9,895.57,No,8060.13,Medium
+202153,East,Nonprofit,Food Service,Partner,98,926.78,No,90824.44,High
+202154,South,Retail,Food Service,Online,48,480.48,Yes,19603.58,High
+202155,West,Education,Maintenance,In Person,86,2056.64,Yes,148571.67,High
+202156,Central,Retail,Technology,In Person,26,94.73,Yes,2290.57,Medium
+202157,East,Retail,Office Supplies,Partner,3,2276.42,Yes,5190.24,Medium
+202158,North,Wholesale,Furniture,Phone,17,1455.93,No,24750.81,High
+202159,East,Nonprofit,Technology,Phone,46,240.98,No,11085.08,High
+202160,Central,Retail,Maintenance,In Person,95,745.63,Yes,59501.27,High
+202161,Central,Nonprofit,Office Supplies,Partner,57,871.12,No,49653.84,High
+202162,East,Education,Technology,In Person,88,1505.5,Yes,103337.52,High
+202163,South,Wholesale,Food Service,Partner,23,173.29,No,3985.67,Medium
+202164,West,Education,Office Supplies,Phone,32,810.36,Yes,22041.79,High
+202165,West,Wholesale,Maintenance,Phone,46,1163.1,No,53502.6,High
+202166,North,Education,Food Service,In Person,28,1220.48,Yes,26313.55,High
+202167,South,Government,Maintenance,Partner,21,1431.91,No,30070.11,High
+202168,South,Nonprofit,Maintenance,Partner,73,1580.54,Yes,99226.3,High
+202169,North,Retail,Technology,Partner,9,1734.97,Yes,13897.11,High
+202170,South,Wholesale,Furniture,In Person,84,2068.36,Yes,138993.79,High
+202171,North,Wholesale,Technology,In Person,24,658.26,No,15798.24,High
+202172,North,Nonprofit,Food Service,Phone,67,158.43,No,10614.81,High
+202173,East,Education,Office Supplies,Phone,48,1200.03,Yes,52993.32,High
+202174,West,Nonprofit,Food Service,Phone,87,1430.69,No,124470.03,High
+202175,West,Nonprofit,Furniture,In Person,39,930.32,Yes,31565.76,High
+202176,East,Retail,Technology,Online,80,935.24,Yes,58358.98,High
+202177,East,Government,Office Supplies,Online,64,418.75,No,26800.0,High
+202178,North,Nonprofit,Office Supplies,Online,96,1389.92,No,133432.32,High
+202179,West,Government,Food Service,Phone,37,1886.07,Yes,64201.82,High
+202180,East,Retail,Maintenance,Online,83,2254.05,Yes,145927.2,High
+202181,South,Government,Furniture,Phone,62,1817.19,No,112665.78,High
+202182,Central,Retail,Food Service,Phone,81,1523.49,No,123402.69,High
+202183,West,Education,Office Supplies,Online,30,819.38,Yes,21877.45,High
+202184,West,Education,Furniture,Phone,40,542.08,Yes,18213.89,High
+202185,West,Government,Office Supplies,Phone,94,2388.56,No,224524.64,High
+202186,East,Education,Technology,Online,68,2371.99,No,161295.32,High
+202187,East,Wholesale,Technology,Phone,4,1085.86,No,4343.44,Medium
+202188,West,Wholesale,Technology,Online,70,188.48,Yes,10686.82,High
+202189,South,Nonprofit,Office Supplies,Phone,3,96.68,Yes,237.83,Low
+202190,Central,Education,Furniture,Partner,63,2229.27,No,140444.01,High
+202191,Central,Nonprofit,Furniture,Online,14,262.56,Yes,2756.88,Medium
+202192,West,Education,Furniture,Online,39,237.65,No,9268.35,Medium
+202193,West,Nonprofit,Maintenance,Phone,29,504.11,Yes,11402.97,High
+202194,North,Education,Technology,In Person,56,1886.19,No,105626.64,High
+202195,North,Retail,Food Service,Partner,55,626.28,Yes,30311.95,High
+202196,North,Wholesale,Technology,Online,75,1654.9,Yes,117911.62,High
+202197,Central,Education,Technology,In Person,19,862.0,Yes,14248.86,High
+202198,Central,Retail,Furniture,In Person,27,403.48,Yes,9695.62,Medium
+202199,East,Nonprofit,Food Service,Partner,29,330.24,No,9576.96,Medium
+202200,West,Retail,Furniture,In Person,76,272.97,Yes,18048.78,High
+202201,South,Retail,Office Supplies,Online,63,1893.81,No,119310.03,High
+202202,West,Retail,Maintenance,Online,27,1948.05,No,52597.35,High
+202203,North,Nonprofit,Furniture,Partner,13,1142.5,Yes,13961.35,High
+202204,Central,Wholesale,Food Service,Online,66,1297.51,Yes,75359.38,High
+202205,North,Wholesale,Office Supplies,Phone,47,1012.1,No,47568.7,High
+202206,Central,Nonprofit,Food Service,Online,53,1415.07,Yes,61498.94,High
+202207,West,Retail,Technology,Online,29,146.07,Yes,3431.18,Medium
+202208,North,Government,Food Service,Phone,76,1222.26,Yes,82673.67,High
+202209,Central,Wholesale,Furniture,Online,11,1694.22,Yes,13977.32,High
+202210,Central,Nonprofit,Technology,Partner,73,1169.89,No,85401.97,High
+202211,West,Nonprofit,Office Supplies,Phone,47,412.56,Yes,17257.38,High
+202212,East,Wholesale,Technology,Partner,66,1649.56,No,108870.96,High
+202213,South,Government,Office Supplies,In Person,35,1217.61,Yes,35797.73,High
+202214,Central,Nonprofit,Maintenance,Partner,17,249.28,Yes,3390.21,Medium
+202215,North,Government,Office Supplies,Phone,49,1517.72,No,74368.28,High
+202216,Central,Wholesale,Food Service,Online,18,1258.18,Yes,17664.85,High
+202217,Central,Education,Furniture,Online,72,2493.74,No,179549.28,High
+202218,Central,Wholesale,Technology,Online,70,1564.52,No,109516.4,High
+202219,South,Nonprofit,Office Supplies,Phone,95,1527.98,No,145158.1,High
+202220,West,Nonprofit,Office Supplies,Partner,44,1169.78,Yes,47867.4,High
+202221,East,Nonprofit,Food Service,Phone,99,2310.71,Yes,194446.25,High
+202222,South,Retail,Office Supplies,In Person,39,77.03,Yes,2553.54,Medium
+202223,South,Retail,Furniture,Phone,15,383.2,Yes,4368.48,Medium
+202224,East,Retail,Furniture,Online,52,1137.2,Yes,52038.27,High
+202225,South,Nonprofit,Maintenance,Partner,51,1804.03,Yes,75444.53,High
+202226,South,Education,Technology,Partner,88,182.64,Yes,12536.41,High
+202227,East,Wholesale,Office Supplies,Partner,80,2422.89,Yes,162818.21,High
+202228,Central,Wholesale,Office Supplies,Partner,6,643.36,Yes,3126.73,Medium
+202229,Central,Wholesale,Maintenance,Online,50,741.66,Yes,30037.23,High
+202230,Central,Nonprofit,Food Service,Partner,42,2366.94,Yes,91458.56,High
+202231,Central,Retail,Office Supplies,Online,53,771.5,No,40889.5,High
+202232,South,Retail,Office Supplies,In Person,98,885.19,Yes,67663.92,High
+202233,East,Wholesale,Technology,In Person,96,197.54,Yes,15171.07,High
+202234,East,Education,Furniture,Phone,37,1816.92,Yes,63192.48,High
+202235,West,Education,Furniture,Online,37,370.33,No,13702.21,High
+202236,North,Retail,Food Service,In Person,7,31.23,No,218.61,Low
+202237,East,Government,Food Service,Phone,90,550.58,No,49552.2,High
+202238,East,Government,Furniture,Online,68,940.37,Yes,56911.19,High
+202239,Central,Education,Technology,Phone,56,2384.14,Yes,116155.3,High
+202240,North,Nonprofit,Food Service,Online,32,950.69,Yes,28292.53,High
+202241,West,Education,Office Supplies,Phone,81,1041.83,No,84388.23,High
+202242,West,Nonprofit,Maintenance,Partner,85,721.33,No,61313.05,High
+202243,East,Education,Food Service,Partner,17,2201.27,No,37421.59,High
+202244,West,Retail,Food Service,Partner,81,1530.99,No,124010.19,High
+202245,West,Retail,Furniture,In Person,25,1485.18,No,37129.5,High
+202246,West,Retail,Food Service,In Person,67,1245.23,No,83430.41,High
+202247,North,Education,Maintenance,Partner,28,764.55,Yes,16697.77,High
+202248,North,Nonprofit,Technology,Phone,26,2417.22,Yes,48392.74,High
+202249,South,Education,Maintenance,In Person,69,580.65,Yes,32452.53,High
+202250,West,Nonprofit,Maintenance,Partner,12,693.81,No,8325.72,Medium
+202251,North,Retail,Furniture,Online,42,72.27,Yes,2671.1,Medium
+202252,Central,Wholesale,Food Service,Phone,90,1318.29,No,118646.1,High
+202253,South,Nonprofit,Office Supplies,Partner,28,1859.35,Yes,45293.77,High
+202254,East,Education,Technology,Partner,56,1695.49,Yes,79755.85,High
+202255,North,Education,Office Supplies,Online,65,1817.91,Yes,101621.17,High
+202256,East,Retail,Technology,Partner,71,2464.24,Yes,164463.38,High
+202257,Central,Retail,Food Service,Partner,74,2452.18,Yes,146983.67,High
+202258,East,Education,Office Supplies,Partner,43,1673.49,Yes,57568.06,High
+202259,North,Nonprofit,Furniture,In Person,6,101.76,Yes,470.13,Low
+202260,South,Nonprofit,Food Service,In Person,37,1026.31,No,37973.47,High
+202261,North,Wholesale,Office Supplies,Online,65,732.7,Yes,35719.12,High
+202262,East,Wholesale,Maintenance,Online,87,1816.38,Yes,126420.05,High
+202263,East,Retail,Technology,In Person,21,469.02,No,9849.42,Medium
+202264,North,Retail,Office Supplies,Phone,17,896.84,Yes,11892.1,High
+202265,Central,Wholesale,Furniture,Phone,5,419.21,Yes,1844.52,Medium
+202266,South,Wholesale,Office Supplies,Partner,50,803.81,Yes,31348.59,High
+202267,East,Government,Technology,Online,57,653.71,Yes,33535.32,High
+202268,Central,Government,Maintenance,Phone,55,847.05,Yes,38667.83,High
+202269,North,Retail,Furniture,Online,94,1968.37,Yes,144320.89,High
+202270,Central,Education,Maintenance,In Person,25,318.5,No,7962.5,Medium
+202271,East,Nonprofit,Furniture,Online,27,1320.15,Yes,32079.65,High
+202272,West,Education,Furniture,Phone,38,907.39,No,34480.82,High
+202273,East,Retail,Food Service,In Person,56,1043.89,Yes,48520.01,High
+202274,South,Nonprofit,Office Supplies,Phone,14,583.41,Yes,7596.0,Medium
+202275,South,Education,Food Service,In Person,90,2385.45,Yes,180340.02,High
+202276,North,Nonprofit,Technology,In Person,29,2399.79,No,69593.91,High
+202277,North,Government,Maintenance,In Person,4,2362.65,Yes,7465.97,Medium
+202278,West,Retail,Office Supplies,Online,30,2191.73,No,65751.9,High
+202279,North,Government,Technology,In Person,60,18.44,No,1106.4,Medium
+202280,Central,Education,Office Supplies,Phone,67,1480.0,No,99160.0,High
+202281,North,Education,Food Service,Phone,29,1851.06,Yes,47239.05,High
+202282,East,Retail,Technology,Online,40,2131.37,No,85254.8,High
+202283,West,Nonprofit,Office Supplies,Phone,32,221.64,No,7092.48,Medium
+202284,East,Nonprofit,Technology,Partner,37,796.06,No,29454.22,High
+202285,South,Retail,Technology,In Person,71,1585.73,Yes,88943.6,High
+202286,Central,Retail,Technology,Online,63,655.06,Yes,35078.46,High
+202287,East,Wholesale,Maintenance,Online,84,1566.43,No,131580.12,High
+202288,East,Nonprofit,Furniture,Partner,85,2440.99,No,207484.15,High
+202289,West,Retail,Food Service,Phone,74,1853.43,Yes,122066.9,High
+202290,South,Wholesale,Furniture,In Person,63,755.99,Yes,38578.17,High
+202291,Central,Retail,Technology,Online,41,1611.05,No,66053.05,High
+202292,East,Government,Furniture,Online,25,1234.75,No,30868.75,High
+202293,North,Wholesale,Technology,Partner,55,2454.9,Yes,106665.4,High
+202294,East,Wholesale,Office Supplies,Phone,62,647.83,No,40165.46,High
+202295,West,Government,Furniture,In Person,89,2454.26,No,218429.14,High
+202296,Central,Nonprofit,Furniture,Phone,83,363.93,No,30206.19,High
+202297,East,Education,Maintenance,Partner,92,899.05,No,82712.6,High
+202298,East,Education,Technology,Online,88,407.17,No,35830.96,High
+202299,East,Retail,Technology,Partner,80,261.72,No,20937.6,High
+202300,North,Government,Office Supplies,Online,47,1930.14,No,90716.58,High
+202301,West,Retail,Maintenance,Partner,23,2438.08,No,56075.84,High
+202302,North,Nonprofit,Food Service,Phone,27,490.88,Yes,12060.92,High
+202303,Central,Government,Maintenance,Phone,49,1098.04,Yes,48961.6,High
+202304,South,Government,Technology,Phone,9,710.57,No,6395.13,Medium
+202305,East,Retail,Technology,Online,61,1924.92,Yes,104503.91,High
+202306,South,Nonprofit,Technology,In Person,59,1243.9,Yes,62381.59,High
+202307,West,Retail,Food Service,In Person,47,2295.18,No,107873.46,High
+202308,Central,Education,Food Service,Partner,28,1939.25,Yes,41810.23,High
+202309,East,Education,Furniture,Partner,87,459.44,No,39971.28,High
+202310,South,Nonprofit,Technology,In Person,87,2190.49,No,190572.63,High
+202311,East,Nonprofit,Food Service,Phone,14,1222.93,Yes,15922.55,High
+202312,West,Retail,Maintenance,Online,34,295.52,No,10047.68,High
+202313,West,Nonprofit,Food Service,Online,30,2180.75,Yes,58880.25,High
+202314,North,Nonprofit,Office Supplies,Phone,36,214.64,Yes,5872.55,Medium
+202315,South,Retail,Furniture,Online,72,677.32,Yes,37550.62,High
+202316,North,Wholesale,Office Supplies,In Person,13,1754.34,Yes,20297.71,High
+202317,Central,Education,Food Service,Phone,31,2361.73,No,73213.63,High
+202318,Central,Retail,Technology,Phone,32,428.92,No,13725.44,High
+202319,South,Retail,Technology,Online,90,829.89,No,74690.1,High
+202320,South,Retail,Office Supplies,Phone,82,1958.07,Yes,136477.48,High
+202321,North,Government,Maintenance,Online,56,1726.28,Yes,89904.66,High
+202322,South,Education,Office Supplies,Phone,18,1048.16,Yes,16036.85,High
+202323,South,Retail,Office Supplies,Phone,16,177.01,No,2832.16,Medium
+202324,Central,Government,Furniture,In Person,12,1624.58,Yes,15595.97,High
+202325,Central,Wholesale,Furniture,Partner,76,1468.68,No,111619.68,High
+202326,West,Nonprofit,Office Supplies,In Person,96,498.22,No,47829.12,High
+202327,North,Retail,Technology,Phone,92,1631.95,No,150139.4,High
+202328,Central,Government,Maintenance,In Person,90,2254.92,No,202942.8,High
+202329,North,Retail,Technology,Phone,78,1415.58,Yes,94957.11,High
+202330,Central,Wholesale,Office Supplies,In Person,87,664.95,Yes,49751.56,High
+202331,South,Retail,Food Service,Partner,68,1502.84,No,102193.12,High
+202332,Central,Education,Maintenance,Partner,59,2241.56,No,132252.04,High
+202333,North,Wholesale,Food Service,In Person,46,991.17,No,45593.82,High
+202334,Central,Wholesale,Office Supplies,Online,10,1515.84,No,15158.4,High
+202335,South,Retail,Technology,Online,83,177.47,No,14730.01,High
+202336,South,Retail,Office Supplies,Online,85,1311.87,Yes,93667.52,High
+202337,Central,Retail,Food Service,Online,93,177.01,No,16461.93,High
+202338,Central,Wholesale,Office Supplies,In Person,75,930.76,Yes,55147.53,High
+202339,North,Wholesale,Maintenance,In Person,1,869.59,No,869.59,Low
+202340,East,Nonprofit,Furniture,Online,92,441.52,Yes,32495.87,High
+202341,West,Wholesale,Food Service,In Person,73,215.84,Yes,12762.62,High
+202342,South,Nonprofit,Furniture,Online,94,1839.14,No,172879.16,High
+202343,Central,Government,Technology,Phone,61,2314.16,No,141163.76,High
+202344,South,Nonprofit,Office Supplies,Partner,47,840.63,No,39509.61,High
+202345,West,Wholesale,Food Service,Phone,24,961.32,Yes,17534.48,High
+202346,North,Government,Food Service,Phone,24,2244.3,Yes,45245.09,High
+202347,North,Retail,Maintenance,Phone,74,1049.76,No,77682.24,High
+202348,South,Nonprofit,Food Service,Online,51,1527.44,No,77899.44,High
+202349,West,Nonprofit,Office Supplies,Partner,69,2318.29,Yes,123170.75,High
+202350,West,Nonprofit,Food Service,Online,7,2397.8,No,16784.6,High
+202351,South,Wholesale,Food Service,In Person,88,822.53,No,72382.64,High
+202352,East,Education,Food Service,Online,79,1120.19,Yes,77875.61,High
+202353,Central,Nonprofit,Office Supplies,Online,26,1807.28,No,46989.28,High
+202354,West,Government,Furniture,Online,24,23.32,Yes,453.34,Low
+202355,North,Wholesale,Technology,Partner,67,250.96,No,16814.32,High
+202356,Central,Wholesale,Furniture,Partner,88,100.79,Yes,7095.62,Medium
+202357,West,Wholesale,Technology,Phone,12,808.53,No,9702.36,Medium
+202358,North,Education,Technology,Online,45,1363.74,No,61368.3,High
+202359,Central,Wholesale,Office Supplies,Partner,77,2492.11,Yes,153513.98,High
+202360,East,Education,Technology,Phone,40,2324.21,Yes,83671.56,High
+202361,North,Government,Office Supplies,In Person,69,65.82,Yes,3497.02,Medium
+202362,Central,Retail,Food Service,Online,59,1407.82,Yes,63957.26,High
+202363,West,Nonprofit,Maintenance,Online,57,816.16,No,46521.12,High
+202364,West,Government,Office Supplies,In Person,64,1029.29,No,65874.56,High
+202365,West,Government,Food Service,Online,31,1134.07,No,35156.17,High
+202366,North,Education,Maintenance,Partner,40,708.05,No,28322.0,High
+202367,West,Government,Maintenance,In Person,25,1933.4,Yes,45434.9,High
+202368,East,Education,Furniture,In Person,99,2444.04,No,241959.96,High
+202369,Central,Education,Food Service,In Person,2,163.89,Yes,301.56,Low
+202370,East,Wholesale,Office Supplies,Partner,32,1090.12,No,34883.84,High
+202371,East,Nonprofit,Furniture,Online,89,1794.95,Yes,150165.52,High
+202372,Central,Nonprofit,Maintenance,Online,39,1534.21,Yes,54449.11,High
+202373,Central,Government,Food Service,Phone,32,888.67,No,28437.44,High
+202374,West,Education,Food Service,Online,46,1750.13,Yes,72455.38,High
+202375,North,Retail,Office Supplies,In Person,95,247.14,Yes,19486.99,High
+202376,Central,Nonprofit,Furniture,In Person,100,2056.02,No,205602.0,High
+202377,South,Government,Office Supplies,In Person,64,1181.83,Yes,58996.95,High
+202378,South,Government,Maintenance,Partner,81,1358.43,No,110032.83,High
+202379,South,Government,Technology,Online,45,971.04,Yes,34083.5,High
+202380,West,Wholesale,Technology,Phone,67,17.61,Yes,943.9,Low
+202381,West,Nonprofit,Technology,In Person,69,482.71,Yes,25646.38,High
+202382,North,Nonprofit,Technology,Phone,29,239.25,Yes,6591.34,Medium
+202383,Central,Education,Food Service,Partner,45,2262.92,Yes,76373.55,High
+202384,Central,Retail,Food Service,Phone,77,2103.09,No,161937.93,High
+202385,North,Retail,Maintenance,In Person,91,1000.18,No,91016.38,High
+202386,East,Education,Food Service,In Person,46,264.16,No,12151.36,High
+202387,North,Wholesale,Furniture,Phone,18,1919.38,No,34548.84,High
+202388,Central,Education,Technology,In Person,23,704.9,Yes,15239.94,High
+202389,North,Wholesale,Furniture,In Person,82,1145.33,No,93917.06,High
+202390,South,Education,Technology,Online,13,2412.82,No,31366.66,High
+202391,Central,Retail,Furniture,Phone,58,542.14,No,31444.12,High
+202392,North,Nonprofit,Furniture,Partner,57,1257.98,No,71704.86,High
+202393,South,Nonprofit,Furniture,Partner,45,2287.64,Yes,78237.29,High
+202394,South,Wholesale,Technology,Partner,23,1061.4,Yes,19773.88,High
+202395,Central,Nonprofit,Technology,Online,61,1794.92,No,109490.12,High
+202396,East,Government,Maintenance,Partner,10,965.95,Yes,7437.82,Medium
+202397,East,Wholesale,Maintenance,Online,32,2158.63,Yes,62859.31,High
+202398,South,Retail,Technology,In Person,16,317.47,No,5079.52,Medium
+202399,Central,Retail,Food Service,Partner,34,1842.71,No,62652.14,High
+202400,West,Retail,Maintenance,Partner,34,842.06,No,28630.04,High
+202401,West,Wholesale,Office Supplies,In Person,27,448.23,No,12102.21,High
+202402,Central,Nonprofit,Maintenance,Partner,2,1341.33,Yes,2092.47,Medium
+202403,North,Education,Food Service,In Person,81,1178.51,Yes,79231.23,High
+202404,South,Wholesale,Office Supplies,Phone,20,1168.57,Yes,19631.98,High
+202405,East,Wholesale,Technology,Online,9,727.24,Yes,4974.32,Medium
+202406,West,Nonprofit,Office Supplies,Online,67,703.39,Yes,38644.25,High
+202407,North,Nonprofit,Office Supplies,Phone,70,74.17,No,5191.9,Medium
+202408,North,Retail,Maintenance,Online,66,718.49,Yes,39833.09,High
+202409,West,Nonprofit,Furniture,In Person,60,1122.44,Yes,60611.76,High
+202410,East,Government,Technology,Phone,41,1417.03,No,58098.23,High
+202411,South,Government,Office Supplies,In Person,20,2277.94,No,45558.8,High
+202412,West,Wholesale,Maintenance,In Person,74,1693.44,No,125314.56,High
+202413,Central,Nonprofit,Food Service,Phone,30,990.03,No,29700.9,High
+202414,Central,Government,Food Service,In Person,66,1802.8,No,118984.8,High
+202415,West,Nonprofit,Furniture,Online,38,2057.5,Yes,74275.75,High
+202416,West,Education,Office Supplies,Partner,44,723.14,No,31818.16,High
+202417,Central,Education,Office Supplies,Partner,31,1239.21,No,38415.51,High
+202418,North,Government,Office Supplies,Partner,71,558.16,No,39629.36,High
+202419,West,Education,Furniture,Phone,68,820.28,No,55779.04,High
+202420,East,Education,Food Service,Partner,58,467.18,Yes,20864.26,High
+202421,Central,Retail,Maintenance,In Person,9,1588.71,No,14298.39,High
+202422,North,Government,Office Supplies,In Person,40,2484.71,Yes,75535.18,High
+202423,East,Retail,Maintenance,Online,97,1918.19,No,186064.43,High
+202424,East,Education,Technology,Online,2,1485.37,No,2970.74,Medium
+202425,West,Retail,Technology,Phone,90,1157.42,No,104167.8,High
+202426,East,Wholesale,Maintenance,Online,16,410.41,No,6566.56,Medium
+202427,West,Education,Technology,Phone,68,1878.58,Yes,99639.88,High
+202428,West,Education,Technology,Partner,27,834.12,Yes,17791.78,High
+202429,West,Nonprofit,Technology,In Person,47,581.68,Yes,21324.39,High
+202430,East,Nonprofit,Maintenance,Partner,27,2210.51,Yes,56102.74,High
+202431,North,Government,Food Service,Phone,77,2284.39,Yes,145995.36,High
+202432,East,Education,Food Service,Phone,60,588.56,Yes,30016.56,High
+202433,East,Education,Technology,Online,95,1852.84,Yes,167218.81,High
+202434,East,Nonprofit,Office Supplies,In Person,34,56.76,Yes,1485.98,Medium
+202435,North,Government,Food Service,Partner,38,132.87,Yes,3988.76,Medium
+202436,West,Retail,Furniture,Phone,47,141.48,Yes,4987.17,Medium
+202437,South,Nonprofit,Furniture,Online,22,796.21,No,17516.62,High
+202438,West,Wholesale,Technology,In Person,40,846.04,Yes,28765.36,High
+202439,East,Nonprofit,Technology,Partner,83,1626.48,No,134997.84,High
+202440,East,Education,Technology,In Person,57,1519.46,No,86609.22,High
+202441,South,Nonprofit,Maintenance,Online,70,424.69,Yes,24079.92,High
+202442,East,Wholesale,Food Service,Online,17,1555.4,Yes,21417.86,High
+202443,West,Education,Furniture,In Person,9,180.07,Yes,1490.98,Medium
+202444,West,Government,Office Supplies,Online,59,2010.94,Yes,109153.82,High
+202445,Central,Education,Office Supplies,In Person,44,74.76,No,3289.44,Medium
+202446,West,Education,Maintenance,Online,15,875.8,Yes,10903.71,High
+202447,Central,Wholesale,Furniture,Phone,59,1129.82,Yes,55327.29,High
+202448,West,Education,Maintenance,Online,81,483.86,Yes,35665.32,High
+202449,East,Retail,Office Supplies,Partner,58,1351.33,No,78377.14,High
+202450,South,Retail,Furniture,Partner,76,1679.63,No,127651.88,High
+202451,East,Nonprofit,Technology,Online,7,1553.3,Yes,8915.94,Medium
+202452,West,Government,Office Supplies,Online,88,2067.92,No,181976.96,High
+202453,East,Government,Furniture,Online,99,1552.53,Yes,132182.4,High
+202454,East,Wholesale,Food Service,Partner,100,1542.77,No,154277.0,High
+202455,East,Wholesale,Technology,Online,77,1883.02,Yes,123243.66,High
+202456,North,Retail,Maintenance,In Person,85,424.93,No,36119.05,High
+202457,South,Education,Furniture,Phone,27,116.52,No,3146.04,Medium
+202458,East,Government,Maintenance,In Person,30,2399.79,Yes,59754.77,High
+202459,Central,Nonprofit,Office Supplies,Online,46,996.01,Yes,41234.81,High
+202460,West,Nonprofit,Maintenance,In Person,97,1252.23,No,121466.31,High
+202461,East,Nonprofit,Furniture,Online,54,2230.94,Yes,98786.02,High
+202462,North,Retail,Maintenance,Online,98,1634.48,Yes,139355.76,High
+202463,Central,Wholesale,Food Service,Online,60,1201.32,Yes,64150.49,High
+202464,South,Government,Technology,Online,56,954.18,Yes,47021.99,High
+202465,East,Government,Food Service,Online,73,2461.23,Yes,168889.6,High
+202466,South,Education,Furniture,In Person,89,2351.1,No,209247.9,High
+202467,Central,Nonprofit,Office Supplies,In Person,90,2431.03,No,218792.7,High
+202468,South,Nonprofit,Maintenance,In Person,48,2077.33,No,99711.84,High
+202469,West,Government,Office Supplies,Online,75,1869.44,Yes,110764.32,High
+202470,East,Retail,Maintenance,Online,10,528.84,No,5288.4,Medium
+202471,West,Education,Food Service,Phone,59,1822.11,Yes,88153.68,High
+202472,North,Nonprofit,Technology,In Person,12,953.17,Yes,9722.33,Medium
+202473,South,Retail,Maintenance,Online,53,1409.0,Yes,62728.68,High
+202474,East,Education,Office Supplies,Partner,93,1368.78,Yes,108202.06,High
+202475,East,Government,Technology,Online,37,363.5,No,13449.5,High
+202476,North,Wholesale,Food Service,Phone,42,889.13,Yes,28754.46,High
+202477,East,Wholesale,Maintenance,Phone,48,346.39,No,16626.72,High
+202478,North,Education,Office Supplies,In Person,33,157.75,No,5205.75,Medium
+202479,South,Nonprofit,Technology,Online,43,752.04,Yes,27163.68,High
+202480,East,Government,Office Supplies,Online,88,184.76,Yes,12844.52,High
+202481,East,Retail,Furniture,Online,4,1771.45,No,7085.8,Medium
+202482,North,Nonprofit,Maintenance,Phone,1,546.57,Yes,491.91,Low
+202483,North,Education,Technology,In Person,78,315.9,Yes,20944.17,High
+202484,East,Education,Office Supplies,In Person,61,1602.58,Yes,81138.63,High
+202485,South,Government,Technology,Partner,83,249.99,No,20749.17,High
+202486,South,Education,Furniture,Phone,29,2228.45,Yes,50407.54,High
+202487,West,Wholesale,Maintenance,In Person,37,856.21,Yes,25343.82,High
+202488,West,Government,Furniture,Phone,77,1460.11,Yes,104558.48,High
+202489,Central,Wholesale,Furniture,In Person,35,1826.52,Yes,58813.94,High
+202490,North,Education,Food Service,Online,66,2037.18,Yes,100840.41,High
+202491,East,Government,Food Service,In Person,12,2056.86,No,24682.32,High
+202492,East,Retail,Furniture,Online,73,438.87,Yes,30115.26,High
+202493,Central,Wholesale,Office Supplies,Phone,49,1224.19,No,59985.31,High
+202494,West,Wholesale,Food Service,Phone,25,2492.11,No,62302.75,High
+202495,West,Retail,Maintenance,In Person,60,2452.01,Yes,120638.89,High
+202496,East,Nonprofit,Office Supplies,Partner,76,1929.77,No,146662.52,High
+202497,East,Wholesale,Food Service,Phone,85,1660.79,No,141167.15,High
+202498,East,Government,Maintenance,Online,63,1569.53,Yes,77126.7,High
+202499,South,Nonprofit,Maintenance,In Person,24,2412.33,No,57895.92,High
+202500,North,Retail,Food Service,In Person,20,1848.3,No,36966.0,High
